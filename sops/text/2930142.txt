@@ -1,0 +1,125 @@
+1 
+ 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the safe collection, chain of custody, storage and disposal of explosive 
+ordnances or related materials. 
+ 
+II. POLICY 
+ 
+To maintain safety and integrity of evidence storage areas, explosive ordnances or related 
+materials will be stored separately and securely in an Explosive Storage Magazine.  Each item 
+will maintain a chain of custody and be recorded on a property record receipt. 
+ 
+III. PROCEDURE 
+ 
+A. Scene processing and collection of evidence 
+ 
+1. Explosives or Improvised Explosive Device (IED) materials that are not safe to collect and 
+store as evidence, as determined by a Public Safety Bomb Technician (PSBT), shall be 
+immediately destroyed by EOD personnel.  These materials shall be photographed prior to 
+destruction, if safe to do so. 
+ 
+2. All evidence collected that involves explosives or IED related components, will be collected 
+by a PSBT, or under the supervision of a PSBT, if completed by a CSI investigator from the 
+Indiana State Police (ISP) or another law enforcement agency.   
+ 
+3. All evidence will be recovered/packaged/sealed, when feasible, to ISP’s evidence standards.  
+If an item is too large, or not safe to package according to normal evidence procedures, the item 
+will be tagged with the appropriate information.  If packaging sensitive explosives or explosive 
+related items, the PSBT will follow guidelines from the FBI Hazardous Devices School and/or 
+ATF.    
+ 
+4. An ISP PR&R shall be used to document all evidence collected by PSBT’s.  If an evidence 
+item can be stored through the normal ISP evidence submission process, that process should be 
+utilized.  If the evidence cannot be stored through normal ISP evidence procedures for safety 
+reasons, those items will be documented on a separate PR&R and stored in one of ISP’s 
+explosive storage magazines.  Any changes in the chain of custody before the item is placed in a 
+bunker will be documented on the PR&R.  It is permissible for individual evidence items from 
+the same scene to be processed and submitted differently, depending on the nature of the item.   
+ 
+ 
+ 
+ STANDARD OPERATING PROCEDURE  
+State Form 39870 (R/S -06)  
+Reference Number 
+ SOC-011 
+Subject 
+Explosive Ordnance Disposal (EOD) Evidence Collection, Storage and 
+Disposal 
+Special Instructions  
+NEW 
+Effective Date 
+ October 16, 2024 
+2 
+ 
+B. Magazine Access 
+ 
+a. Only ISP PSBT’s shall have access to ISP’s explosive storage magazines.   
+ 
+b. All ISP magazines will be secured with padlocks that adhere to ATF requirements.  All 
+padlocks will be “keyed” the same.  
+ 
+c. The bomb squad commander shall issue keys to ISP PSBT’s for storage magazines and 
+maintain a log of current personal who are issued a key.   
+ 
+d. If a PSBT’s issued key becomes lost or stolen, the PSBT will immediately notify the bomb 
+squad commander.  The bomb squad commander will then begin the process of obtaining and 
+implementing the replacement of all padlocks at ISP magazines.   
+ 
+C. Evidence Storage in Explosive Storage Magazine 
+ 
+1. Submission procedures: 
+ 
+a. All evidentiary items that will be stored in a magazine will be documented on a Property 
+Record Receipt (PR&R).   
+ 
+b. A physical copy of the PR&R will be placed with the evidence item when it is stored in a 
+bunker.   
+ 
+c. A digital copy of the same PR&R will be attached to the RMS incident report documenting the 
+evidence’s status, chain of custody, and storage location.   
+ 
+2. Evidence Removal and/or Changes in Chain of Custody 
+ 
+a. Any change in the chain of custody and/or removal of evidence from the magazine for testing, 
+analysis, comparison, storage location change, destruction/disposal, and/or for court related  
+activities, shall be documented on the physical copy of the PR&R stored with the evidence item.  
+ 
+b. All changes in evidence status described in section a. above, shall be documented in a 
+supplemental RMS incident report.   
+ 
+c. A supplemental digital copy of the PR&R shall also be attached to the supplemental report, 
+documenting the changes.     
+ 
+d. Upon placing new EOD evidence into a Explosive Storage Magazine, the officer shall notify 
+the bomb squad commander that new evidence was placed into the Magazine. 
+ 
+3. EOD Disposal 
+ 
+a. Any EOD evidence that are identified which can be purged/disposed/destroyed, shall be 
+documented, and preparations made for disposal.   
+3 
+ 
+b. After disposal, the PSBT responsible for the evidence (case officer) shall complete a 
+supplemental RMS report documenting the action.   
+ 
+D. Inventory/Audit 
+ 
+a. An ISP PSBT will be assigned by the bomb squad commander to each magazine for inventory 
+and audit documentation.  An evidence audit/purge inspection shall occur at least once a year, 
+concurrently with one of the monthly inventories.   
+ 
+b. The ISP PSBT responsible for the magazine shall be present, along with at least one other ISP 
+PSBT.   
+ 
+c. The annual inventory/audit shall be documented by the PSBT assigned to the magazine by: 
+ 
+1. Pulling an RMS incident report to document all evidentiary items currently in the magazine 
+and their status; and 
+ 
+2. Comparing all items to inventory/audit list maintained for each magazine. 
+ 
+E. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

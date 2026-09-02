@@ -1,0 +1,103 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+INV-006 
+Subject 
+Arrest Warrant Service 
+Special Instructions 
+Replaces INV-019 dated August 16, 2024 
+Effective Date 
+February 16, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for serving arrest warrants. 
+ 
+II. POLICY 
+ 
+Department personnel shall promptly serve arrest warrants and whenever practical, uniformed 
+personnel should be utilized to alleviate resistance. 
+ 
+III. PROCEDURE 
+ 
+A. Warrants obtained by Department personnel or received from other Indiana law enforcement 
+agencies shall be verified as active prior to attempts to promptly serve. 
+ 
+B. Warrants obtained by Department personnel from out of state criminal justice agencies should be 
+served in accordance with the Uniform Criminal Extradition Act (IC 35-33-10-3). 
+ 
+C.  Officers shall further consider the following factors in determining the priority for service of the 
+warrant: 
+ 
+1. Seriousness of the offense charged; 
+2. Potential for future violence; 
+3. Probability the wanted suspect will flee; 
+4. Date the warrant was issued (IC 35-33-2-4); and 
+5. Any other unusual circumstances which may require immediate attention. 
+ 
+D. Prior to initiating a preplanned arrest (arrest warrant) or search warrant, officers shall complete 
+theWarrant Service CAD. 
+ 
+1. Upon completion of the Warrant Service CAD , the officer shall make the appropriate 
+notifications or seek the appropriate approvals prior to serving the warrant. 
+ 
+E. Upon completion of the warrant service, the assigned officer shall request the appropriate 
+regional dispatch center contact the district or issuing agency and have the wanted entry information 
+removed from NCIC/IDACS. 
+ 
+F. At the time of incarceration, the arresting officer shall be responsible for completing the following 
+appropriate report: 
+ 
+1. A new Initial Criminal Incident Report is required when during any warrant service or any new 
+independent and applicable criminal violations are found (outside the scope of the original 
+warrant(s)) and new charges are filed (that require a criminal incident report to be completed). 
+
+2  
+ 
+2. A supplemental report is required when an arrest is made on a warrant that originated from an ISP 
+Initial Criminal Incident Report. 
+ 
+ 
+Reference guide: 
+ 
+ 
+Originating Agency 
+X indicates required report(s) 
+Criminal Incident Report Supplemental Report 
+ 
+Non-ISP X  
+Non-ISP (w/new 
+charges) 
+X  
+ISP  X 
+ISP (with new charges) X X 
+ 
+G. In addition to the basic information documented as part of either an initial report or a 
+supplemental report the following information should be included: 
+ 
+1. Date and time the warrant was received; 
+2. Source of the warrant; 
+3. Steps taken to verify the warrant; 
+4. Name, address, social security number and date of birth of the defendant; 
+5. Type of criminal incident; and 
+6. Date, time and location the service was completed. 
+ 
+H. All warrants obtained by Department officers (on the basis of an ISP initial criminal incident 
+report) shall be entered into NCIC/IDACS, as soon as practical, in accordance with IC 10-13-3-
+35(2) providing the warrant is not served expeditiously. Department enforcement personnel shall 
+document within the applicable criminal incident report any delay of the NCIC/IDACS information 
+entry and include the following information: 
+ 
+1. Address where the service was attempted; 
+2. Date and time attempted; 
+3. Name of officer who attempted the service; and 
+4. Reason for non-service. 
+ 
+I. Every effort should be made to communicate with other law enforcement agencies in order to 
+apprehend offenders that could not be located and served during the initial warrant service. 
+ 
+J. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

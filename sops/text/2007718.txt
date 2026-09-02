@@ -1,0 +1,141 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+CIS-012 
+Subject 
+Communications Training Program 
+Special Instructions 
+Replaces CJD-017 dated May 7, 2010 
+Effective Date 
+March 1, 2015 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the selection, training, testing and supervision of a Communications 
+Training Officer (CTO); and training, evaluation, testing and reporting of the performance of a 
+newly hired regional dispatch center (RDC) dispatcher in the Communications Training 
+Instructor Program. 
+ 
+II. POLICY 
+ 
+A Communications Training Instructor Coordinator (CTIC) and a Communications Training 
+Instructor (CTI) shall be selected, trained and supervised by the applicable RDC manager. 
+ 
+All newly hired RDC dispatchers shall be trained, tested and evaluated using the APCO 
+guidelines. 
+III. PROCEDURE 
+ 
+A. Communications Training Officers (CTO). CTO candidates shall: 
+ 
+1. Be chosen by the applicable RDC supervisor and endorsed by the applicable commander 
+based on skills, knowledge, abilities and total job performance; 
+ 
+2. Have received a rating of “Meets Expectations” or higher on the last performance evaluation; 
+ 
+3. Have good writing and oral communication skills; 
+ 
+4. Be able to accurately assess the performance of the newly hired RDC dispatcher; and 
+ 
+5. Shall complete the CTO course sponsored, approved or conducted by the Training Section. 
+ 
+B. Communications Training Officer Instructor Coordinators (CTIC) shall: 
+ 
+1. Be selected from either the RDC supervisor or the RDC manager; 
+ 
+2. Complete the CTO course as authorized by APCO Guidelines; and 
+ 
+3. Shall successfully complete training regarding the management of the CTO Program. 
+ 
+C. Supervision of CTICs and CTOs. 
+ 
+1. CTICs shall be supervised by Communications Section Commander; 
+
+2  
+2. CTOs shall be supervised by the CTIC under the direction of RDC manager and the 
+Communications Section Commander; and 
+ 
+3. RDC manager and the Communications Section Commander shall ensure the CTICs and 
+CTOs fulfill the job responsibilities of training and evaluating the newly hired RDC dispatchers 
+and properly submit all required reports. 
+ 
+D. Training of a newly hired CTO. 
+ 
+1. Shall be accomplished through the Traditional Training Program or for operators with 
+previous experience, the Accelerated Training Program as authorized by CIS. The training must 
+strictly adhere to the guidelines in the Communications Training Officers Operational/Training 
+Manual; 
+ 
+2. Additional training requirements – Include all items listed on the ISP Dispatcher New Hire 
+Training Record. A trainee who fails the IDACS, PST1, CPR or EMD examinations may 
+remediate and retake the examination one (1) time. Failure of the retake requires an employee to 
+retake the complete course in its entirety a second time. Failure of the examination a third time 
+will be grounds for termination. 
+ 
+E. Testing and evaluation of a new RDC dispatcher. 
+ 
+1. Daily Observation Report (DOR). 
+ 
+a. Electronic DORs and the task list shall be used to document the daily performance of the 
+regional dispatcher; 
+b. A DOR shall be completed for the RDC dispatcher including days off, sick and training days; 
+and 
+c. If the trainee receives a score of 1, 2, 3, 6, 7 or NR, the trainer must provide an 
+explanation/comment on the DOR. 
+ 
+2. Recertification. 
+ 
+a. All RDC personnel shall recertify biannually in IDACS, CPR and EMD. 
+ 
+b. IDACS recertification shall be accomplished by completing the online training and 
+certification course. 
+ 
+c. C.P.R. recertification shall be accomplished by participating in a course given by the district 
+instructor. 
+ 
+d. EMD recertification shall be accomplished by participating in the Continuous Dispatch 
+Education (CDE) program. Each operator must accumulate at least 12 CDE hours per year for a 
+total of 24 hours per certification period. 
+3  
+e. Failure to maintain the IDACS, CPR and EMD certifications will be sufficient cause for 
+termination. 
+ 
+f. It is the responsibility of the trainee’s supervisor to ensure the training records are entered into 
+the Department Training Records Database. 
+ 
+F. Quality Assurance/Quality Improvement. 
+ 
+1. The Superintendent shall appoint a Quality Assurance/Quality Improvement (QA/QI) 
+committee consisting of: 
+ 
+a. The ISP EMD Manager, who shall serve as the chairperson; 
+ 
+b. The Department EMD and PST1 instructors; 
+ 
+c. A representative of the Training Section and/or CIS; and 
+ 
+d. A physician who is the Department Emergency Medical Director and who shall be consulted 
+to assure the APCO EMDPRS are up-to-date and meet all medical standards. 
+ 
+2. The QA/QI committee shall meet, as required, for review of operation policy requirements. 
+ 
+3. The purpose of the QA/QI committee is to review the operation of the EMD Training Program 
+by case review, data evaluation and feedback reporting; to include: 
+ 
+a. Recordings made on the Indigital logging recorders of all 911 emergency calls and radio 
+traffic; and 
+ 
+b. CAD entries to assure the proper information was obtained and documented. 
+ 
+4. The applicable RDC supervisor shall conduct monthly QA on 7-10% of all emergency calls 
+and radio traffic.  If it is determined a call has been mishandled, or inappropriate radio traffic is 
+discovered, it shall be reported to the QA Chairperson. 
+ 
+G. All RDC personnel shall be familiar with and held accountable for the content of the 
+Communications Training Officers Operational/Training Manual and other relevant training and 
+operational manuals. 
+ 
+H. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

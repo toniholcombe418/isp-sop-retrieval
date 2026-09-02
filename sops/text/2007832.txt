@@ -1,0 +1,591 @@
+1  
+90 
+ 
+STANDARD OPERATING PROCEDURE 
+State Form 39870( R/ S- 06) 
+Reference Number 
+IIS-001 
+Subject 
+Internal Investigations 
+Special Instructions 
+Replaces PST-001 dated November 16, 2023 
+Effective Date 
+June 3, 2025 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for receiving and investigating allegations of employee misconduct received from 
+the public or Department personnel. 
+ 
+II. POLICY 
+ 
+The Department shall investigate all allegations/complaints, as required herein, involving Department 
+employees. Department employees may contact the Superintendent directly for the purpose of reporting 
+alleged misconduct by other personnel. 
+ 
+III. DEFINITIONS 
+ 
+A. ACCUSED EMPLOYEE (AE) – A Department employee who is the subject of an allegation of 
+employee misconduct. 
+ 
+B. ALLEGATION – A complaint submitted to or originated within the Department that alleges an 
+employee has committed a violation of Department policy or statutory law. 
+ 
+C. ASSIGNED INVESTIGATOR – Police personnel (State Police or Capitol Police Section), having 
+the rank of sergeant or above, assigned to conduct an internal investigation. 
+ 
+D. COMMANDER – An employee designated by the Superintendent to have supervisory control over 
+designated employees. 
+ 
+E.  CORRECTIVE ACTION: 
+ 
+1. Supervisory/Administrative actions: Taken by a command officer or supervisor during the course of 
+normal supervisory/administrative functions, not the result of the disciplinary process. 
+ 
+a. Verbal Counseling; 
+b. Written Counseling; and 
+c. Letters of Reprimand. 
+ 
+2. Disciplinary actions: Taken by a Disciplinary Hearing Officer or the Superintendent. 
+ 
+a. Suspension without pay; 
+b. Demotion; or 
+c. Dismissal from the Department. 
+2  
+ 
+F. DISCIPLINARY HEARING OFFICER (DHO) –The Assistant Superintendent, a Division 
+Commander, or a designee from the accused employee’s chain of command.  The appointment of a 
+hearing officer outside of the employee’s chain of command shall only occur upon authorization of the 
+Assistant Superintendent.  
+ 
+G. COMPLAINT – A written or verbal contact with the Department indicating a person is unhappy or 
+dissatisfied with the actions of a Department member. 
+ 
+H. DIRECT DECISION - An abbreviated disciplinary process in instances where the facts are largely 
+undisputed, the allegation is not a serious violation, and the employee agrees to waive the traditional 
+process for an internal investigation and discipline. 
+ 
+I.  DISCIPLINARY ACTION – Actions taken as a result of the disciplinary process involving an 
+allegation of employee misconduct that can lead to a suspension without pay, demotion, or termination 
+of employment. 
+ 
+J.  INTERNAL INVESTIGATIONS SECTION (IIS) – Shall have oversight on all internal 
+investigations and maintain all records of preliminary inquiries, internal investigations, and disciplinary 
+records. The IIS Commander or a designee has the authority to report internal investigation (I.I.) 
+information directly to the Superintendent. 
+ 
+K.  PRELIMINARY INQUIRY - An informal investigation conducted, when appropriate, as a result of 
+an allegation of employee misconduct. A preliminary inquiry shall be documented using the BlueTeam 
+Inquiry Form or directly entering information into IAPro.  
+ 
+L.  RECEIVER – Any employee receiving an allegation of employee misconduct. When possible, 
+civilian employees receiving a complaint or an allegation of employee misconduct about any 
+Department employee should refer the complaint or allegation to an employee’s supervisor or the 
+district duty officer. 
+ 
+M. RECORDINGS (of Interviews) – All interviews for internal investigations with Department 
+employees shall be recorded digitally. All interviews for internal investigations with non-Department 
+employees shall follow the guidelines in section XI-M. 
+ 
+IV. SUPERINTENDENT’S AUTHORITY 
+ 
+The Superintendent has the authority to: 
+ 
+A. Determine whether or not an investigation should occur in response to allegation or report of alleged 
+employee misconduct and who will conduct the investigation; 
+ 
+B. Relieve an employee from duty pending the disposition of an internal investigation or the outcome of 
+a fitness for duty evaluation; 
+ 
+C. Authorize, under special circumstances, an internal investigation to be conducted without prior 
+notification to the accused employee; 
+ 
+D. Authorize an investigation (prior to its completion) to be closed. In such cases, the applicable 
+3  
+commander shall forward all documents, recordings, and evidence pertaining to the investigation 
+directly to the IIS in the prescribed format; 
+ 
+E. Make the determination concerning the method of adjudication in disciplinary matters or authorize a 
+designee to do so; and 
+ 
+F. May direct the applicable DHO to assess disciplinary action against an employee not to exceed ten 
+(10) consecutive workdays off without pay. 
+ 
+G. Pursuant to IC 10-11-2-15(a), the superintendent may discharge, demote, or temporarily suspend an 
+employee of the department for cause, after setting forth charges in writing.  Any allegation shall follow 
+the procedures outlined in this and other IIS procedures that may lead to discharge, demotion, or 
+suspension of an employee. 
+ 
+H. Employees in probationary status who are the subject of an allegation of employee misconduct will 
+be subject of an investigation (inquiry or internal), without the right to a hearing. See Civilian Rule 1, 
+CPS Rule 1, or Police Rule 1. 
+ 
+I. Pursuant to IC 10-11-2-15(i), personnel in a probationary status may be discharged, demoted, or 
+temporarily suspended without the right to a hearing before the Board. The Superintendent, or a 
+designee, shall determine the level of investigation necessary to make employment decisions regarding 
+probationary personnel. 
+ 
+V. INTERNAL INVESTIGATIONS SECTION (Initial Duties) 
+ 
+The Internal Investigations Section (IIS) shall: 
+ 
+A. Have oversight on all preliminary inquiries and internal investigations; 
+ 
+B. Seek input from the appropriate commander regarding a reported allegation; 
+ 
+C. Evaluate each substantiated allegation of misconduct, allegations of misconduct which could result in 
+disciplinary action, and completed preliminary inquiries to provide guidance and direction in 
+determining the appropriate course of action; either supervisory or disciplinary; 
+ 
+D. Assign an I.I. control number for any allegation made that could result in disciplinary action, if 
+substantiated; and 
+ 
+E. The IIS shall evaluate each new internal to determine if the offense and the accused employee are 
+eligible for the option of Direct Decision (see section XI. F). If it is determined the Direct Decision 
+option is available the IIS Commander shall contact the AE’s DHO and discuss this option. 
+ 
+ VI. RECEIVING AN ALLEGATION OF EMPLOYEE MISCONDUCT 
+ 
+A. Allegations of employee misconduct requires the receiver to complete an Inquiry Report in 
+BlueTeam. 
+ 
+B. Upon receipt of an allegation, the receiver shall record all pertinent information from the reporting 
+party into the Inquiry Report in BlueTeam.  Allegations may be received in-person, by telephone, mail, 
+4  
+fax, or email.  The manner in which the complaint was received shall be documented in the summary.  
+A copy of any written complaint or allegation shall be attached to the BlueTeam inquiry report. 
+ 
+C. After completing the above steps, the receiver shall immediately forward the BlueTeam Inquiry 
+Report to their commander. If the accused is assigned to another command, the receiver’s commander 
+shall immediately notify the responsible commander and forward the BlueTeam Inquiry to that 
+commander for review and disposition.  
+ 
+VII. ALLEGATION OF EMPLOYEE MISCONDUCT 
+ 
+When a supervisor/commander becomes aware that a violation of law, Department regulation, rule, or 
+SOP has possibly been committed by an employee, that person shall: 
+ 
+A. Forward an electronic copy of the BlueTeam Inquiry Report to IAPro. 
+ 
+B. Confer with the IIS to determine if the alleged misconduct: 
+ 
+1. If valid, would require disciplinary action; or 
+ 
+2. If the alleged misconduct cannot be immediately classified, then a preliminary inquiry may be 
+conducted to gather additional information. Refer to section VIII; or 
+ 
+3. If it is determined that the alleged misconduct does not warrant disciplinary action then the accused 
+employee’s commander shall refer to section X for proper supervisory actions. 
+ 
+C. The DHO or the AE’s Commander shall ensure the reporting party is: 
+ 
+1. Notified that a preliminary inquiry or internal investigation will be conducted; 
+ 
+2. Provided with the name of a Department contact person; 
+ 
+3. Provided with a “Citizen’s Allegation Procedure brochure;” and 
+ 
+4. The reporting party shall be informed of the outcome of the inquiry or investigation. 
+ 
+VIII. PRELIMINARY INQUIRY 
+ 
+A. Preliminary inquiries may consist of, but are not limited to: 
+ 
+1. Informal, non-recorded interviews of a person(s) making an allegation, witness(es), or Department 
+personnel; 
+ 
+2. A review of Department regulations, rules, and standard operating procedures to verify that the stated 
+allegation constitutes a violation of the same; and 
+ 
+3. A review of the records of the Department or outside agencies that tend to support or contradict the 
+stated allegation. 
+ 
+B. All supporting documents shall be uploaded in the BlueTeam Inquiry Report Attachment Section, 
+5  
+which may include, but not limited to, recordings, interviews, supporting documents, and/or 
+photographs. 
+ 
+C. Inquiry cleared by body worn camera footage (BWC): 
+ 
+1. If the allegation can be quickly resolved by reviewing BWC a Lieutenant may complete an Inquiry in 
+BlueTeam and note in the Summary that the allegation was cleared by BWC and additionally select 
+“Cleared by BWC” in the Categories section. Once the Lieutenant completes the Inquiry, they shall 
+forward it to IAPro.  
+ 
+2. If the allegation is of overbearing, oppressive, or tyrannical conduct; or allegations of discrimination 
+it must also be reviewed by the appropriate Captain prior to being “Cleared by BWC.” The Lieutenant 
+will complete an Inquiry and forward the Inquiry to their Captain for a second review. If the Captain 
+concurs it should be “Cleared by BWC”, and then forwarded to IAPro. If the Captain believes that the 
+allegation needs further investigation, it shall be returned to the Lieutenant or the IIS commander. The 
+URL to the Axon BWC footage shall be included in the Attachment section of the BlueTeam Inquiry. 
+ 
+D. The IIS shall retain all allegations and supporting documentation concerning preliminary inquiries 
+for two (2) years plus the current year from the date the allegation was received. After which all 
+information shall be destroyed unless the inquiry resulted in an I.I. 
+ 
+IX. INQUIRY/INVESTIGATORY GUIDELINES 
+ 
+A. The Superintendent and the Legal Office shall be notified immediately, through the proper chain-of-
+command, of any criminal arrest or other serious breach of conduct by Department personnel. 
+ 
+B. Allegations that allege violations of criminal law shall be investigated in compliance with procedures 
+required by the Department’s rules and regulations, standard operating procedures, and State and 
+Federal laws. The completed criminal investigation shall be presented to the appropriate prosecutor 
+having jurisdiction as to whether or not criminal charges will be filed. 
+ 
+C. A separate I.I. shall be conducted in compliance with the applicable Department regulations, rules 
+and SOPs. Internal and criminal investigations may occur simultaneously; however, each investigation 
+shall be under the control of separate lead investigators. 
+ 
+D. An investigation shall be conducted on any allegation of misconduct involving permanent employees 
+and those probationary employees that could result in suspension, demotion, or dismissal from the 
+Department. 
+ 
+E. Supervisors/commanders may take supervisory/administrative action for a violation of Department 
+policy that was not the result of a preliminary inquiry or internal investigation Refer to section X. 
+ 
+F. All internal investigations are intra-Departmental matters and are to be considered confidential. 
+Department personnel shall not divulge, to any source, the nature of an investigation other than 
+necessary to implement Department policies. 
+ 
+X. SUPERVISORY/ADMINISTRATIVE ACTION (If not applicable proceed to section XI) 
+ 
+A. Supervisory action may be taken by personnel authorized to do so (commanders and supervisors,) 
+6  
+during the course of normal supervisory functions and, not as the result of the disciplinary process.  
+These actions shall be reported and documented with attachments, if applicable, in BlueTeam and may 
+include: 
+ 
+1. Verbal Counseling  
+2. Written Counseling – (State Form #45032); and/or 
+3. Letters of Reprimand. 
+ 
+B. Whenever a transgression is minor in nature and involves matters where counseling and/or training 
+will better serve the interest of the Department, as well as the individual, those options should be given 
+priority. The commander/supervisor shall consider the following criteria in determining whether 
+counseling and/or training is a viable option: 
+ 
+1. Type of allegation; e.g., rudeness, tardiness, delinquent reports, etc. which would normally result in 
+supervisory action unless there are aggravating circumstances; 
+ 
+2. Severity of the allegation; 
+ 
+3. The employee’s Department record; 
+ 
+4. Aggravating or mitigating factors; and 
+ 
+5. The willingness of the employee to accept constructive approaches to rectify the specific problem 
+being addressed. 
+ 
+C. Signed copies of Counseling Forms and Letters of Reprimand issued as a part of 
+supervisory/administrative action, in either a response to an allegation or routine supervisory duties, 
+shall be forwarded electronically to the IIS as outlined in HMR-032 and shall be attached to the 
+BlueTeam inquiry report that is completed.   
+ 
+XI. CONDUCTING AN INTERNAL INVESTIGATION (I.I.) general information. 
+ 
+A. A commanding officer (CO) may discuss the disciplinary process or the status of an investigation but 
+shall refer all requests for specific details concerning the investigation to the IIS. 
+ 
+B. The IIS Commander shall designate or assign an officer to conduct an I.I. regarding the allegation(s) 
+specified in Regulation 7. 
+ 
+C. When an internal investigation is being conducted by an investigator outside the IIS, an internal 
+investigator from the IIS shall be assigned as a liaison to assist the CO and the investigator during the 
+course of the investigation. 
+ 
+D. If an I.I. is initiated due to the AE being the subject of or involved in a criminal investigation, the 
+commander of the investigator assigned to conduct the criminal investigation shall ensure that a copy of 
+the Initial Criminal Incident report, supplemental Criminal Incident report(s), and attachments are 
+forwarded directly to the IIS Commander, as soon as those reports are generated.  It shall be necessary 
+to include, as part of the internal investigative report, a copy of the completed criminal investigation. 
+E. Unless circumstances deem otherwise, the AE’s DHO shall provide the accused, in writing: 
+ 
+7  
+1. Notification that an investigation of alleged misconduct by the accused has been initiated and the 
+basis for the investigation; 
+ 
+2. A statement directing the attention of the accused to the regulation, rule, or standard operating 
+procedure that governs an I.I. or subsequent disciplinary action; and 
+ 
+3. The employee should be given a minimum of 24-hour notification prior to an interview. 
+ 
+F. Direct Decision (if authorized) 
+ 
+1. When authorized, by the IIS Commander or designee, the AE’s commander shall meet with the AE 
+and offer the option of Direct Decision. 
+ 
+a. The commander shall offer the AE the chance to review and sign the I.I. Waiver, which shall waive 
+the right to a full I.I. related to this allegation. 
+ 
+(1) If the AE declines Direct Decision, the commander shall proceed to section “XI. A” (above). 
+ 
+(2) If the AE accepts Direct Decision, the AE must sign the I.I. Waiver and: 
+ 
+i.  The assigned investigator shall schedule an interview with the AE within five (5) days; 
+ii.  The AE shall review and sign the Advice of Administrative Rights Form; 
+iii.  An interview will be conducted by the assigned investigator in the presence of the AE’s commander, 
+or a designee.  
+iv.  The interview shall address the specific allegations and those responses shall be detailed in both the 
+553-B and Summary of the Internal Investigation within IAPro/BlueTeam.  
+v.  All completed 553-B forms (regarding the statements of the AE) and a digital recording of the 
+interview shall be uploaded to BlueTeam or IAPro. 
+ 
+b. The Legal Office shall then complete the Written Charges on the employee and forward to AE’s 
+commander designee. 
+ 
+c. The AE and the AE’s commander shall meet again, at which time the AE shall be presented with: 
+ 
+(1) A Notice of the Disciplinary Hearing/Waiver; and 
+(2) A copy of the Written Charges. 
+ 
+d. If the AE declines to sign the hearing waiver the commander shall refer to section “XI” above and see 
+that an I.I. is conducted as outlined in the remainder of this procedure. 
+ 
+e. If the AE signs the hearing waiver, the commander shall present the AE with the Disposition of the 
+Written Charges and the penalty for the offense. The commander shall then proceed to section XIII. 
+ 
+2. At any time during the Direct Decision process the Department retains the right to conduct an I.I. 
+ 
+G. Interviewing Department Employees: 
+ 
+1. During an I.I. interview the accused employee shall be unarmed and in plain-clothes as outlined in 
+ENF-025. 
+8  
+ 
+2. Department personnel who are being interviewed in relation to an I.I. shall be informed of the nature 
+of the investigation before any interview commences; 
+ 
+3. Department employees shall not be interviewed by more than two (2) investigators at one time and 
+upon written request shall be provided with a digital/audio copy of their statement. 
+ 
+4. Department personnel who may have information relevant* to an investigation may be interviewed; 
+ 
+*NOTE – The Commander of the Internal Investigations Section, after review of the pertinent facts will 
+determine, which employees may be interviewed as having relevant knowledge with due consideration 
+given to if the anticipated information is new, redundant, or has additional evidentiary value. 
+ 
+5. Interviews shall be conducted at a location designated by the investigating officer; 
+ 
+a. If Department employees are directed to leave their area of assignment to report for an interview, the 
+individual’s commander shall be promptly notified; 
+ 
+b. Interviews shall be conducted at a reasonable hour, preferably when Department employees are on 
+duty, unless the circumstances of the investigation dictate an alternate procedure; and 
+ 
+c. All interviews with Department employees shall be recorded; 
+ 
+I. Accused Employees (AE): 
+ 
+1. Prior to an interview, the AE shall read and sign the Advice of Administrative Disciplinary 
+Procedural Rights form. Note the reading and signing of the form on the record, but do not read the 
+entire form; 
+ 
+2. When Department personnel are interviewed concerning an alleged violation of Departmental 
+regulations, rules, and SOPs, which, if proven, could result in disciplinary action, the individual shall be 
+afforded an opportunity to consult with an attorney; 
+ 
+a. Expenses incurred by Department personnel who choose to be represented by counsel shall be the 
+responsibility of the individual, 
+ 
+b. An interview may not be postponed more than 24 hours, and 
+ 
+c. Legal counsel retained by Department personnel may be present during the interview, but shall not 
+participate except to counsel the individual. 
+ 
+3. If during any interview, an employee makes an incriminating statement (relating to a violation of 
+Department policy or law), outside the scope of the original allegation, the interview shall be 
+immediately stopped, and the employee’s commander and the IIS Commander shall be contacted. 
+ 
+a. The AE’s commander and IIS Commander shall determine if a new Inquiry Report within BlueTeam 
+or Internal Investigation Report within IAPro shall be completed or charges/additional charges (criminal 
+or Departmental) are warranted based on the new information. 
+ 
+9  
+b. The initial interview should only resume if it is determined that no further action is required on the 
+new information or at the direction of the IIS Commander. 
+ 
+J. Witness Employees: 
+ 
+1. Shall be informed of their status as a witness prior to the start of the interview; 
+ 
+2. Are required to answer all questions specifically related to the allegations being investigated; 
+ 
+3. Are required to answer all questions completely and truthfully; 
+ 
+4. Shall not be subject to or advised of the Department’s Administrative Rights Warning; and 
+ 
+5. If during an interview, a witness employee makes an incriminating statement (relating to a violation 
+of Department policy or law), the interview should be immediately stopped, and the commander and the 
+IIS Commander shall be contacted 
+ 
+K. Examination of Records or Documents 
+ 
+1. Department records/documents that may pertain to or have evidentiary value to the investigation may 
+be examined; and 
+ 
+2. Non-Department documents and records shall be examined in compliance with existing civil and 
+criminal law or court-imposed regulations. 
+ 
+L. Forensic Examinations 
+ 
+1. The assigned investigator may request if the employee would voluntarily submit to examinations of a 
+forensic nature.  The employee may agree or refuse the request. Forensic examination for an internal 
+investigation may only be ordered by the Superintendent. Requests for such an order shall be forwarded 
+to the Superintendent, through channels.  
+ 
+2. Forensic examinations may be, but are not limited to; 
+ 
+a. Handwriting exemplars, 
+ 
+b. Blood, breath, or urine samples, 
+ 
+c. Participation in a line-up, 
+ 
+d. Request for an employee to pose for photograph, and 
+ 
+e. Polygraph examination: 
+ 
+(i) Department personnel shall not be ordered or asked to submit to any test, examination, or procedure 
+that would violate their constitutional rights. 
+(ii) With the approval of the Superintendent a polygraph examination may be administered, if requested 
+by the accused; however, the results may be used in subsequent administrative actions. 
+(iii) The accused shall not be compelled to submit to a polygraph examination concerning an allegation 
+10  
+without corroborating evidence; unless, the complaining party submits to and passes a polygraph 
+examination beforehand. 
+ 
+(iv) If the complaining party passes the examination or if there is sufficient corroborating evidence, the 
+Superintendent may order the accused to submit to a polygraph examination. Failure of the accused to 
+comply can become the basis for dismissal from the Department. 
+(v) Should the accused be ordered to submit to a polygraph examination, the accused shall be informed 
+that the results of or any information derived from the examination may be used by the Department in 
+administrative actions. 
+ 
+M. Interviewing Non-Department Employees 
+ 
+Interviews with non-Department employees/members of the public shall: 
+ 
+1. Be done in accordance with the same etiquette required as during other investigations; 
+ 
+2. Be recorded, if agreed to, and in compliance with applicable laws; and 
+ 
+3. Not involve more than two (2) investigators at one time.  
+ 
+N. Internal Investigator (Responsibilities) 
+ 
+1. An I.I. shall be given priority over the assigned investigator’s normal duties. 
+ 
+2. The investigator assigned to complete an I.I. shall: 
+ 
+a. Complete the Employee Misconduct - Investigation Interview Form (Stock 553-B) for each individual 
+interviewed; 
+ 
+b. Utilize the body of Form 553-B to summarize the interview; 
+ 
+c. Complete the body of Form 553-B with precise restatements of the individual being interviewed when 
+a recording is not made; 
+ 
+d. Prepare a concise, written summary of the investigation to reflect only the facts determined during the 
+investigation and not the conclusions or opinions of the investigating officer; 
+ 
+e. Submit the completed investigation electronically using BlueTeam or IAPro; and 
+ 
+f. At the close of the investigation, ensure all original investigative materials, recordings, and reports are 
+forwarded and received by the IIS. The investigator shall only retain records for use in their official 
+capacity as an internal investigator.   
+ 
+O. Review and Disposition 
+ 
+1. The appropriate Deputy Superintendent, after consultation with the AE’s chain of command, shall 
+review the completed investigative report electronically through BlueTeam or IAPro and based on the 
+conclusion of facts recommend:  
+ 
+11  
+ 
+a. That the facts do not support the allegation and the case should be concluded as: 
+ 
+(1) UNSUBSTANTIATED – The facts available are insufficient to prove guilt 
+ 
+(2) UNFOUNDED – The facts prove the misconduct in the allegation did not occur or the accused was 
+not involved; or 
+ 
+(3) EXONERATED – The conduct complained of did occur, but under the circumstances was not in 
+violation of Departmental regulations, rules, or standard operating procedures. 
+ 
+b. That the facts support the allegation and the case should be proceed as: 
+ 
+(1) SUBSTANTIATED – SUPERVISORY ACTION - The allegation does not allege a violation of 
+criminal law or rise to the level of a disciplinary issue and can be effectively concluded by referral to 
+supervisory/administrative action; or 
+ 
+(2) SUBSTANTIATED – HEARING - Disciplinary action is recommended (with a recommendation 
+whether or not a hearing should be conducted by the Assistant Superintendent or the Division 
+Commander, or designee.) 
+ 
+2. A recommendation of Substantiated - Hearing shall be forwarded to the Legal Office for written 
+charges to be drafted. 
+ 
+3. Submit the completed investigation, digital recordings, and all related evidence to the IIS, through 
+channels, using BlueTeam. 
+ 
+P. The Commander of the Internal Investigations Section shall: 
+ 
+1. Review the investigation for completeness and conclusions of fact; 
+ 
+2. Cause a review of the investigation with the Office of Professional Standards and Fiscal 
+Responsibility; 
+ 
+3. Forward the completed investigation to the Superintendent or designee for disposition; and 
+ 
+4. Return to the AE’s commander any investigation that the Superintendent determines should be 
+disposed of at the local level. 
+ 
+5. Notify the complainant in writing if the allegation was substantiated, exonerated, unfounded, or 
+unsubstantiated. 
+ 
+XII. WRITTEN CHARGES 
+ 
+A. A copy of the Written Charges and the Investigative Summary shall be personally delivered to the 
+AE by a Commanding Officer or designee.  AE shall receive the charges at least five (5) days, not 
+including Saturdays, Sundays or holidays, prior to the hearing.  
+ 
+1. Written charges shall be based on an act committed or omitted by the accused within one (1) year 
+12  
+prior to the filing of an Allegation of Employee Misconduct form, except when authorized by the 
+Superintendent and the accused has concealed evidence of the offense or evidence sufficient to charge 
+the accused with the offense was unknown and could not have been discovered by exercise of due 
+diligence; 
+ 
+2. Written charges alleging an act which constitutes a law violation shall be filed within a time limit 
+equal to the statutory limitation for filing criminal charges, except when authorized by the 
+Superintendent; and 
+ 
+3. A not guilty finding or prosecutor’s refusal to file criminal charges does not affect the time limit for 
+filing written charges involving a violation of law by the accused. 
+ 
+B. Refer to IIS-002 for information about Disciplinary Hearings and Appeals. 
+ 
+XIII. INTERNAL INVESTIGATION-RECORDS KEEPING 
+ 
+A. The Written Charges, Notice of Hearing, and the Finding and Order shall be forwarded electronically 
+to the IIS. 
+ 
+1. When necessary, the IIS shall prepare the necessary documents for the Superintendent’s signature to 
+remove the accused employee from the payroll. This information shall be forwarded in a memo to 
+Human Resources and copied to the Fiscal Section. 
+ 
+2. The original internal investigation, associated documents, and digital/audio recordings shall be 
+electronically stored within IAPro pursuant to the Records Retention Schedule approved by the Indiana 
+Commission on Public Records. No copies of the I.I., excluding the written charges and the finding and 
+order shall be printed, copied, or retained without authorization from the Superintendent. 
+ 
+B. All inquiries relating to an I.I. shall be referred to the IIS. 
+ 
+C. Upon receipt of a valid legal process, an I.I. report may be viewed and/or copied. 
+ 
+D. Upon request the IIS shall compile annual statistical summaries based upon records of internal 
+investigations and preliminary inquiries for the Department’s Annual Report. 
+ 
+E. This procedure is to be used in conjunction with all relevant Department regulations, rules, policies 
+and procedures.

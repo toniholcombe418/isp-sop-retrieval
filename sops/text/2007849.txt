@@ -1,0 +1,81 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+INV-016 
+Subject 
+Pen Register/Trap and Trace, and Ping 
+Special Instructions 
+Replaces INV-016 dated March 1, 2015 
+Effective Date 
+April 4, 2024 
+ 
+I. PURPOSE 
+ 
+This guideline establishes appropriate procedures for using a Pen Register/Trap and Trace (PRTT) and Ping 
+during criminal investigations. 
+ 
+II. POLICY 
+ 
+A PRTT/PING during criminal investigations should only be considered if the evidence obtained can 
+substantially increase the probability of bringing the investigation to a successful conclusion or 
+apprehension. 
+ 
+III. PROCEDURE 
+ 
+A. All requests to install a PRTT/PING must be written to the Drug Enforcement Section (DES), Technical 
+Services Unit (TSU) Supervisor for review and approval. 
+ 
+1. All requests must contain the following information: 
+ 
+a. Details of the investigation, including, but not limited to: the crime(s) being committed, names of 
+suspects (if known), how the use of PRTT/PING will advance the investigation, and the names of all 
+agencies involved in the investigation; and 
+ 
+b. Service provider and account identifiers on which the PRTT/PING is to be placed. 
+ 
+B. The TSU Supervisor (or designee) shall: 
+ 
+1. Notify the investigating officer of the Approval or Denial of the request. 
+ 
+2. Make the proper Search Warrant template(s) available to the Investigating Officer. 
+ 
+C. The investigating officer, after receiving notification of approval, shall begin steps for securing the 
+search warrant: 
+ 
+1. If the search warrant is submitted to the court and denied, the investigating officer shall immediately 
+notify the TSU Supervisor. 
+ 
+2. If the search warrant is obtained, the investigating officer shall: 
+ 
+a. Immediately notify the TSU Supervisor (or designee) and complete the TSU online request form at the 
+following link:  https://forms.office.com/g/fQrXmiiQEk, 
+and forward a copy of the search warrant. 
+ 
+D. The TSU Supervisor (or designee), after receiving the original search warrant, shall: 
+ 
+1. Coordinate the submission of the search warrant to the service provider; and 
+ 
+
+2  
+E. The TSU Supervisor (or designee) shall oversee the general operation of the PRTT/PING. 
+ 
+F. Upon expiration of the search warrant, the TSU Supervisor (or designee), shall: 
+ 
+1. Coordinate the removal/termination of the PRTT/PING with the service provider. 
+ 
+G. The requesting officer is responsible for retaining any evidence collected for investigative purposes, 
+including historical records provided by service providers and ping emails. 
+ 
+H. Indiana State Police personnel assigned as Task Force Officers with a federal agency may also follow 
+the policies and procedures in place by the designated federal agency. 
+ 
+I. In certain exigent circumstances, the Indiana State Police may find it necessary to initiate the use of a 
+PRTT/PING technique. However, in accordance with IC 35-33-5-12, the law enforcement officer or law 
+enforcement agency shall seek to obtain an order issued by a court based upon a finding of probable cause 
+not later than seventy-two (72) hours after the initial use of the real-time tracking instrument. 
+ 
+J. This procedure will be used with all relevant federal and state laws, department regulations, rules, 
+policies, and procedures.

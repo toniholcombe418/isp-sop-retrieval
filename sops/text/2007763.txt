@@ -1,0 +1,126 @@
+1 
+ 
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+ENF-036 
+Subject 
+Preliminary Breath Testers (PBTs) 
+Special Instructions 
+Replaces ENF-036 dated March 1, 2015 
+Effective Date 
+   February 24, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the requisition, inventory, calibration and disposal of preliminary breath test (PBT) 
+instruments. 
+ 
+II. POLICY 
+ 
+The Department will provide, within the confines of availability, properly calibrated PBTs to enforcement 
+personnel to use to determine the possible blood alcohol content (BAC) of a driver who is under investigation 
+for driving while intoxicated. 
+ 
+III. PROCEDURE 
+ 
+A. PBT Calibration 
+ 
+1. Each district shall have a PBT coordinator. 
+ 
+2. A PBT coordinator (of any rank) shall be selected from enforcement personnel by the district commander. 
+ 
+B. PBT Coordinators shall: 
+ 
+1. Obtain PBTs by the use of RMS form ISP Stockroom Request submitted to the Quartermaster Section; 
+ 
+2. Complete a RMS ISP Logistics Equipment Transfer form when: 
+ 
+a. When a PBT is transferred from one officer to another; or  
+b. When a PBT is relinquished and not reassigned to another officer; or 
+c. When a PBT is submitted to Quartermaster Section for repair, the repair should be noted in the report. 
+ 
+3. Complete an accuracy check/calibration prior to all PBT’s being issued into the field; 
+ 
+4. Ensure no officer is issued more than one (1) Department PBT; 
+ 
+5. Maintain one (1) spare PBT at the district and ensure the PBT is on the district property record; 
+ 
+6. Maintain a calibration log of the PBTs assigned to their district which shall include the following: 
+ 
+a. Accuracy checks on all district PBT’s shall be conducted semi-annually using a dry gas standard issued by 
+Quartermaster.  Calibration shall be completed when a PBT is not within manufacturer’s acceptable 
+tolerances. 
+  
+b. The PBT coordinators shall ensure all accuracy checks and calibrations are documented on the calibration 
+log and all logs maintained at the district. 
+ 
+c. The calibration log shall include the following information: 
+
+2 
+ 
+ 
+(i)  The assigned Officer’s name and PE number; 
+(ii)  Instrument serial number; 
+(iii)  Date and time completed: 
+(iv)  Type of test (accuracy or calibration); 
+(v)  Technician’s name and PE number; 
+(vi)  Location of test; 
+(vii) Standard tank number, lot number, expiration date and target value of standard; 
+(viii) Result. 
+ 
+C. PBT Coordinator Training: 
+ 
+1. PBT Coordinators shall be trained in the proper methods to calibrate PBTs. 
+ 
+2. The training shall be conducted by a qualified PBT Calibration Trainer. 
+ 
+3. At least three (3) district PBT coordinators shall be identified to serve as calibration trainers. The 
+calibration trainers shall conduct periodic PBT calibration training as necessary. One trainer will be 
+geographically located in each of the north, central and south sections of the state. One of the PBT 
+Calibration Trainers shall be assigned to serve as the lead trainer and coordinator of all PBT calibration 
+training. 
+ 
+D. PBT Malfunctions and Repairs. 
+ 
+1. Officers who discover that a PBT is not functioning properly shall make arrangements for the district PBT 
+coordinator to examine and calibrate the instrument. 
+ 
+2. If the PBT Coordinator determines that a PBT needs repair beyond the capabilities of the PBT 
+Coordinator, the PBT Coordinator shall cause the malfunctioning PBT to be delivered to the Quartermaster 
+Section. 
+ 
+3. Replacement Process 
+ 
+a. A replacement PBT will be assigned to the officer whenever possible. 
+b. If a replacement is unavailable for immediate issue: 
+ 
+(i) The Quartermaster Section will contact the officer once the PBT has been repaired; 
+(ii) The Quartermaster Section shall notify the applicable district’s PBT coordinator; and 
+(iii) The PBT coordinator shal arrange for pickup and return of the PBT to the district and/or officer.  
+ 
+4. Non-Repairable PBTs 
+ 
+a. When a PBT is determined to be non-repairable, the Quartermaster Section shall 
+ 
+(i) Complete a Receiving Report (State Form #15838 – Stock #545); and 
+(ii) Record the appropriate notation on the affected officers property record. 
+ 
+b. The district PBT coordinator shall update the PBT inventory/calibration log as  necessary. 
+ 
+ 
+ 
+ 
+3 
+ 
+E. Officer Responsibilities: 
+ 
+To reduce the chance of acquiring a communicable disease, officers should use caution when handling a used 
+mouthpiece after PBT test. Once the testing is complete, the officer who administered the test should remove 
+the mouthpiece from the PBT without touching it with bare fingers and properly dispose of it in a refuse 
+container. 
+ 
+F. This procedure is to be used in conjunction with all relevant Department regulations, rules, policies and 
+procedures.

@@ -1,0 +1,138 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+CIS-002 
+Subject 
+Dissemination of Data via IDACS/NCIC 
+Special Instructions 
+Replaces CJD-002 dated January 15, 2015 
+Effective Date 
+September 1, 2018 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the release of CJI Criminal Justice Information (CJI) and other data 
+received via IDACS/NCIC by Department personnel. 
+ 
+II. POLICY 
+ 
+Department personnel shall release CJI and other data received via IDACS/NCIC only to  
+authorized criminal justice agencies to be used in the discharge of their official, mandated 
+responsibilities. 
+ 
+III. DEFINITIONS 
+ 
+A. System – Refers to IDACS, Nlets, and/or NCIC terminals, equipment, and all data accessible 
+from or stored therein. 
+ 
+B. Criminal Justice Information (CJI) – Information collected by criminal justice agencies or 
+individuals consisting of identifiable descriptions and notations of arrests, indictments, 
+information, and other formal sentencing and correctional system intake, transfer, and release. It 
+includes information obtained from the Interstate Identification Index (III), Gang File, Known or 
+Appropriately Suspected Terrorist File (KST), Supervised Release File, Immigration Violator 
+File (formerly the Deported Felon File), National Sexual Offender Registry File, Protection 
+Order File, and any other information obtained from any FBI Criminal Justice Information 
+System. 
+ 
+C. Criminal Justice Agency (CJA) – Any agency or department of any level of government 
+whose principal function is the apprehension, prosecution, adjudication, incarceration, probation, 
+or rehabilitation of criminal offenders. 
+ 
+D. Other data received via IDACS/NCIC – All data received and transmitted, through the 
+computer terminals, from Criminal Justice Information Services (CJIS) Section, the Bureau of 
+Motor Vehicles (BMV), Delayed Inquiry Hit Response Notifications, and all responses from 
+IDACS/NCIC inquiries. 
+ 
+IV. PROCEDURE 
+ 
+A. Dissemination of Criminal Justice Information via IDACS/NCIC. 
+ 
+1. The Department may provide CJI to, or receive CJI from, any other CJA. This includes any 
+individual or agency: 
+
+2  
+a. For the purpose of criminal justice activities and CJA employment; 
+ 
+b. For any purpose authorized by state statute, executive order (and approved by the Attorney 
+General of the United States), or court rules, decision, or order, as construed by state or local 
+officials or agencies; 
+ 
+c. Pursuant to a specific agreement with a criminal justice agency to provide service required for 
+the administration of criminal justice pursuant to the agreement; and 
+ 
+d. For the purpose of research, evaluation, or statistical activities pursuant to an agreement with a 
+CJA. 
+ 
+2. No agency or individual shall confirm the existence or nonexistence of CJI to any person or 
+agency that would not be entitled to receive the information itself. 
+ 
+B. Dissemination of other data received via IDACS. 
+ 
+1. Data received from CJIS, IDACS/NCIC, and Nlets, through the system, shall be released only 
+to CJAs in the discharge of their official, mandated responsibilities. These agencies include: 
+ 
+a. Police departments at all governmental levels (including private college and national police 
+departments as authorized by Indiana Code) responsible for enforcement of general criminal 
+laws; 
+ 
+b. Hazardous material information may be released to the Indiana State Department of Health, 
+fire departments, or other health care providers in emergency situations; 
+ 
+c. Prospective agencies and departments at all governmental levels; 
+ 
+d. Indiana BMV data can only be released to law enforcement/criminal justice agencies as 
+defined in IC 9-14-3.5-10; 
+ 
+e. Courts at all governmental levels with a criminal or equivalent jurisdiction; 
+ 
+f. Confirmation of the entries into NCIC and IDACS of un-emancipated minors may be released 
+to the parent, legal guardian, or next of kin; 
+ 
+g. Correction departments at all governmental levels, including corrective institutions and 
+probation departments; 
+ 
+h. Parole commissions and agencies at all governmental levels; 
+ 
+i. Agencies at all governmental levels which have as a principal function the collection and 
+providing of fingerprint identification information; and 
+3  
+j. Regional or local governmental organizations established pursuant to statute which collect and 
+process criminal justice information and have been granted access by the Criminal Justice 
+Information Services Division of the Federal Bureau of Investigation (FBI). 
+ 
+2. Delayed Inquiry Hit Response Notifications 
+ 
+Any notifications received, contact will be made to the inquiring or entering agency by a Switch 
+Message via IDACS and by telephone. 
+ 
+3. General information sent via IDACS by switched messages may be released to the public. 
+ 
+4. Severe weather information shall be furnished by the National Weather Service. 
+ 
+C. Each individual employee is responsible for maintaining their own record or audit trail 
+concerning release of system data. 
+ 
+D. Employees authorized to use the IDACS, NCIC, and Nlets systems shall adhere to the 
+guidelines and rules established and maintained in the individual manuals of each system in 
+addition to this SOP. 
+ 
+V. IDACS and NCIC Users. 
+ 
+A. Employees using devices that interface with IDACS/NCIC must be IDACS certified and 
+issued a user name, unique to that employee. Users of the system shall create a unique password 
+that shall remain confidential. No Department employee shall use the authorized user name 
+and/or password of another person or agency to log into the system. Employees shall use due 
+diligence to safeguard the issued user name and password and not share these with others. 
+ 
+B. All non-certified users will have six (6) months to complete the IDACS/NCIC training and  
+pass the written test to become certified. Only authorized users shall access the IDACS/NCIC  
+System. 
+ 
+C. IDACS and NCIC information shall be available to individuals who qualify to have the right 
+and need to know the information. All IDACS/NCIC rules apply. 
+ 
+D. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

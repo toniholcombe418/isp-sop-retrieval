@@ -1,0 +1,331 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+LOG-001 
+Subject 
+Department Supplies and Services 
+Special Instructions 
+Replaces FSS-001 dated March 1, 2015 
+Effective Date 
+March 10, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the procurement, disposal, maintenance, repair, distribution, and inventory 
+of Department equipment, supplies, and services. 
+ 
+II. POLICY 
+ 
+The Office of Professional and Fiscal Responsibility shall oversee the procurement of all supplies 
+and services for the Department. Stock item supplies shall be obtained only by requisition from the 
+Logistics Division.  Non-stock item supplies and equipment shall be obtained only as prescribed 
+by the Logistics Division Commander. All Department property shall be maintained and repaired 
+as outlined in this procedure. 
+ 
+III. DEFINITIONS 
+ 
+A. EQUIPMENT – All items with an expected life of one (1) year or more and a value of more 
+than $500.00. Items shall be assigned a state identification number and serial number, if needed. 
+ 
+B. FIXED ASSETS – Any land, buildings, improvements (other than buildings), construction in 
+progress, and equipment that is purchased, donated, etc., for the state’s use. 
+ 
+C. NON-STOCK – All supplies not listed in the Department stockroom supply catalogues. 
+ 
+D. OPERATIONAL READINESS – Repaired and maintained in a workable condition ready for 
+immediate response. 
+ 
+E. PROCUREMENT – Buying, purchasing, renting, leasing, accepting donations, or otherwise 
+acquiring any supplies, services, or equipment and includes all functions that pertain to the 
+obtaining of any supply or service. 
+ 
+F. PURCHASE ORDER NUMBER – A control number assigned to a given purchase approved by 
+the Department of Administration and processed by the State Auditor, assuring the availability of 
+funds. 
+ 
+G. SERVICES – The furnishing of labor, time, or effort and includes periodical subscriptions and 
+membership fees from outside the Department that require the expenditure of Department funds 
+(includes grant monies). 
+ 
+H. SUPPLIES – All property, including equipment, materials, and goods but excluding real 
+property. 
+ 
+ 
+ 
+
+2  
+I. SURPLUS – The proper disposition of property that is no longer serviceable or needed by the 
+Department, to include: transfer to another agency, trade-in on a new purchase, junk, or sale as 
+approved by the Department of Administration. 
+ 
+J. STOCK ITEM – Those supplies listed in Department stockroom supply catalogues and are 
+available through regular Department requisition. 
+ 
+IV. PROCEDURE 
+ 
+A. The Fiscal Division shall coordinate all procurement and payment activities of the Department. 
+ 
+1. Procurement of supplies and services are not authorized without prior approval from the 
+Logistics Division Commander. 
+ 
+2. The Logistics Division Commander shall not authorize procurement requests for supplies and 
+services when the request: 
+ 
+a. Does not meet requirements of applicable statutes, promulgated rules, or established procedure; 
+b. Is not justified and/or accompanied by properly completed purchase documents. All requests for 
+purchases in excess of $500.00 require submission of a Statement of Justification (SOJ); 
+c. Has not been submitted and approved, through proper channels; and/or 
+d. Budgeting considerations restrict the expenditure of funds. 
+ 
+3. The Fiscal Division shall ensure automated inventory/asset documents are completed for 
+equipment purchases before payment is made. 
+ 
+B. The Facilities Management Unit shall be responsible for the management of the Capital 
+Improvement Program to include new construction, rehabilitation and repair, and preventive 
+maintenance. 
+ 
+C. The Logistics Division shall provide management and support to maintain Department 
+efficiency, inclusive but not limited to the following: 
+ 
+1. Management of the automotive fleet to include procurement, maintenance, repair, equipment 
+installation and removal, distribution and surplus; 
+ 
+2. Support to commanders for the mechanical repair of Department commissions. Non- crash*, 
+mechanical repairs shall be handled as follows: 
+ 
+a. Mechanical repairs made to commissions other than at a district or contract service garage shall 
+require three (3) estimates and authorization by the Logistics Division before the repairs are 
+completed. Upon approval the Fleet Manager shall then authorize a work order number. 
+ 
+b. Commanders shall contact the vendor or instruct the applicable employee to contact the vendor 
+to make the repair and instruct them to: 
+ 
+(1) Include the commission number and the work order number on the final bill;  
+(2) Not include sales tax on the final bill; 
+(3) Ensure the final bill is an itemized invoice and not a simple statement; 
+3  
+(4) Instruct them to forward the bill to the district, section or division commander. 
+ 
+c. The applicable commander shall verify the work is acceptable and check the final bill for errors. 
+The final bill should then be stamped with the certification of service or material received and 
+signed by the appropriate commander. Attach the final bill to the PD49 in the RMS, and copies of 
+the three (3) estimates to the Automotive Section, within 10 days of vendor’s invoice date. 
+ 
+3. Procurement and control of supplies and equipment to ensure sufficient quantities exist to meet 
+the needs of Department functions and operations; 
+ 
+4. Maintaining continuous liaison with the Fiscal Section regarding purchasing procedures, bid 
+evaluations, and requisition deadlines; 
+ 
+5. Maintaining liaison with product vendors regarding the availability of new products, shipments 
+schedules, damaged goods, warranty services, and compliance with specifications; 
+ 
+6. Issuance of stock items listed in the automotive and quartermaster stockroom supply catalogues; 
+ 
+7. Distribution of stock items and non-stock items to field installations; 
+ 
+8. Preparation and distribution of supply catalogues to field installations, with periodic revision, 
+containing a listing of supplies regularly stocked in the automotive and quartermaster stockrooms, 
+listed by stock number and description; 
+ 
+9. Providing current records for the inspection program pertaining to the inventory and inspection 
+of all individually issued equipment and subsequent replacement of worn or otherwise unusable 
+articles; 
+ 
+10. Maintaining an inventory of all Department fixed assets and equipment items; 
+ 
+a. The accounting and reporting requirements established by the State Auditor’s Office shall be 
+followed for reporting of fixed assets. 
+ 
+b. Issue state identification numbers and serial numbers, as needed, for equipment processed 
+through Logistics Asset Management FSS. 
+ 
+c. Maintain automated inventory system files and coordinate changes in status or assignment of 
+issued equipment, as reported by commanders. 
+ 
+d. Issue state identification numbers and serial numbers to division and district commanders for 
+equipment shipped direct to their location. Commanders shall be responsible to provide Logistics 
+Asset Management with the information listed below and permanently affix numbers when 
+received. 
+ 
+(i) Description; 
+(ii) Serial number; 
+(iii) Cost; 
+(iv) Purchase date; 
+(v) Requisition/BA number; 
+4  
+(vi) Purchase Order number; 
+(vii) Vendor; 
+(viii) Location assignment; and 
+(ix) Account number. 
+ 
+11. Assuming responsibility for the assembly, inventory, and disposal of all unclaimed property. 
+Property shall be picked up at field locations with proper notification; 
+ 
+12. Assuming responsibility for the surplus and disposal of property no longer needed by the 
+Department. The disposal of all items shall follow the guidelines set by the Department of 
+Administration and the State Auditor’s office; and 
+ 
+13. Shall accept, pick up, and dispose of property no longer needed from districts, areas and 
+divisions. Commanders are to ensure that items are listed on Receiving Report (State Form #15838 
+- Stock #546). 
+ 
+14. The State Surplus form (IDOA website) must be completed by the district/division and 
+forwarded to Logistics. 
+ 
+D. The Criminal Justice Data Division shall provide adequate management and oversight to 
+maintain Department communications efficiency, inclusive but not limited to: 
+ 
+1. Monitoring the rehabilitation and maintenance of all radio towers and secondary emergency 
+power generating equipment used in the Department’s statewide communication system with 
+consideration of MOU with Integrated Public Service Commission (IPSC); 
+ 
+2. Procurement and monitoring the maintenance of communications equipment, including but not 
+limited to, base station, portable and mobile radios, microwave tower and antenna systems, 
+phones, and pagers, to ensure uninterrupted communications for the efficient operation of the 
+Department; 
+ 
+3. Maintaining continuous liaison with the Fiscal Division regarding purchasing procedures, bid 
+evaluations, and requisition deadlines; 
+ 
+4. Maintaining continuous liaison with the Logistics Division to maintain automated files and meet 
+the State Auditor’s asset reporting requirements; 
+ 
+5. Maintaining liaison with product vendors regarding the availability of new products, shipment 
+schedules, damaged goods, warranty services, and compliance with specifications; 
+ 
+E. Commanders are to forward documents to the Logistics Division for items to be delivered, 
+picked up, or transferred. 
+ 
+1. Commanders shall requisition stock item supplies monthly by submitting a request for properly 
+completed Stockroom Request-Shipper forms (State Form #39169 – Stock #536) to the 
+Quartermaster Section. A separate form is required for items requested from each stockroom 
+catalogue. 
+ 
+a. All districts and GHQ entities shall submit requisitions prior to the 1st of each month. 
+5  
+b. Area captains, area investigative commanders, and district investigative commanders shall 
+submit their requisitions in conjunction with the district where they are located. 
+ 
+2. Commanders should complete a Receiving Report (Stock #546) for items to be picked up listing 
+item, description, asset number, and signature of the person responsible. A copy of this receiver 
+and a comment on the receiver requesting pick up should be forwarded to the Quartermaster 
+Section with the monthly requisition for supplies. 
+ 
+3. Commanders requesting transfer of equipment from one division/district to another or from one 
+individual to another are to complete Transfer of Equipment (Stock #400) and forward to the FSS 
+with monthly requisition. 
+ 
+4. Commanders requesting pickup of unclaimed property are to forward a list of property or a copy 
+of Property Record and Receipt form (Stock #533 – multi-copy report/not available online) to the 
+FSS with monthly requisition. 
+ 
+F. Requisitions for firearms training supplies shall be submitted separately and sent to the 
+Department’s armorer for approval. The armorer shall verify the need for these supplies requested 
+and forward approved requests to the Quartermaster Section. 
+ 
+G. Emergency stock item supplies may be obtained at the appropriate stockroom during regular 
+business hours.  Stock numbers should be provided when making these requests. If more than five 
+(5) different supply items are requested, a completed Stockroom Request-Shipper must be 
+provided to the stockroom with commander’s approval. 
+ 
+H. Procurement of non-stock items shall be coordinated, through the Fiscal Section that shall 
+direct the requesting person to the appropriate division/section for proper procurement. 
+ 
+I. Commanders and employees responsible for the procurement of equipment, supplies, or services 
+shall: 
+ 
+1. Diligently pursue purchase of quality equipment, supplies, and services, keeping in mind all cost 
+factors that best serve the Department’s economic needs; 
+ 
+2. Maintain quality control in the purchase of supplies and services, adhering to economic and 
+safety interests of the Department; 
+ 
+3. Provide to the Logistics Division all identifying information needed for asset inventory 
+immediately upon receipt of any equipment, supplies, or services not obtained from the Logistics 
+Division stockrooms. Information shall include but not be limited to: copy of purchase order, serial 
+numbers, current physical location, and name of assigned or responsible employee. A copy of the 
+invoice and payment document shall be acceptable if state purchase order is not used; and 
+ 
+4. An automated receiver must be attached with each purchase order showing quantity, 
+description, serial numbers, asset numbers, and cost for equipment purchases, before it can be 
+processed for payment by the Fiscal Section. 
+ 
+J. To further promote the economy of supplies, all employees requesting supplies shall assume 
+responsibility for proper usage, security and accountability and certify the supplies are necessary 
+6  
+in the performance of assigned duties. 
+ 
+K. Requests for specialized or undercover investigative equipment. 
+ 
+1. Requests for issuance of undercover vehicles shall be made, through channels, to the FSS 
+Commander and shall be routed through the Special Investigations Command (SIC) Commander. 
+ 
+2. Undercover vehicle requests shall be written and contain the following information: 
+ 
+a. Name, PE number, and rank of requesting officer; 
+ 
+b. Length of assignment shall be either temporary (and must include the number of days needed) 
+or permanent (and include the officer’s permanent duty assignment); 
+ 
+c. An indication whether undercover license plate and registration, and gasoline credit card are 
+needed; 
+ 
+3. Records pertaining to the identity of undercover officers shall be strictly maintained by the SIC 
+to ensure confidentiality. 
+ 
+4. Employees issued undercover identification shall take precautions to maintain confidentiality 
+and shall report potential security breaches to their immediate supervisor. 
+ 
+5. Requests for other specialized or technical investigative equipment, not available at area or 
+district headquarters, shall be made, in writing, through channels, to the Investigations Division 
+Commander. Some examples of equipment available include: 
+ 
+a. Body worn transmitters and recorders; 
+b. Undercover hand-held radio transceivers; 
+c. Photographic surveillance lenses; 
+d. Night vision devices; 
+e. Vehicular tracking devices; 
+f. Thermal imaging devices; 
+g. Alarm systems; and 
+h. Dialed number recorders (see INV-016). 
+ 
+L. Commanders shall ensure that stored items of Department equipment are maintained in a state 
+of operational readiness until the items are issued or assigned for use. 
+ 
+1. The Logistics Commander is responsible for equipment in Logistics stockrooms. 
+ 
+2. The Investigations Division Commander is responsible for specialized investigative equipment 
+in the custody of the Technical Equipment Section. 
+ 
+3. The Commercial Vehicle Enforcement  Division (CVED) Commander is responsible for 
+specialized commercial vehicle inspection equipment in the CVED general stock. 
+ 
+ 
+ 
+7  
+M. Repair of property. 
+ 
+1. Uniform items may be repaired locally with approval from the division or district commander 
+when the cost does not exceed $100 dollars. Payment shall be made from the Petty Cash fund. 
+Repairs to uniform items exceeding $100 dollars shall be referred to the Fiscal Section. 
+ 
+2. As per CPS-001, ENF-021, and CVE-003, any alterations to uniform shirts or pants shall be 
+done at the Department’s expense.  Alterations shall not be made to any Department jacket, 
+raincoat or dress blouse. 
+ 
+3. Repairs to other Department property may be authorized by division or district commanders 
+when such repairs do not exceed $500 dollars; payment shall be made from 
+the Petty Cash fund or Purchasing Card. Repairs in excess of $500.00 shall be made only as 
+authorized by the Fiscal Division Director. 
+ 
+4. Department firearms shall be repaired only upon the recommendation of the district or GHQ 
+firearms instructors. Such firearms shall be properly tagged with a firearms tag supplied by the 
+firearms instructor. Firearms shall be delivered in inspection condition to the Department Armorer 
+at the Quartermaster Section for repair. 
+ 
+N. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

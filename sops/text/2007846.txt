@@ -1,0 +1,161 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+INV-004 
+Subject 
+Use of Audio/Video Equipment 
+Special Instructions 
+Replaces INV-002 dated October 30, 2024 
+Effective Date 
+October 24, 2025 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for utilization of audio/video recording equipment by Department personnel.  
+This SOP does not apply to Law Enforcement Recordings (see ENF-010). 
+ 
+II. POLICY 
+ 
+Department audio/video recording equipment shall be used for Department investigations. After 
+being used, recordings shall be maintained, as outlined in this procedure. Department employees are 
+prohibited from making unauthorized recordings.  
+ 
+III. DEFINITIONS 
+ 
+A. AUDIO/VIDEO RECORDING(S) – Any audio, audiovisual, or visual recordings created on a 
+device other than a law enforcement recording device.  Such as pole cameras, cell phone recordings, 
+surveillance recordings, etc. 
+ 
+B. LAW ENFORCEMENT RECORDING (LER) - means an audio, visual, or audiovisual recording 
+of a law enforcement activity captured by a camera or other device that is provided to or used by an 
+officer in the scope of their duties and designed to be worn by the officer or attached to their vehicle 
+or transportation. See Ind. Code 5-14-3- 2(k) 
+ 
+C. LAW ENFORCEMENT RECORDING DEVICE (LERD) – a camera or other device 
+that is provided to or used by an officer in the scope of their duties and designed to be 
+worn by the officer or attached to their vehicle. This term encompasses body worn 
+cameras and dash cameras. 
+ 
+IV. PROCEDURE 
+ 
+A. All duty related audio/video recordings made by Department employees shall immediately 
+become property of the Department and will be subject to the Department’s procedures.  
+Department employees shall not use audio/video recording equipment in any manner that would be in 
+violation of Regulation 7. 
+ 
+B. All recordings of interrogations for felony custodial arrests shall follow the guidelines established 
+in INV-001 and shall not be conducted on a LERD unless exigency necessitates it. 
+ 
+C. Employees shall take into consideration the following factors when considering the use of any 
+recording equipment: 
+ 
+1. Time and place to be used; 
+2. Subject matter to be recorded; and 
+3. Whether or not such recording is legal. 
+
+2  
+D. Audio/video-recording equipment may be utilized, whenever practicable, in the areas of: 
+ 
+1. Surveillance; 
+2. Aerial photography; 
+3. Training; and/or 
+4. Recording of; 
+ 
+a. Statements, 
+b. Interviews, 
+c. Crime scenes, 
+d. Confessions, or 
+e. Investigative conversations. 
+ 
+E. The use of audio/video recording equipment shall not eliminate the need for photography.  
+ 
+F. Department employees wishing to utilize audio/video recording equipment for public relations 
+should contact the District Public Information Officer. 
+ 
+G. Department employees with a need to utilize specialized audio/video recording equipment that is 
+not assigned to them shall request the use of such equipment, through the Investigations Division 
+Commander.  All such equipment used shall be operated in a manner consistent with Department 
+policies and any legal requirements. 
+ 
+H. Recordings* shall be uploaded, by the investigating officer, into Evidence.com under the 
+associated CAD number for storage.  Only one CAD should be used for an incident/investigation.  If 
+additional recordings are taken on a later date, such as during investigatory follow-up, they shall be 
+labeled under the original CAD number. 
+ 
+*NOTE – Recordings from special equipment such as pole cameras or wiretaps, will be maintained 
+by the Investigative Support Section and not uploaded into Evidence.com due to legal requirements 
+and volume of recordings.  Recordings of polygraph exams will be uploaded if recorded on 
+compatible equipment.  If an exam is completed on non-compatible equipment, if shall be stored by 
+the Forensic Service Division for the appropriate retention period. 
+ 
+I. Recordings shall be categorized for retention as follows: 
+ 
+1. Capture - Crash Non-Criminal – five (5) years; 
+2. Capture - Criminal Level 5 Felony or Lower - twenty (20) years; 
+3. Capture - Criminal Level 4 Felony or above - ninety-nine (99) years; 
+4. Capture - Death Investigation (to include homicide, suicide, or accidental) - ninety-nine (99) years;  
+5. Capture - ICAC* - ninety-nine (99) years; 
+6. Capture - Evidence Destruction - three (3) years; 
+7. Capture - Infraction/Inspection - three (3) years; 
+8. Polygraph Criminal - ninety-nine (99) years; 
+9. Polygraph Non-Criminal – two (2) years. 
+ 
+J. Retention shall be extended when the pending criminal action or appeal is not yet completed. 
+ 
+K. Officers shall regularly review their evidence and categorize and label any recording that does not 
+3  
+contain both pieces of information. 
+ 
+L. All recordings related to an internal investigation shall be maintained in accordance with 
+procedures established by the Internal Investigation Section. 
+ 
+M. All recordings made as part of the Training Academy shall be maintained in the recruit school 
+files and retained for two years. 
+ 
+N. All recordings made as a result of monitoring a wire intercept shall be maintained according to law 
+and any relevant court order. 
+ 
+O. Officers shall, upon request, notify any party whether the interaction is being recorded. 
+ 
+P. Employees shall not duplicate, copy, disseminate, edit, alter, erase, or tamper with any audio/video 
+recording outside of the procedure outlined in this policy. 
+ 
+Q. Employees shall not take screenshots, photos, snippets, or recordings of any audio/video recording 
+outside of Evidence.com without a specific need to do so and only with prior authorization of a 
+supervisor.  Any copy shall be retained and documented as to why the copy was needed. 
+ 
+R. Employees shall not access or attempt to access any audio/video recording for which they do not 
+have an official purpose. 
+ 
+S. Officers should enter notes with the reason for review into evidence.com when accessing a 
+recording. 
+ 
+T. Release: 
+ 
+1. Officers shall provide the prosecutor of jurisdiction with any and all audio/video recordings related 
+to a criminal case that they have filed.  
+ 
+2. Members of the public that request video of an encounter shall be directed to submit their request 
+in writing to ISP APRA Portal. 
+ 
+3. A request from the public for a LER received by an officer, district, or other personnel shall be 
+forwarded to their ISP Zone Legal Counsel. 
+ 
+4. Upon receipt of a request, the Legal Office will review the request and either deny the release of 
+the video or release the video with the appropriate redaction applied as outlined in Ind. Code 5-14-3 
+et seq. and any other applicable laws. 
+ 
+U. Department issued recording devices shall not intentionally be used for the sole purpose of 
+recording another employee unless the other employee is aware. All other recording devices, not 
+defined as LERDs, shall not be used to record Department employees unless all Department 
+employees being recorded are aware the recording is being made or unless authorized by the 
+Superintendent and otherwise lawful. 
+ 
+V.  Department personnel shall not utilize non-Department issued recording equipment. 
+ 
+4  
+W. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

@@ -1,0 +1,330 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+SSU-007 
+Subject 
+Small Unmanned Aerial Systems (SUAS) 
+Special Instructions 
+Replaces SSU-007 dated January 30, 2026 
+Effective Date 
+    February 24, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the operation, training and storage of Department owned small unmanned 
+aerial systems. 
+ 
+II. POLICY 
+ 
+Department employees shall operate a Department owned small unmanned aerial system (SUAS) 
+in a safe, lawful and prudent manner regardless of the employee’s duty status. 
+SUAS shall only be operated by a department qualified operator. Employee shall not utilize a 
+Department owned SUAS in a manner that will reflect discredit on the Department. 
+ 
+The decision to deploy an SUAS shall: (1) adhere to the guidelines set forth in this policy; (2) 
+follow all applicable state and federal laws; and (3) be at the discretion of the Superintendent or 
+their designee. An SUAS may be deployed for training and testing and evaluation by the 
+Department. 
+ 
+III. DEFINITIONS 
+ 
+A. APPROVED AIRCRAFT - An aircraft that has been approved by the program coordinator and 
+included in the Superintendent’s statement of airworthiness for use in the Department’s area of 
+responsibility and in compliance with the Federal Aviation Administration’s (FAA) issued 
+Certificate of Authorization. 
+ 
+B. CERTIFICATE OF AUTHORIZATION (COA) - An authorization issued by the FAA Air 
+Traffic Organization to a public operator for a specific activity. The Department shall acquire and 
+maintain an FAA issued COA and all Department authorized qualified operators shall fly in 
+accordance with the COA. 
+ 
+C. PROGRAM COORDINATOR - A Department representative serving as a liaison between the 
+Department and the FAA. The program coordinator shall conduct and document initial training, 
+monthly FAA reporting and ensure all SUAS operations are conducted in accordance with the 
+conditions and limitations stated in the COA. 
+ 
+D. QUALIFIED OPERATOR - A sworn Department member selected and trained by the 
+Department to fly an approved unmanned aircraft. The qualified operator is responsible for 
+inspecting the SUAS to ensure it is in a condition for safe operation. 
+
+2  
+E. SMALL UNMANNED AIRCRAFT SYSTEM (SUAS) – a small unmanned aircraft and its 
+associated elements (including communication links and the components that control the small 
+unmanned aircraft) that are required for the safe and efficient operation of the small unmanned 
+aircraft in the national airspace system. 
+ 
+F. VISUAL OBSERVER - A person designated by the qualified operator to assist with 
+observation and avoidance of air traffic and/or objects aloft or on the ground. 
+ 
+IV. PROCEDURES 
+ 
+A. Training 
+ 
+1. Prior to the deployment of the SUAS, an officer must first attend Department approved training. 
+In addition, the officer must either pass the FAA’s Part 107 knowledge testand obtain a Remote 
+Pilot Certificate, or be covered under the department’s FAA Form 7711-1 (COA).  Official 
+certifications and any related transcripts shall be submitted by the employee to the Training 
+Division to retain in Acadis. 
+ 
+2. The training shall include, but is not limited to, the following topics: 
+ 
+a. Federal Aviation Regulations regarding SUAS; 
+b. FAA Form 7711-1 Certificate of Waiver/Authorization (COA); 
+c. National Airspace System; 
+d. Weather; 
+e. SUAS Loading and Performance; 
+f. Crew Resource Management; 
+g. Airport / Field Operations; 
+h. Radio Communications; 
+i. Emergency Procedures; 
+j. Preflight / Maintenance;  
+k. SUAS Practical Instruction; and 
+l. Any ISP Standard Operating Procedure regarding use of SUAS. 
+ 
+3. Qualified operators shall be allowed one (1) hour per week of SUAS proficiency training during 
+regular duty hours so long as it does not negatively affect Department operations. 
+ 
+4. Documentation of all proficiency training flights shall be in accordance with section IX of this 
+SOP. 
+ 
+5. Qualified operators shall undergo a yearly refresher training program established by the 
+Department to maintain their status as a qualified operator. 
+ 
+a. Police employees failing to complete this annual refresher training without prior approval must 
+submit a memorandum (through channels) to the Deputy Superintendent of the Enforcement 
+Bureau. 
+ 
+b. Failure to complete any subsequent refresher training offered will result in the loss of the police 
+employee’s qualified operator status. 
+ 
+3  
+B. Utilization 
+ 
+1. A qualified operator, with the approval of the applicable Area Captain, their designee, or the 
+operator’s corresponding section command, may be allowed to use a SUAS in compliance with all 
+FAA requirements and guidelines, including the COA or Waiver from the FAA, as well as any 
+other applicable law, under the following circumstances, to include, but not limited to: 
+ 
+a. Crash investigation purposes; 
+b. Public safety, to include crowd control, critical incident oversight or event security; 
+c. Monitoring crowds on public property, searching for people or objects within the law; 
+d. Natural disaster scene surveys; 
+e. Locating missing persons and property; 
+f. Tactical support to include pre-deployment reconnaissance, locate fleeing suspects, crisis de-
+escalation, active shooter situations, search of structures, etc.; 
+g. To aid a criminal investigation, such as with scene photography of evidence gathering; 
+h. Department related recruiting events approved by Command. 
+ 
+2. Indiana Code 35-33-5-9: Unmanned aerial vehicles; search warrant; exceptions 
+ 
+a. A law enforcement officer must obtain a search warrant in order to use an unmanned aerial 
+vehicle: 
+ 
+(i) on or over private property; or 
+(ii) to conduct a search, perform surveillance, obtain a photograph or obtain video of private 
+property or of individuals, items or structures located on private property; without the consent of 
+the owner of the affected private property 
+ 
+b. A search warrant is not required for a use of an unmanned aerial vehicle if a warrant would not 
+be required for a search not using an unmanned aerial vehicle. 
+ 
+C. Flight Operations 
+ 
+1. All flights shall comply with the Certificate of Authorization (COA) issued to the Department, 
+within the parameters of applicable Indiana state laws, and all FAA policies concerning SUAS 
+utilization.  
+ 
+2. The qualified operator shall keep a copy of the FAA COA with them all times of utilization of 
+the SUAS, including training. 
+ 
+3. The qualified operator conducting a flight under the purview of the FAA will, at all times, have 
+a visual observer to assist in the operation of the SUAS. Contact with the qualified operator and 
+the visual observer shall be mandatory for the entire duration of the flight. 
+ 
+ 
+4. The qualified operator shall immediately notify the Regional or District Duty Officer of all 
+SUAS deployments. The Regional or District Duty Officer shall be responsible for notifying the 
+Operations Center. Usage during exigent circumstances shall be made as soon as practical. 
+ 
+5. Multiple SUAS’s may not be deployed in a small geographical area at the same time without 
+4  
+first coordinating and defining the parameters of the area where each deployed SUAS will be 
+operated. 
+ 
+6. Prior to a SUAS deployment, a qualified operator shall: 
+ 
+a. Conduct an assessment of the operating environment. The assessment must include the 
+following: 
+ 
+(i)  Local weather conditions; 
+(ii)  Local airspace and any flight restrictions; 
+(iii) The location of persons and property on the surface; 
+(iv)  Other ground hazards. 
+ 
+b. Ensure all persons directly participating in the SUAS operation are informed about the 
+following: 
+ 
+(i)  Operating conditions; 
+(ii)  Emergency procedures; 
+(iii)  Contingency procedures; 
+(iv)  Roles and responsibilities of each person involved in the operation; 
+(v)  Potential hazards. 
+ 
+3. Ensure all control links between the control system and the SUAS are working properly. 
+ 
+4. Ensure there is sufficient power to continue controlled flight operations to a normal landing. 
+ 
+5. Ensure any object attached or carried by the SUAS is secure and does not adversely affect the 
+flight characteristics or controllability of the aircraft. 
+ 
+6. Ensure all necessary documentation is available for inspection, including the aircraft registration 
+(if required), and COA (if applicable). 
+ 
+7. A SUAS deployed within a covered structure does not fall under the purview of the FAA 
+requirements and guidelines, however the qualified operator shall follow all applicable procedures 
+listed in VII.E.1-6. 
+ 
+8. Night Time Operations 
+ 
+a. All operations under the approved COA must use one or more visual observers; 
+ 
+b. Prior to conducting operations that are the subject of the COA, the qualified operator and visual 
+observer must be trained to recognize and overcome visual illusions caused by darkness, and 
+understand physiological conditions which may degrade night vision. This training must be 
+documented and must be presented for inspection upon request from the Administrator or an 
+authorized representative; and 
+ 
+c. The SUAS must be equipped with lighted anti-collision lighting visible from a distance of no 
+less than three (3) statute miles. The intensity of the anti-collision lighting may be reduced if, 
+because of operating conditions, it would be in the interest of safety to do so. Additionally, in 
+5  
+order to comply with FAA Regulation 14 CFR § 91.209, the aircraft must have position lighting 
+that enables determination of location altitude, attitude and direction of flight. 
+ 
+D. Emergency/Contingency Procedures 
+ 
+1. All SUAS owned, operated, or deployed by the Department must have an automatic return-to-
+home feature activated. 
+ 
+2. In the event of a lost link, the qualified operator will comply with the following provisions: 
+ 
+a. The SUAS lost link will be programmed to ensure that lost link flight does not fly over persons 
+and the landing location is within the view of the qualified operator. 
+ 
+b. Rally and home locations will be programmed to remain within the area defined in the FAA 
+Notice to Airmen (NOTAM) where flight operations are being conducted. 
+ 
+c. Lost link procedures will not transit or orbit over populated areas, Victor airways or busy 
+roadways/interstate highways. 
+ 
+d. Lost link procedures will be programmed to remain within the operations area and altitude, 
+avoid unexpected turn-around and/or altitude changes, and will provide sufficient time to 
+communicate with air traffic control if necessary. 
+ 
+3. Emergency/Fly-Away Procedures: 
+ 
+a. In the event of an emergency, the qualified operator will immediately contact the air traffic 
+control facility having jurisdiction for the airspace, state the nature of emergency and pilot 
+intentions. 
+ 
+b. In the event of a SUAS fly-away, advise air traffic control of the following: 
+ 
+(i)  Direction of flight; 
+(ii)  Last know altitude; and 
+(iii) Maximum remaining flight time. 
+ 
+4. Loss of Communications between the Qualified Operator and Air Traffic Control 
+ 
+a. If required, the qualified operator will communicate with air traffic control through use of two 
+way radio communications or a cellular phone based on the agreement between air traffic control 
+and the qualified operator. 
+ 
+b. In the event the qualified operator is unable to establish communications, the qualified operator 
+will immediately land the SUAS until communications can be regained. In all cases, during Loss 
+of Communications, there is concern for people or property in the air or on the ground the 
+qualified operator will immediately land the aircraft. 
+ 
+5. Loss of Communications between the Visual Observer and the Qualified Operator 
+ 
+a. The qualified operator and visual observer will be collocated during operations for this COA 
+6  
+and communications will be through direct communication. However, if the observer and the 
+qualified operator are not collocated where verbal communication is not possible, the following 
+communication tools will be utilized: 
+(i)   Hand held Police radio 
+(ii)  Cellular phone 
+(iii) Hand Signals (may be used solely or in conjunction with the communication equipment) 
+ 
+6. If communication is lost and cannot be re-established the SUAS will immediately land. 
+ 
+7. Incidents of lost signal or communications must be documented and reported to the FAA in 
+accordance with the current COA. 
+ 
+E. Flight Documentation 
+ 
+1. All SUAS deployments, regardless of incident type, shall be documented in a CAD card. If no 
+existing CAD card is open for the incident, a CAD card shall be created. 
+ 
+2. Training or proficiency flights shall also be documented in this manner. 
+ 
+3. The following information shall be entered into a CAD card: 
+ 
+a. Location of deployment; 
+b. Reason for deployment; 
+c. Deployment time; 
+d. Landing time; 
+e. Qualified Operator name and PE; 
+f. Visual Observer name and PE; 
+g. Maximum altitude flown; 
+h. Operation Center notification: 
+i. Time notified; 
+j. Name and PE of RDO/DDO making the notification; 
+k. Any incident of damage to a SUAS or other property. 
+ 
+4. All SUAS deployments shall be documented in an RMS report via a supplemental report. If no 
+existing RMS report has been generated, one will be created to document the Department’s 
+activities. 
+ 
+5. The following information shall be documented in the RMS report: 
+ 
+a. Location of deployment; 
+b. Reason for deployment; 
+c. Deployment time; 
+d. Landing time; 
+e. Qualified Operator name and PE; 
+f. Visual Observer name and PE; 
+g. Maximum altitude flown; 
+h. Operation Center notification: 
+i. Time notified; 
+j. Name and PE of RDO/DDO making the notification; 
+7  
+k. Any incident of damage to a SUAS or other property. 
+l. Whether or not a search warrant was obtained for the deployment and the name of the agency 
+which sought the search warrant. 
+6. Qualified operators shall complete the approved Department deployment log to document all 
+uses of a SUAS to include training flights. 
+ 
+a. This log is to be maintained by the employee for an indefinite period of time. 
+ 
+F. Other Requirements related to SUAS 
+ 
+1. All photographs or videos obtained as a result of a SUAS deployment shall be submitted in 
+accordance with CIS-017. 
+ 
+2. Qualified operators are prohibited from altering or modifying a SUAS from the manufactures 
+original design (e.g. adding stickers) without written approval of the Superintendent or designee. 
+ 
+3. A qualified operator intentionally using the SUAS without proper authorization or in deviation 
+of the standards set forth in this policy shall be subject to disciplinary action. 
+ 
+4. The proper care and maintenance of SUAS equipment shall be the responsibility of the 
+Department employee to which the SUAS equipment is assigned. 
+ 
+5. SUAS equipment shall not be kept in a commission for an extended period of time unless the 
+commission is parked in a secure location. 
+ 
+G. This procedure is to be used in conjunction with all other relevant rules, directives, procedures 
+and policies.

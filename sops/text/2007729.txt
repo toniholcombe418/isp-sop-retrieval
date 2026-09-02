@@ -1,0 +1,86 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+CIS-011 
+Subject 
+Radio Talkgroups/Frequencies and Telephone Line Recorders 
+Special Instructions 
+Replaces CJD-016 dated May 7, 2010 
+Effective Date 
+March 1, 2015 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for recording and reviewing Department radio transmissions, facility 
+telephone lines and maintenance of recording equipment. 
+ 
+II. POLICY 
+ 
+All telephone lines at district facilities shall be recorded. Radio talkgroups (TG) shall be 
+recorded at each regional dispatch center (RDC). Recording, monitoring and review of radio 
+transmissions and telephone lines shall be confined to the following procedure. 
+ 
+III. PROCEDURE 
+ 
+A. Recording radio TGs. 
+ 
+1. All radio TGs in the ISP console shall be recorded, or 
+ 
+2. If not possible, the Assistant Chief of Staff (AC/S) Communication and Information Systems 
+(CIS) or a designee shall designate the radio TGs to be recorded at an RDC. 
+ 
+B. All incoming telephone lines shall be recorded. 
+ 
+1. Only trained state or authorized technicians and vendors can install or disconnect the fixed 
+recorders at ISP facilities. 
+ 
+2. Notices shall be posted in the district facility and/or on or near each telephone indicating the 
+facility’s telephone lines are being recorded. 
+ 
+C. Reviewing radio/telephone recordings. 
+ 
+1. Recordings shall not be reviewed by anyone other than Department employees unless 
+specifically authorized by AC/S CIS or by subpoena or court order. 
+ 
+2. Employees shall not review telephone recordings of assigned ISP Districts without the 
+approval of the appropriate district commander or designee. 
+ 
+3. Authorized employees may review radio TG recordings for audit and review and training 
+purposes, under proper supervision (to include the RDC manager or the RDC shift supervisor), 
+or in emergency circumstances, for reasons of clarification, which may be obtained through 
+instant playback. 
+
+2  
+4. Direct access to the recorder shall be granted to the appropriate district commander, personnel 
+authorized by the commander and the RDC manager and RDC shift supervisor (for audit and 
+review purposes). 
+ 
+D. Recording and storage. 
+ 
+1. Recording of approved radio TGs and telephone lines shall occur 24 hours a day, 7 days a 
+week. 
+ 
+2. Recorder software shall maintain an audit log of any user accessing the recorder, except for 
+instant playback. If the recorder is not capable of generating an audit trail, the district shall be 
+required to maintain one. 
+ 
+3. All recordings shall be stored securely for two (2) years plus the current year and then reused 
+if possible. 
+ 
+E. All RDC dispatchers shall be tested yearly on the ability to perform immediate playback of 
+recorded information. 
+ 
+F. Maintenance of recorder and recordings. 
+ 
+1. Authorized and trained technicians or vendors shall provide routine and preventive 
+maintenance and repair of the recorder. 
+ 
+2. Troubleshooting procedures that require the monitoring of a recorded telephone or radio 
+talkgroup are prohibited, unless that channel is identified as the problem.  The appropriate 
+commander shall be notified prior to any monitoring. 
+ 
+G. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

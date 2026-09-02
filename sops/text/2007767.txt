@@ -1,0 +1,68 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+ENF-044 
+Subject 
+Daily Activity and Duty Hours Report (SHIELD-Trooper Activities) 
+Special Instructions 
+Replaces CIS-001 dated January 15, 2015 
+Effective Date 
+January 15, 2015 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for reporting and submitting activity and duty hours using the SHIELD 
+Trooper Activity Section in the Shared Integrated Electronic Database (SHIELD). 
+ 
+II. POLICY 
+ 
+All enforcement personnel, including Capitol Police Section (CPS) and motor carrier inspectors  
+(MCI), shall transmit activity and duty hours using SHIELD Trooper Activity as outlined in this 
+procedure. 
+ 
+III. PROCEDURE 
+ 
+A. Daily activity and duty hours shall be reported using SHIELD Trooper Activity as follows: 
+ 
+1. All sworn personnel shall record activity/duty hours daily and transmit their activity/duty hours 
+within three (3) working days from the date it was originated. 
+ 
+2. Zone, area, division, section or district commanders: 
+ 
+a. May set transmission dates for SHIELD Trooper Activity reports that are less than the three (3) 
+day deadline; 
+ 
+b. Shall notify Communications and Information Systems (CIS) when an employee is placed on 
+administrative leave (with or without pay), is suspended, or removed from payroll as the employee 
+may be denied access to SHIELD. 
+ 
+3. Employees on military leave 
+ 
+a. Employees on military leave (without pay) are required to submit or have submitted (on their 
+behalf) SHIELD Trooper Activity reports during the period of time they are on leave, as follows: 
+ 
+(1) A monthly submission, indicating military leave status (with no retention of benefits); or 
+ 
+(2) A submission of a single SHIELD Trooper Activity report (per pay period to retain benefits) to 
+record a paid day, e.g. vacation, personal leave day, etc., and then a monthly SHIELD Trooper 
+Activity report for all remaining days of the month. 
+ 
+b. Employees on extended military leave with pay (through the use of accrued time) shall be 
+required to submit or have submitted (on their behalf) SHIELD Trooper Activity reports on a 
+monthly basis. 
+
+2  
+B. In the event personnel are unable to electronically submit their activity/duty hours report using 
+SHIELD Trooper Activity, a SHIELD Trooper Activity report “form” is available as a Microsoft 
+Word template, and can be completed electronically or handwritten. Use of the form will require 
+the form to be submitted to the local (district, division, etc.) authorized administrator for entry into 
+the SHIELD Trooper Activity. 
+ 
+C. Personnel working special projects shall be required to transmit a “Special Project Daily” using 
+SHIELD Trooper Activity by the end of the day following the day the project was worked. 
+ 
+D. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

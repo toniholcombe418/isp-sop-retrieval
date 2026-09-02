@@ -1,0 +1,196 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+INV-003 
+Subject 
+Case Management/Reporting 
+Special Instructions 
+Replaces INV-003 dated April 4, 2024 
+Effective Date 
+March 18, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines to control and manage case reports. 
+ 
+II. POLICY 
+ 
+Any police employee who becomes aware of a crime or non-criminal event requiring police action 
+shall immediately take the necessary steps to ensure that the crime or non-criminal event is properly 
+investigated and thoroughly documented in the appropriate initial and supplemental reports. It shall 
+be the responsibility of the police employee to ensure that all initial and supplemental reports are 
+completed and submitted within the established timeframes outlined in this SOP. 
+ 
+For information regarding the electronic reporting system utilized by the Department and 
+instructions for use, refer to the Case Management System Manual. 
+ 
+III. PROCEDURE 
+ 
+A. Case Management System 
+ 
+1. Police employees shall cause an investigation of all criminal acts and non-criminal events 
+reported to them or which come to their attention that require police action. 
+ 
+a. The list of non-criminal events that may be drawn can be found in the Case Management System 
+Manual.  
+ 
+b. A Case Report is required for all felony and all class “A” misdemeanor offenses, including 
+Operating While Intoxicated, and for any warrant services.  Traffic violations that are an “A” 
+misdemeanor offense, except for the offense of Operating While Intoxicated, do not require a 
+case report but may be completed to document extraordinary incidents. 
+ 
+2. All police employees shall adhere to the procedures and timelines contained in this SOP. 
+ 
+a.  All information contained in a case report shall only be accessed for investigative or job-specific 
+administrative purposes.  
+ 
+3. Barring extenuating circumstances, all police employees should log into the electronic internet-
+based reporting system during each workday to monitor activity to include case reports that need 
+attention.  
+ 
+4. Reports: 
+ 
+a. Initial Case Reports – Used to document a criminal investigation or a non-criminal event. Full 
+
+2  
+case reports and included documents may be released without a subpoena to approved law 
+enforcement entities for the purpose of aiding an ongoing criminal investigation or other criminal 
+justice-related action approved by the Legal Division.  All other information released shall comply 
+with PIO-002. 
+ 
+b. All documented information in case reports shall be updated accordingly based on case activity to 
+include the status of entered people and offenses.  Further details may be found in the Case 
+Management System Manual. 
+ 
+c. All available identifiable information should be added into the RMS system for investigative 
+purposes when applicable.  This identifiable data should include photos, descriptions and any 
+information associated with a person, place and item that could aid in any future investigation.  
+Further details may be found in the Case Management System Manual. 
+ 
+d. News Release/Crime Summary – Standalone document required by law that provides details 
+regarding a criminal investigation or non-criminal event.  See PIO-002 for rules regarding the 
+information that is allowed to be released.  May be released without a subpoena. 
+ 
+e. Supplemental Report – Used to document additional information or change the status of an 
+existing case report or non-criminal event report.  Also used to document the disposition or status 
+change of evidence and shall be completed by other Department police employees when not 
+assigned as the lead investigator, but when they provided a significant level of assistance during a 
+criminal investigation or non-criminal event. 
+ 
+f. Disapproved Report – A report that was disapproved for correction by a supervisor.  
+Disapproved reports shall be corrected and resubmitted for approval within 14 working days of the 
+disapproval date. 
+ 
+4. An initial case report number shall be drawn by the assigned officer no later than the end of the 
+shift on the day the officer becomes aware of the crime or non-criminal event.  This initial case 
+report shall be completed and submitted for approval no later than 24 hours after it has been drawn.  
+When an incomplete narrative is provided on the initial case report and the reporting officer 
+indicates that a full narrative will follow in a supplemental report, a supplemental report shall be 
+drawn, or assigned by the approving supervisor, and be completed and submitted for approval 
+within 14 working days from the date that the initial report was drawn.  The District Investigative 
+Commander (DIC) shall mark these cases for follow-up and monitor them for timeliness as 
+necessary.  
+ 
+5. Required supplemental reports by assisting officers shall be created and completed within 3 days 
+of involvement in a criminal investigation or non-criminal report requiring a case report. 
+ 
+6. Supplemental reports may be assigned in the case management system by the appropriate DIC, or 
+appropriate supervisor, as deemed necessary.  The assigning DIC will notify the assigned police 
+employee that the supplement was assigned via a Departmental email with a CC to the squad leader 
+of the assigned employee.  The assigned supplemental report shall be completed within 3 working 
+days. 
+ 
+7. A supervisor shall review, approve, or disapprove for corrections of their subordinates’ reports 
+within 14 days of submission, unless extended by the DIC.  When approving reports, the supervisor 
+3  
+shall designate the report as either “Open” or “Closed” based on the information provided by the 
+reporting officer. 
+ 
+a. Open Case Status: 
+ 
+A case report that receives an “Open” status by a first-line supervisor shall have additional 
+investigative leads to pursue such as: (1) interviews of involved parties; (2) area or 
+neighborhood canvass checks to complete; (3) evidence collection efforts to complete; (4) 
+none or not all of the suspects have been arrested; (5) the investigation is awaiting 
+prosecutor review/action; (6) the investigation is awaiting pending laboratory results; and 
+(7) by workflow processes the reviewing first-line supervisor causes an additional review of 
+the ongoing investigation by the DIC to effectively manage its progress.  The appropriate 
+pending investigative actions shall be selected in conjunction with the designation of 
+“Open”. 
+ 
+b. Closed Case Status: 
+ 
+A case report that receives a “Closed” status by a first-line supervisor shall have no 
+additional investigative leads to pursue.  The appropriate method of closure shall be selected 
+in conjunction with the designation of “Closed”. 
+ 
+8. Case numbers shall be assigned utilizing the Computer Aided Dispatch (CAD) system. 
+ 
+9. Case reports shall not contain intelligence information.  When attaching documents that fall under 
+NCIC/IDACS rules purview, the reporting officer shall document any dissemination of the protected 
+information in the narrative of the case report. 
+ 
+10. An officer assigned to a case shall advise dispatch personnel of any required action, including 
+entering and/or canceling IDACS/NCIC entries, and shall document the action in either the original 
+case report or a supplemental report. 
+ 
+11. Follow-up Cases: 
+ 
+a. Case reports that document a criminal investigation or non-criminal event that requires follow-up 
+investigation or action shall be marked for follow-up in the electronic reporting system tracking 
+system by the appropriate DIC. 
+ 
+b. Follow-up investigations will be designated as needing an update by the following schedule: 
+ 
+1. 90 Days – For active investigations or events with additional leads to investigate. 
+2. 180 Days – For either active or inactive investigations or events that are pending prosecutorial 
+review, or that are awaiting supporting documentation such as other agency reports, or Forensic 
+Services Division examination results. 
+3. 365 Days – For active or inactive investigations with outstanding warrants or that only require 
+supplements to document evidence retention or disposition. 
+4. Custom – District Investigative Commanders may set a custom review date based on known case 
+activity or special circumstances. 
+ 
+4  
+a. Police employees shall monitor their follow-up cases in the electronic reporting system and 
+complete supplemental reports in accordance with the designated follow-up schedule. 
+ 
+12. Case Reassignment/Transfer: 
+ 
+a. Reassigned/Transferred Case – A criminal or non-criminal case that has been reassigned or 
+transferred for follow-up due to transfer, promotion, extended leave, resignation, retirement, 
+termination, or disability. 
+   
+b. District Investigative Commanders (DIC) in conjunction with the District Commander shall be 
+responsible for reassigning and transferring cases that require further investigation and/or evidence 
+disposition to the appropriate District or Division for reassignment.   
+ 
+c. Cases may be reassigned to any available District personnel.   
+ 
+d. Cases reassigned regarding evidence retention or disposition shall comply with the information 
+outlined in FSD-002.   
+ 
+e. Should a DIC have a particular need to transfer a case for follow-up to a different District, 
+Division, or investigating officer, the DIC shall make notification to the affected DIC of the District 
+or Division where the investigating officer is located, informing them of the circumstances 
+surrounding the need to transfer the case for follow-up.  
+ 
+13. Case and Name Security and Quality Assurance: 
+ 
+a. Case and name security shall be maintained by the appropriate DIC overseeing the electronic 
+reporting system for their District or Division 
+ 
+b. Quality assurance reviews and management of follow-up cases shall be performed by the 
+appropriate DIC overseeing the electronic reporting system for their District or Division. 
+ 
+B.  When a child is arrested for an offense listed in IC 31-37-4-3, the arresting officer shall notify 
+the Chief Administrative Officer or the Superintendent of the school district where the child is 
+enrolled (including during summer vacation) within 48 hours of the arrest. The child’s name and the 
+reason for the arrest may be released; other information considered confidential under state or 
+federal law may not be disclosed to the school or school administrators. 
+ 
+C. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

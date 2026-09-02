@@ -1,0 +1,75 @@
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+INV-024 
+Subject 
+Violent Gang and Terrorist Organization File (VGTOF) 
+Special Instructions 
+Replaces INV-024 dated April 4, 2024 
+Effective Date 
+October 24, 2025 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the utilization of identifying information pertaining to violent criminal gangs 
+and terrorist organizations and their particular members and controls for the handling of information 
+identifying potential danger posed by violent individuals and organizations to law enforcement 
+officers. 
+ 
+II. POLICY 
+ 
+The Violent Gang and Terrorist Organization File (VGTOF) shall be maintained by the ISP 
+Intelligence Section (IS) and may be used by enforcement personnel for authorized purposes. 
+Information obtained will serve to warn law enforcement officers of the potential danger posed by 
+violent individuals and their specific organizations.  
+ 
+III. PROCEDURE 
+ 
+A. Law enforcement personnel shall report VGTOF information to the ISP IS by email to an intel 
+analyst and/or the Indiana Intelligence Fusion Center (IIFC). 
+ 
+B. ISP IS personnel shall follow the criteria established by National Crime Information Center 
+(NCIC). The criteria identified to support an entry should be documented for the purposes of 
+validation and audit. Additionally, each gang member criteria (GMC) record must include a notation 
+in the Criteria for Entry (ECR) field. The following criteria must exist with respect to any individual, 
+whether a gang or terrorist organization member, to be entered in the GMC: 
+ 
+1. A gang name/group (GNG) or subgroup (SGP) must match a previously entered gang or terrorist 
+organization in the GRC. 
+ 
+a. The Group Reference Capability (GRC) contains identification and information about gangs or 
+terrorist organizations. Three (3) criteria must be met by a group before information may be entered in 
+the GRC: 
+ 
+(i) Must be an ongoing organization, association, or group of three or more persons; 
+(ii) The group must be engaged in or show a pattern of conduct which involves the use of force; and 
+(iii) The purpose of the group, in using violence, must be to intimidate or coerce a government, 
+civilian population or segment thereof in the furtherance of political or social objectives.  
+ 
+b. Group Member Capability (GMC). An individual must meet the following criteria to be considered 
+a candidate for entry into the NCIC-VGTOF: 
+ 
+(i) Membership in a criminal gang, terrorist organization or a subgroup thereof and is entered in the 
+GRC; and 
+(ii) Has admitted membership in that gang or terrorist organization (or subgroup) at the time of the 
+member’s arrest or incarceration; or meets two (2) of the following: 
+ 
+
+ 
+a) Has been identified by an individual of proven reliability as a group member; 
+b) Has been identified by an individual of unknown reliability as a group member and that information 
+has been corroborated in significant respects; 
+c) Has been observed by members of the entering agency to frequent a known group’s area, associate 
+with known group members and/or affect that group’s style of dress, tattoos, hand signals, or symbols; 
+d) Has been arrested on more than one occasion with known group members for offenses consistent 
+with group activity; and/or 
+e) Has admitted membership in the identified group at any time other than arrest or incarceration. 
+ 
+C. All documentation shall be maintained by Department personnel in accordance with current 
+NCIC/IDACS procedures on maintaining records for the audit. 
+ 
+1. All GMC records are generally subject to a purge date that is five (5) years from the date of entry. 
+For exceptions refer to the IDACS Manual. 
+ 
+D. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

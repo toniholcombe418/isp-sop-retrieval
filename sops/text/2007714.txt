@@ -1,0 +1,119 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+CIS-004 
+Subject 
+Interact Mobile 
+Special Instructions 
+Replaces CJD-004 dated March 1, 2015 
+Effective Date 
+September 1, 2018 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for utilization and operation of the Interact Mobile (Computer Aided 
+Dispatch-CAD) for Department personnel. 
+ 
+II. POLICY 
+ 
+The Interact Mobile shall be utilized by all personnel assigned to field enforcement duties who 
+have been trained in its use and assigned the equipment necessary to access it.  Interact Mobile and 
+its related devices and programs shall be operated and maintained as outlined in this procedure. 
+ 
+Field enforcement personnel who are on a temporary duty (TDY) assignment to a non-field 
+enforcement position or on a limited duty assignment may be excluded from the daily 
+requirements (10-41/10-42) of this procedure by their commanding officer. 
+ 
+III. CAD/INTERACT MOBILE PROCEDURES 
+ 
+A. Use of Interact Mobile 
+ 
+1. Unless excluded by their commanding officer due to a TDY or limited duty assignment, all 
+users shall log into the Interact Mobile at the start of their shift and remain logged on until the end 
+of their shift. 
+ 
+2. Once logged on, users shall indicate any special projects or details being worked, especially 
+those details that will take the user away from the system for a long period of time, including but 
+not limited to: 
+ 
+a. Certain special projects, 
+b. Special duty assignments, 
+c. Special events, and 
+d. Training details. 
+ 
+3. The GPS or Automatic Vehicle Locator (AVL). 
+ 
+a. The GPS/AVL device may only be disconnected under the following conditions: 
+ 
+1. The unit has gone 10-7 or 10-42 and removes the laptop from the commission’s computer stand; 
+2. The unit is changing commissions or laptops; or 
+3. By authorized command personnel. 
+Note: Except as noted above, the GPS/AVL device shall be operational when the unit is 10-41 and 
+shall not be disconnected for any other reason. 
+
+2  
+b. The GPS/AVL device is assigned to the individual unit and not to a commission; therefore, the 
+GPS shall remain with the unit regardless of what commission they are assigned (pool 
+commission, short term replacement, permanent reissue, or new commission). 
+ 
+4. Information obtained or used from the Interact Mobile is confidential and restricted to Law 
+Enforcement use only. 
+ 
+5. Department personnel must be IDACS certified to operate the InterAct Mobile. 
+ 
+6. Interact Mobile shall not be used as the primary form of communications for “Hot” or 
+immediate calls for service. 
+ 
+7. The Interact Mobile software shall not be altered, uninstalled or installed by anyone other than 
+approved personnel. 
+ 
+8. Problems or issues with the Interact Mobile, AVL or mapping shall be immediately reported to 
+the ISP/IOT Help Desk. Personnel will also notify their respective regional dispatch center (RDC) 
+of the issue for documentation purposes prior to the beginning of each shift. 
+ 
+B. Originating CAD cards. 
+ 
+1. RDC personnel shall be responsible to “start/open” the CAD card and enter available 
+information when a call: 
+ 
+a. Is received at and dispatched by the RDC. Note: When practical, field users shall 
+complete/close the card at the end of the detail; 
+ 
+b. When personnel do not have the necessary equipment to access Interact Mobile; or 
+ 
+c. The call is of such a serious nature that the field user is unable to input data into the card in a 
+timely or safe manner, regardless of whether the call or card was initiated by the RDC or the field 
+user. 
+ 
+2. Field users shall be responsible to: 
+ 
+a. Complete/close cards started by the RDC, unless unusual circumstances exist that would 
+prevent it; 
+ 
+b. Start/open cards for self-generated (non-emergency) incidents (e.g. abandoned vehicles, traffic 
+hazards, motorist assist, etc.); and 
+ 
+c. Generate entries into the Interact Mobile (including status) such as but not limited to: 
+ 
+a. Notification of beginning and end of duty assignment. 
+b. Assigned Areas of Patrol. 
+c. Special Duty Projects. 
+d. Lunch, including location. 
+e. Physical Training (T-Code 1700), including location. 
+3  
+ 
+3. Department personnel shall not routinely ask regional dispatchers to perform functions on the 
+Interact Mobile that can be accomplished by the user. This does not prevent the user from 
+requesting assistance from the regional dispatchers as needed to facilitate timely completion of 
+call cards or for safety purposes. 
+ 
+4. All interaction with the Interact Mobile shall be conducted in a professional, business-like 
+manner. All transactions on the Interact Mobile are the property of the Indiana State Police and 
+shall be recorded and stored in conjunction with all applicable state and Department rules and 
+regulations. 
+ 
+C. These procedures are to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

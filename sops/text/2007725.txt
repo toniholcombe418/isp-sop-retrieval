@@ -1,0 +1,46 @@
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870 ( R/ S- 06) 
+Reference Number 
+CIS-003 
+Subject 
+Validation of All Active Warrants 
+Special Instructions 
+Replaces CJD-003 dated January 15, 2015 
+Effective Date 
+September 5, 2018 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for validation of active warrants. 
+ 
+II. POLICY 
+ 
+A warrant file shall be maintained at the district and all warrants shall be validated. Warrants 
+shall be available for IDACS/NCIC hit confirmation. Pursuant to Title 240, IAC 5-2-7, each 
+district shall validate, on a periodic basis, all IDACS/NCIC wanted records entered by that 
+District. 
+ 
+III. PROCEDURE 
+ 
+A. In addition to the validation procedure described in the IDACS Manual, Part 1, Section F, 
+Validation Policy, each District shall validate all warrants maintained by them. 
+ 
+1. A warrant shall be validated every 30 days to ensure the warrant is still valid. 
+ 
+2. A misdemeanor warrant expires 180 days after it is issued. A reissued misdemeanor warrant 
+does not expire.  (See IC 35-33-2-4) 
+ 
+B. Each month the District Investigative Commander (DIC) shall validate each warrant in the 
+following manner: 
+ 
+1. Contact the court which issued the warrant to determine if the warrant is still valid; 
+ 
+2. Maintain a record of validation listing, date, time and name of person contacted; and 
+ 
+3. Cause wanted entries to be removed from IDACS/NCIC if a warrant is no longer active. 
+ 
+C. The DIC shall be responsible for removing the wanted entry from IDACS/NCIC and 
+supplementing the appropriate case if the warrant is no longer valid. 
+ 
+D. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

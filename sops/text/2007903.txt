@@ -1,0 +1,235 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870 ( R/ S- 06) 
+Reference Number 
+TRA-016 
+Subject 
+First Aid Program and Life Saving Devices 
+Special Instructions 
+Replaces TRA-016 dated August 18, 2023 
+Effective Date 
+October 20, 2025 
+ 
+I. PURPOSE 
+ 
+Establish the training, use, deployment, and reporting guidelines for the Department First Aid, 
+Automated External Defibrillator (AED), Overdose Intervention Drug (OID), and Combat 
+Application Tourniquet (CAT) Programs. 
+ 
+II. POLICY 
+ 
+The Department’s First Aid Training Program shall be certified by the American Red Cross with all 
+enforcement personnel being certified in Adult and Pediatric First Aid / CPR / AED, unless an 
+exception has been made by the Superintendent. 
+ 
+Department AEDs shall be placed in the workplace in compliance with all federal and state 
+regulations.  
+ 
+The Department’s Overdose Intervention Drug Program authority shall be supported by an Indiana 
+State Police Naloxone Standing Order issued biennially by the Department’s consulting physician. 
+Only Department employees who have successfully completed the OID training (in compliance with 
+all federal and state regulations) are authorized to administer the intervention drugs as described in 
+the Naloxone Standing Order. 
+ 
+The Department shall provide biennial first aid training instruction in all aspects of the First Aid 
+Training program in the odd numbered years, regardless of when an employee was initially certified. 
+All applicable First Aid-related training hours shall be documented in Acadis. 
+ 
+All non-training uses of an AED, OID, or CAT shall be properly documented as outlined in each 
+section below and shall be reported to the Tactical Training Coordinator through channels on Blue 
+Teams.  The initial report should be submitted within 24 hours of use. 
+ 
+III. PROCEDURE 
+ 
+A. The Department’s First Aid Program shall: 
+ 
+1. Be certified by the American Red Cross with all enforcement personnel being certified in Adult 
+and Pediatric First Aid / CPR / AED, unless the Superintendent has exempted the personnel; 
+ 
+2. Include initial instruction and biennial re-training (in the odd numbered years) in first aid, AED, 
+OID, CAT and any other pertinent or related topics; 
+ 
+3. Authorize the Department’s consulting physician to direct and control the medical aspects of the 
+AED and OID Programs. 
+ 
+
+2  
+B. FIRST AID PROGRAM 
+ 
+1. First Aid Instructors 
+ 
+a. District responsibilities: 
+ 
+(i) Maintain at least one (1) American Red Cross First Aid instructor; 
+(ii) Select personnel who are willing to become instructors and have an ability to teach; 
+(iii) Provide time for personnel to attend the training courses for instructors; and 
+(iv) Provide a minimum of three (3) hours biennially (occurring every two-years) training and 
+instructional materials. 
+ 
+b. Instructor training: 
+ 
+(i) Instructors shall be certified by a designated Department American Red Cross instructor; 
+(ii) Department American Red Cross instructors shall be designated by the Training Division; and 
+(iii) Shall adhere to the re-certification guidelines established by the American Red Cross. 
+ 
+c. Instructor responsibilities: 
+ 
+(i). Conduct an American Red Cross First Aid recertification training biennially (during odd 
+numbered years)  
+(ii) Utilize the chain of command to assist with the administration of American Red Cross First Aid 
+training; 
+(iii) Provide necessary information to the employees to have all training hours entered into 
+ACADIS; and 
+(iv) American Red Cross First Aid instructors are prohibited from using their Department American 
+Red Cross instructor certification to instruct outside individuals or agencies. Outside requests for 
+training shall be directed to contact the American Red Cross Training Center in their area. 
+ 
+d. Training Division responsibilities: 
+ 
+(i) Monitor the progress of the American Red Cross First Aid program; 
+(ii) Conduct American Red Cross First Aid training for headquarters personnel and other units as 
+necessary; 
+(iii) Provide the written and skills tests for the training course to all districts; and 
+(iv) Forward student certification cards to the appropriate instructors for distribution. Only regional 
+dispatch personnel, CPS officers and personnel who “must prove first-aid certification” shall be 
+issued certification cards. 
+ 
+e. All enforcement personnel are required to: 
+ 
+(i) Be certified in a 16-hour American Red Cross First Aid training course during their basic training 
+school; and 
+(ii) Biennially (in odd numbered years) attend an American Red Cross First Aid re-certification 
+training course online or at the individual’s assigned district,    section, division, or at GHQ. 
+Personnel shall attend the scheduled biennial re-certification regardless of their initial certification 
+date. 
+ 
+3  
+C. Automated External Defibrillator (AED) Program 
+ 
+1. The Commander of the Training Division shall assign the Tactical Training Coordinator in the 
+Training Division to serve as the Automated External Defibrillator Program (AED) Coordinator. 
+The AED Program Coordinator (AED-PC) shall: 
+ 
+a. Be responsible for overseeing and monitoring the program; 
+ 
+b. Ensure compliance with all federal and state regulations on public access defibrillation, the 
+federal Cardiac Arrest Survival Act, and Indiana Code 16-31-6.5; and 
+ 
+c. Shall notify the EMS Commission of the acquisition and location of AED equipment per Indiana 
+Code 16-31-6.5-5(2). Department personnel shall not place or move any AED without approval by 
+the AED-PC. 
+ 
+2. District or division CPR instructors will assist the AED-PC by monitoring the AEDs located at 
+district facilities or divisions throughout the state. They will be responsible for maintaining and 
+testing of the AEDs according to the manufacturer’s recommendations. District or division CPR 
+instructors shall notify the AED-PC each time the AED has been used. 
+ 
+3. A Blue Team report titled “First Aid Deployment” shall be completed each time the AED has 
+been attached to a victim, constituting an “AED Use” within 24 hrs of the event. 
+ 
+4. The Department’s selection of AED equipment shall comply with the recommendations of the 
+American Red Cross’ current guidelines. 
+ 
+5. Each AED location shall also have other medical equipment and supplies to support the safe and 
+complete management of workplace cardiac emergencies, such as: blood borne pathogens responder 
+and clean-up kits; CPR barrier masks; and latex/vinyl gloves. 
+ 
+6. Records of all AED-related training shall be documented in ACADIS. 
+ 
+7. Records of all AED locations, services and updates shall be maintained in the Training Division. 
+ 
+D. Department Overdose Intervention Drug (OID) Program 
+ 
+1. The commander of the Training Division will assign the Tactical Training Coordinator as the 
+Department’s Overdose Intervention Drug Program Coordinator. The OID Program Coordinator 
+(OID-PC) shall: 
+ 
+a. Be responsible for overseeing and monitoring the program; 
+  
+4  
+b. Ensure compliance with all federal and state regulations by maintaining a copy of the Indiana 
+State Police Standing Order on Naloxone, ensuring proper notification of the State Department of 
+Health and compliance with other applicable portions of Indiana Code 16-31 and IC 16-42-27; and 
+ 
+c. Department personnel shall not transfer intervention equipment from one employee to another, 
+unless in an emergency situation for administration, without prior authorization of the OID-PC or a 
+designee. 
+ 
+2. The OID will be part of the Department’s First Aid Training Program with employees retraining 
+in the OID program during First Aid Training. 
+ 
+3. Each Department First Aid instructor shall become and maintain instructor status for the 
+application of Overdose Intervention Drug techniques. Instructors will assist the OID-PC by 
+monitoring the location of the intervention equipment issued in the field in their areas of 
+responsibility. 
+ 
+4. OID instructors are prohibited from using their Department OID instructor status or training to 
+instruct outside individuals or agencies. Outside requests for training shall be directed to contact the 
+Training Division commander. 
+ 
+5. A Blue Team Report titled “First Aid Deployment” shall be completed each time intervention 
+equipment has been administered. An “OID use” only occurs when intervention equipment has been 
+administered either partially, or  fully, to a potential overdose victim. 
+ 
+6. When administered to a potential overdose victim, all OID (used and partially used) containers 
+shall be provided to EMS personnel for delivery to the attending physician. 
+ 
+7. The officer utilizing the overdose intervention equipment shall complete a new First Aid 
+Deployment Report in Blue Team within 24 hours of each use of the OID. 
+ 
+8. The Department’s selection of narcotic overdose equipment shall comply with the Indiana State 
+Police Standing Order on Naloxone issued by the Department consulting physician biennially. 
+ 
+9. Each employee trained in OID shall also have other medical equipment and supplies to support 
+the safe and complete management of narcotic overdose emergencies, such as: blood borne 
+pathogens responder and clean-up kits; CPR barrier masks; and latex/vinyl gloves. 
+ 
+10. Each employee is responsible to maintain their issued OID in at  temperature that is compliant 
+with the manufacturer’s instructions on the packaging. The employee must notify the OID-PC if 
+their issued OID is expired or stored in conditions that are outside the manufacturer’s requirements. 
+The employee must request a replacement from Quartermaster. 
+ 
+11. OID Quality Assurance Program. 
+ 
+a. The Department Consulting Physician shall conduct a case-by-case review of each Department 
+Overdose Intervention Drug technique administration. 
+ 
+b. Records of all OID-related training shall be maintained in ACADIS. 
+ 
+5  
+c. Records of all overdose intervention equipment issued to employees with expiration dates and 
+updates shall be maintained by the Quartermaster Section. 
+ 
+E. Department Combat Application Tourniquet (CAT) Program 
+ 
+1. The commander of the Training Division shall assign the Tactical Training coordinator as the 
+Department Combat Application Tourniquet (CAT) Program coordinator. The CAT Program 
+coordinator (CAT-PC) shall be responsible for overseeing and monitoring the program; 
+ 
+2. The CAT will be part of the Department’s First Aid Training Program with employees retraining 
+in the CAT program during First Aid Training. 
+ 
+3. Each Department First Aid instructor shall become and maintain training as an instructor for the 
+application of the Combat Application Tourniquet. Instructors shall assist the CAT-PC by 
+monitoring the equipment issued in the field in their areas of responsibility. 
+ 
+4. A Blue Team report titled “First Aid Deployment” shall be completed each time a CAT has been 
+administered. A “CAT use” only occurs when the CAT equipment has been applied fully to an arm 
+or leg of a victim with a bleeding injury. 
+ 
+5. The officer utilizing the CAT equipment shall complete a First Aid Deployment Report in Blue 
+Team within 24-hours of each use of the CAT. 
+ 
+6. CAT instructors are prohibited from using their Department CAT instructor status or training to 
+instruct outside individuals or agencies. Outside requests for training shall be directed to contact the 
+Training Division commander. 
+ 
+7. Records of all CAT-related training shall be maintained in ACADIS.  
+ 
+8. Records of all CAT equipment issued to employees shall be maintained by the Quartermaster 
+Section. 
+ 
+F. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

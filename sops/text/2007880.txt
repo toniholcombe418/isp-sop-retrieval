@@ -1,0 +1,166 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+FSD-011 
+Subject 
+Victim Sexual Assault Kit Evidence Submission Requirements 
+Special Instructions 
+Replaces LAB-011 dated July 8, 2025 
+Effective Date 
+   September 18, 2025 
+ 
+I. PURPOSE 
+ 
+Establishes a formal procedure for the proper submission and tracking of victim sexual assault 
+kit evidence obtained from medical service providers in furtherance of criminal investigations or 
+as received from medical service providers associated with incidents in which a victim does not 
+request law enforcement involvement. 
+ 
+II. POLICY 
+ 
+Department employees who obtain victim sexual assault kit evidence from a medical service 
+provider shall inquire to confirm an entry has been made by the provider to track the kit within 
+the Indiana Statewide Sexual Assault Kit Tracking System, and shall properly secure the item, 
+complete a Property Record and Receipt (PRR) form, and submit the item for proper evidence 
+storage, meeting the requirements noted in FSD-001. 
+ 
+A collaborative multidisciplinary approach should be employed in sexual assault cases, such as 
+the inclusion of medical service providers, victim advocates, etc., and all sexual assault 
+responders should use a victim-centered and trauma-informed approach when engaging with 
+victims of sexual assault—to include the processes of obtaining and tracking victim sexual 
+assault kits. 
+ 
+III. DEFINITIONS 
+ 
+A. INDIANA STATEWIDE SEXUAL ASSAULT KIT TRACKING SYSTEM (Indiana 
+SAKTS) – the system  used by medical service providers, law enforcement agencies, and 
+laboratories to track standard victim sexual assault kits, and it is accessed by a kit-specific bar 
+code number and associated personal identification number (PIN) to document movement 
+throughout the lifecycle of each kit. 
+ 
+B. PROPERTY OFFICER − shall (for the purposes of this procedure) include Crime Scene 
+Investigators, Laboratory Evidence Specialists, District Evidence Specialists, Crime Scene 
+Investigations Supervisors, Laboratory Managers, or other forensic services personnel as 
+designated by the Forensic Services Division Commander having the necessary permissions to 
+manage items of evidence. 
+ 
+C. REPORTING VICTIM – a victim of a sexual assault who consented to a medical-forensic 
+examination to allow for the collection of the SAK and has requested a criminal investigation by 
+law enforcement. 
+ 
+D. SEXUAL ASSAULT KIT (SAK) – a forensic evidence collection kit consisting of 
+instructions and materials for properly collecting and storing evidence associated to a victim 
+of sexual assault for purposes of secure transfer to law enforcement for subsequent storage 
+and/or  laboratory analysis. 
+ 
+
+2  
+E. SEXUAL ASSAULT NURSE EXAMINER (SANE) – a registered nurse who has completed 
+required        education and clinical experience and maintains current credentials to conduct medical-
+forensic examinations of victims of sexual offenses. 
+ 
+F. UNREPORTED KIT – a sexual assault kit collected from a victim who has consented to 
+the medical-forensic examination to allow for the collection of the SAK but has not 
+consented to  participate in the criminal justice process. Unreported kits are also sometimes 
+referred to as “Jane Doe” or “anonymous” kits. 
+ 
+G. UNREPORTING VICTIM – a victim of a sexual assault who consented to a medical-
+forensic examination to allow for the collection of the SAK but has not requested a criminal 
+investigation by law enforcement. 
+ 
+IV. PROCEDURE 
+ 
+A. The SAK examination and evidence collection process shall be completed by medically 
+trained personnel. 
+ 
+1. For living victims, it is preferable for the medical-forensic examination to be performed by a 
+SANE or other health care professional specially trained in the collection of evidence relating to 
+sexual assault cases. 
+ 
+2. At autopsies, the examination and evidence collection process shall be completed by, or at the 
+direction of, a pathologist or coroner. 
+ 
+B. When a SAK and any associated evidence (i.e. clothing, etc.) is obtained from a medical 
+service provider, the Department employee shall ensure the items are properly packaged, sealed, 
+marked and documented on a PRR form in order to complete the submission for evidence 
+storage, according to the requirements outlined in FSD-001; and 
+ 
+1. Upon receiving a SAK, the receiving Department employee shall inquire to confirm the SAK, 
+if not from an autopsy, has been entered by the provider in the Indiana SAKTS, and: 
+ 
+2. If the receiving Department employee learns the medical service provider has not entered the 
+SAK from a living victim into the Indiana SAKTS, the receiving Department employee shall 
+request entry be made by the provider when taking custody of the SAK. 
+ 
+C. SAKs received as evidence from reporting victims of crimes resulting in an Indiana State 
+Police criminal investigation shall be submitted to a Regional Laboratory for analysis as directed 
+below: 
+ 
+1. Barring any extenuating circumstances, all SAKs from reporting victims shall be scheduled 
+for submission to a Regional Laboratory within 14 days of obtaining custody to initiate          the 
+analysis process. 
+ 
+2. SAKs received in which the initial investigation factually determines that no crime was 
+committed prior to the scheduled delivery at the Regional Laboratory, it shall not be submitted 
+for  analysis. This determination shall be made in collaboration with the prosecutor having 
+venue and documented in the case report in the Records Management System (RMS). 
+3  
+3. If a SAK was previously submitted to a Regional Laboratory for analysis and the continuing 
+investigation factually determines no crime was committed, the receiving Regional Laboratory 
+shall be contacted and the request for the analysis of the SAK shall be withdrawn. This 
+determination shall be made in collaboration with the prosecutor having venue and documented 
+in the incident report in RMS. 
+ 
+D. Upon a Regional Laboratory receiving a SAK for analysis, the Property Officer at the 
+Regional Laboratory, in addition to the Laboratory Information Management System (LIMS) 
+requirements, shall update the entry of the SAK in the Indiana SAKTS as directed below, 
+regardless if the SAK originates from the Indiana State Police or from another contributing 
+agency: 
+ 
+1. Upon initial delivery of the SAK at a Regional Laboratory, the receiving Property Officer at 
+the Regional Laboratory shall update the entry in the Indiana SAKTS to designate the SAK as 
+received at the laboratory for analysis, and: 
+ 
+2. Upon completion of analysis of a SAK at a Regional Laboratory, the Property Officer at the 
+Regional Laboratory shall update the entry in the Indiana SAKTS to designate the SAK as 
+laboratory analysis completed upon the analyst returning the kit to the Property Officer, and: 
+ 
+3. Upon returning the SAK from a Regional Laboratory to the contributing agency, regardless if 
+the SAK originates from the Indiana State Police or from another contributing agency, the 
+Property Officer at the Regional Laboratory shall update the entry in the Indiana SAKTS to 
+designate the SAK as being returned to law enforcement as tested, or in some instances returned 
+to law enforcement as not tested (i.e. analysis withdrawal request received, etc.). 
+ 
+E. SAKs received as evidence from unreporting victims in accordance to Indiana Code (IC) 16- 
+21-8, shall not be submitted to a Regional Laboratory for analysis until such time as the victim 
+requests a criminal investigation. 
+ 
+1. Upon notification by a medical service provider of the existence of an unreported kit, the 
+Indiana State Police, to comply with IC 16-21-8-10, shall obtain the kit within 48 hours of notice 
+and cause the unreported kit to be properly submitted for evidence storage per the requirements 
+in FSD-001. 
+ 
+2. The receiving officer shall take custody of the unreported kit from the medical service 
+provider as noted in Procedure B(1) - (2) above and also shall inquire to confirm with the 
+provider that the status of the SAK in the Indiana SAKTS is unreported or anonymous. 
+ 
+3. The process of obtaining and storing an unreported kit shall be documented in a criminal 
+incident report in the RMS using “Laboratory Service” as the offense, and an incident type of 
+“Incident Involving Anonymous Victim Sexual Assault Kit Storage” shall be selected for the  
+report. 
+ 
+4. Unreported and/or anonymous kits shall be properly stored as evidence and retained in 
+accordance with Ind. Code 35 -33-5-5. 
+ 
+F. When a Property Officer at a District receives an evidence status update that directs for the 
+destruction of a SAK, regardless if it is from an unreported kit or from an actual investigation, 
+the Property Officer shall, in addition to the LIMS requirements, update the entry in the Indiana 
+4  
+SAKTS to indicate those SAKs disposed through court orders, case dispositions, etc. as being 
+destroyed. 
+ 
+G. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

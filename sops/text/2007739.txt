@@ -1,0 +1,133 @@
+1  
+ 
+ 
+STANDARD OPERATING PROCEDURE 
+State Form 39870 ( R/ S- 06 ) 
+Reference Number 
+ENF-012 
+Subject 
+Police Action Report or Vehicle Pursuit Report and Review 
+Special Instructions 
+Replaces ENF-012 dated June 1, 2021 
+ 
+Effective Date 
+July 1, 2024 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for electronically reporting, reviewing and collecting data surrounding police actions 
+and vehicle pursuits by Department employees. 
+ 
+II. POLICY 
+ 
+The Police Action Report or Vehicle Pursuit Report shall be completed to facilitate a review of these 
+incidents to ensure that all Department training and policies are being followed. Employees shall 
+complete the reports as directed in this procedure. 
+ 
+III. PROCEDURE 
+ 
+A. Completion of Police Action Report 
+ 
+1. The Police Action Report shall be completed electronically in BlueTeams 
+ 
+2. The Police Action Report shall be completed when an employee: 
+ 
+a. Discharges a firearm (excluding qualification, matches, target practice or hunting); 
+b. Discharges a Conducted Electrical Weapon (CEW), including, intentional deployment (excluding 
+“Spark Testing” and training), unintentional deployment, or deployment resulting from a malfunction 
+with the Taser and/or cartridge; 
+c. Utilizes a chemical agent; or  
+d. Uses any physical force, beyond just handcuffing. 
+ 
+3. An employee involved in a use of force incident shall complete the Police Action Report, unless: 
+ 
+a. The employee is incapable to prepare the police action report; 
+b. Discharge of a firearm results in injury or death; or 
+c. Any police action resulting in serious bodily injury or death. 
+ 
+4. In the circumstances outlined immediately above, the Police Action Report shall be completed by the 
+immediate supervisor. 
+ 
+5. The Police Action Report shall be completed in detail, including the applicable CAD number, narrative 
+and other required information. 
+ 
+6. When more than one (1) employee is involved in a single incident, each employee shall complete a 
+Police Action Report. 
+ 
+
+2  
+B. Review of Police Action Report  
+ 
+1. Upon submission, the Police Action Report shall be reviewed in BlueTeams by the immediate 
+supervisor and District Commander, or equivalent second (2nd) level supervisor, to ensure the report is 
+complete and accurate. 
+ 
+2. Upon transmittal from the 2nd level supervisor, the Area Commander, or equivalent third (3rd) level 
+supervisor, shall review the report to determine if the officer’s actions were consistent with the policies of 
+the Indiana State Police or need review by the Police Action Review Board as directed in ENF-043.   
+ 
+a. An in-policy finding shall be forwarded to the Training Division; 
+b. An out of policy finding shall be forwarded to the Internal Investigations Section; 
+c. Review by the Police Action Review Board shall be forwarded to the appropriate personnel designated 
+by the Chair of the Police Action Review Board. 
+ 
+3. Upon receipt of a Police Action Report, the Training Division shall review the report and make a 
+determination if the police action is consistent with Department training.   
+ 
+a. An consistent finding shall be forwarded to the IAPro; 
+b. An inconsistent finding shall be forwarded to the Internal Investigations Section; 
+c. Review by the Police Action Review Board shall be forwarded to the appropriate personnel designated 
+by the Chair of the Police Action Review Board. 
+ 
+C. Completion of Vehicle Pursuit Report (VPR): 
+ 
+1. An employee involved in a pursuit incident shall complete the VPR, unless: 
+ 
+a. The employee is incapable of preparing the VPR; or 
+b. The pursuit results in serious bodily injury or death. 
+ 
+2. In the circumstances outlined immediately above, the VPR shall be completed by the immediate 
+supervisor. 
+ 
+3. When more than one (1) employee is involved in a pursuit, the first Department employee involved in 
+the pursuit shall complete a VPR as outlined in Section 1. 
+ 
+4. In circumstances where the initiating officer cannot be easily determined, the Post Commander shall 
+designate the officer responsible for completing the VPR. 
+ 
+5. A VPR shall be completed in BlueTeams immediately following a pursuit, regardless of distance or 
+duration, and situations where a motorist flees, but no pursuit is initiated. 
+ 
+6. The VPR shall include the applicable CAD number, a list of officers involved in the pursuit, narrative, 
+use of maneuver(s) or equipment to disable the fleeing vehicle and any other applicable information. 
+ 
+7. If a criminal incident report is completed, all officers participating in the pursuit must complete a 
+supplemental incident report detailing their involvement. 
+ 
+3  
+D. Review of VPR 
+ 
+1. Upon submission, the VPR shall be reviewed in BlueTeams by the immediate supervisor and District 
+Commander, or equivalent second (2nd) level supervisor, to ensure the report is complete and accurate. 
+ 
+2. Upon transmittal from the 2nd level supervisor, the Area Commander, or equivalent third (3rd) level 
+supervisor, shall review the report to determine if the officer’s actions were consistent with the policies of 
+the Indiana State Police or need review by the Police Action Review Board as directed in ENF-043.   
+ 
+a. An in-policy finding shall be forwarded to the Training Division; 
+b. An out of policy finding shall be forwarded to the Internal Investigations Section; 
+c. Review by the Police Action Review Board shall be forwarded to the appropriate personnel designated 
+by the Chair of the Police Action Review Board. 
+ 
+3. Upon receipt of a VPR, the Training Division shall review the report and make a determination if the 
+police action is consistent with Department training.   
+ 
+a. An consistent finding shall be forwarded to the IAPro; 
+b. An inconsistent finding shall be forwarded to the Internal Investigations Section; 
+c. Review by the Police Action Review Board shall be forwarded to the appropriate personnel designated 
+by the Chair of the Police Action Review Board. 
+ 
+E. The electronic file of all Police Action Reports and Vehicle Pursuit Reports shall be retained in IAPro. 
+ 
+F. This procedure is to be used in conjunction with all relevant Department regulations, rules, policies 
+and procedures.

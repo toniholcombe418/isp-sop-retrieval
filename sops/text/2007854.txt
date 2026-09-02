@@ -1,0 +1,270 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+FSD-001 
+Subject 
+Evidence Submission Requirements - Use of Property Record & Receipt Form 
+Special Instructions 
+Replaces LAB-001 dated October 11, 2024 
+Effective Date 
+July 8, 2025 
+ 
+I. PURPOSE 
+ 
+Establishes a formal procedure for the proper submission of evidence seized in furtherance of a 
+criminal matter, as well as property which is found, recovered or held for safe-keeping and is not in 
+furtherance of a criminal matter, with a completed Property Record and Receipt (PRR) form. 
+ 
+II. POLICY 
+ 
+Department employees who seize evidence* or recover property shall properly secure the items and 
+complete a PRR form. All transfers of custody of evidence or recovered property shall be recorded 
+and documented on a PRR form. However, evidence and recovered property which has been 
+submitted to the Forensic Services Division for storage or analysis and is subsequently under the 
+control of a property officer, shall be tracked using the Laboratory Information Management System 
+(LIMS). 
+ 
+*NOTE: Exempted from the guidelines in this Standard Operating Procedure are chemical waste 
+products associated with the clandestine manufacture of controlled substances (refer to INV-023), 
+and disposal of explosives or related materials (refer to SOC-011). 
+ 
+III. DEFINITIONS 
+ 
+A. EVIDENCE − shall (for the purposes of this procedure) be inclusive of both items seized in 
+furtherance of a criminal matter as well as held property (found, recovered or safe-keeping of 
+items). 
+ 
+B. LABORATORY TEMPORARY EVIDENCE STORAGE LOCATION – shall (for the purposes 
+of this procedure) be evidence storage locations managed by the Forensic Services Division 
+(lockers, cabinets, rooms, refrigerators, etc.) at approved department or non-department facilities 
+and used for the purpose of temporarily storing items of evidence in a safe and secure manner until 
+the items can be entered into LIMS and placed into District storage locations by property officers. 
+Locked Laboratory Temporary Evidence Storage Locations shall be unlocked and accessed only by 
+a property officer. 
+ 
+C. PROPERTY OFFICER − shall (for the purposes of this procedure) include Crime Scene 
+Investigators, Laboratory Evidence Specialists, District Evidence Specialists, Crime Scene 
+Investigations Supervisors, Laboratory Managers or other forensic services personnel as designated 
+by the Forensic Services Division Commander having the necessary permissions to manage items of 
+evidence. 
+ 
+D. TEMPORARY EVIDENCE HOLDING AREA – shall (for the purposes of this procedure) be 
+defined as the trunk or other secure area of the officer’s issued department vehicle, or a cabinet, 
+safe, room, etc. specifically located at a department facility which can be locked where the items 
+
+2  
+may be safely and securely stored in a temporary fashion. A temporary holding area is not managed 
+by the Forensic Services Division and shall be accessible only to the affected officer. 
+IV. PROCEDURE 
+ 
+A. When an employee seizes or recovers any evidence, the employee shall properly package and 
+seal the item, inclusive of required identification markings, in accordance with Forensic Services 
+Division Policies and Physical Evidence Bulletins. Evidence shall be properly documented on a 
+PRR form. 
+ 
+B. The PRR shall be utilized and submitted in a typed PDF format. However, during exigent 
+circumstances when a computer is not available, a legible hand-written PRR form using the PDF 
+version will be accepted. 
+ 
+1. The completed PRR form shall be emailed to the property officer using the dedicated email 
+address assigned to the District facility associated with the submission (the email addresses are 
+noted in “Exhibit A” at end of this procedure), and the signed chain of custody portion of the PRR 
+shall be delivered to the property officer with the submitted items or placed and secured within an 
+approved Laboratory Temporary Evidence Storage Location with the submitted items. 
+ 
+2. The property officer shall maintain an Officer’s Evidence Log for all evidence submitted by 
+Department employees from the submitted PRR forms. 
+ 
+C. The employee making the seizure or recovery shall deliver the item directly to the property 
+officer or place and secure the item within an approved Laboratory Temporary Evidence Storage 
+Location with the completed chain of custody portion of the PRR as directed below, unless the item 
+has been properly disposed of and recorded on the PRR form. Any item determined to be 
+improperly packaged, sealed, marked or improperly documented on a PRR shall not be accepted by 
+a property officer until the submitting officer has made the necessary corrections. All corrections 
+shall be completed within five (5) calendar days upon being notified. 
+ 
+1. All drugs, firearms, jewelry, money, valuables such as precious metals or collectables and items 
+susceptible to deleterious change (e.g., biology samples, etc.) shall be submitted before the 
+employee’s shift (tour of duty) ends. 
+ 
+a. There are specific requirements associated with the handling and submission of money. Refer to 
+FSD-010 for further guidance. 
+ 
+b. Jewelry and other valuables, such as precious metals or collectables, shall be photographed as 
+soon as practical and the description of the item on the PRR form shall accurately reflect the 
+condition of the item. 
+ 
+2. All other items shall be submitted within five (5) calendar days from the date of seizure or 
+recovery. 
+ 
+3. Any digital devices or electronic storage media which require forensic examination by the 
+Forensic Services Division Digital Forensics Unit (DFU) shall be delivered for transfer to that Unit 
+within five (5) calendar days from the date of seizure or recovery to the appropriate district 
+temporary evidence lockers. Transfer chain-of-custody information shall be properly documented on 
+the PRR. If a cellular phone is seized that is powered on, the employee shall submit it to either a 
+3  
+Regional Laboratory or district cellular phone temporary storage locker. The phone shall be placed 
+in the Faraday bag, plugged into the appropriate power cord and the bag shall be plugged into the 
+power cord to the locker. The signature page of the PRR shall be placed in the same locker as the 
+evidence. Legal authority (e.g., search warrant or consent to search) should also be included. The 
+locker shall then be securely locked and a proper notification to the appropriate property officer 
+shall be made. Only in situations where the examination is needed the same day shall it be 
+transferred directly to DFU personnel.  
+ 
+a. If the item cannot be transferred within the five (5) day period from the date of seizure or 
+recovery, the item shall be delivered to the property officer or placed and secured in an approved 
+Laboratory Temporary Evidence Storage Location within a five (5) day period. 
+ 
+b. When a subsequent appointment has been confirmed to deliver and transfer the item, the 
+responsible officer shall request to take custody of the item, not more than five (5) calendar days 
+prior to the appointment, from the property officer and properly document custody on the PRR’s 
+chain of custody portion in order to complete the transfer. 
+ 
+c. When the examination of the item has been completed and the officer has been notified, the item 
+shall be transferred to the officer and delivered to the property officer or placed and secured in an 
+approved Laboratory Temporary Evidence Storage Location within five (5) calendar days of receipt, 
+and the transfer shall be properly documented on the PRR’s chain of custody portion in order to 
+complete the transfer to secure evidence storage. 
+ 
+D. If impractical to meet any of the above noted submission requirements due to exigent 
+circumstances, unusual levels of workload, etc., a supervisor may authorize an exception to these 
+requirements by extending the time to complete a submission by up to three (3) calendar days. 
+ 
+1. The requesting officer shall contact a supervisor for authorization of an extension, and the contact 
+shall be documented in an email message sent by the requesting officer to the supervisor detailing 
+the need and associated incident number. 
+ 
+2. If the supervisor approves the request, the supervisor shall immediately forward the email chain 
+to the appropriate property officer using the dedicated email address assigned to the associated 
+District facility documenting the extension details  to include   the number of days extended (the 
+email addresses are noted in “Exhibit A” at end of this procedure). The supervisor shall, at that 
+point, be responsible for ensuring the item is properly submitted within the extension period. 
+ 
+3. When authorizing an extension, the supervisor shall take into consideration safety issues, as well 
+as the potential for harmful change to the item, bio-hazard issues, adequate space and location to 
+temporarily store the evidence, etc., as part of the decision-making process as to the appropriateness 
+of granting an extension. 
+ 
+4. In the absence of a supervisor, the assigned District Duty Officer may approve an extension 
+request by following the procedures noted above. The District Duty Officer shall include the first-
+line supervisor of the requesting officer in the approval email to the property officer, and the first-
+line supervisor shall be responsible for ensuring the item is properly submitted within the extension 
+period. 
+ 
+5. If any items seized or recovered, regardless of the time period submission requirements, any 
+4  
+approved extensions, or if awaiting transfer, etc., are not submitted before the employee’s shift (tour 
+of duty) ends, the officer having custody shall be responsible to ensure the security and safety of the 
+items in a Temporary Evidence Holding Area accessible only to the affected officer, as well as the 
+date, time and location the items are securely stored in a Temporary Evidence Holding Area shall be 
+documented in the narrative of the assigned incident initial and/or supplemental report submitted to 
+the Records Management System (RMS). 
+ 
+E. If the employee making the seizure or recovery can properly make an immediate release of the 
+item, the employee may do so by completing the receipt portion of the PRR form to document the 
+release. The employee shall provide a copy of the PRR form to both the person from whom the item 
+was taken, and also to the person receiving the item upon proper release. The completed chain of 
+custody portion of the PRR which documents the release is to be given to the property officer when 
+a release is completed. 
+ 
+F. When an item is directly turned over to the property officer, the property officer shall sign the 
+chain of custody portion of the PRR form as the responsible officer. The PRR form shall be emailed 
+to the property officer and be filed by the property officer at the District where the item is being 
+held. 
+ 
+G. A property officer, after receiving an item, the PRR and signing the chain of custody portion of 
+the PRR form, shall scan the documentation, to include any related Request for Laboratory 
+Examination forms, and email the scanned files to the appropriate clerical staff for the documents to 
+be added as an attachment to the associated incident report in the Records Management System 
+(RMS). 
+ 
+H. After receiving an item with the proper documentation, a property officer shall enter the item into 
+LIMS without unnecessary delay, apply the associated LIMS bar code label, and place the item into 
+an appropriate storage location. 
+ 
+1. While submitted evidence is under the control of the Forensic Services Division, the property 
+officer shall use LIMS to track and monitor the items. 
+ 
+2. When items are removed from the control of the Forensic Services Division, a copy of the 
+original PRR form and chain of custody portion shall again be used to record and document the 
+chain of custody. 
+ 
+a. Upon removal of the items from the Forensic Services Division’s control, the responsible officer 
+shall not maintain custody of the items for more than five (5) calendar days without having approval 
+from a supervisor. 
+ 
+b. The approving supervisor for an extended retention of custody shall ensure any additional time is 
+necessary for investigative and/or court purposes prior to approving, and the supervisor shall make 
+email notification of the decision, including the number of days extended up to three (3), to the 
+appropriate property officer using the dedicated email address assigned to the District facility 
+associated with the extended custody (the email addresses are noted in “Exhibit A” at the end of this 
+procedure). 
+ 
+I. When an item requires laboratory analysis, the submitting or investigating officer shall, in 
+addition to a PRR, complete a Request for Laboratory Examination form in PDF format 
+5  
+and email the completed form to the property officer using the dedicated email address assigned to 
+the District facility associated with the item submission. The completed Request for Laboratory 
+Examination form shall be subsequently emailed by the property officer to the receiving Regional 
+Laboratory prior to delivery of the item for analysis. 
+ 
+J. Items requiring laboratory analysis may be submitted to the receiving Regional Laboratory in one 
+of three ways: 
+ 
+1. By the property officer, after scheduling a transfer appointment with the receiving Regional 
+Laboratory; or 
+ 
+2. By the employee making the seizure or recovery, with approval of a supervisor and Laboratory 
+Manager, and after scheduling a transfer appointment with the receiving Regional Laboratory; or 
+ 
+3. Certain types of evidence may be approved for mailing to a Regional Laboratory for analysis, but 
+the items shall be in a secure package and sent by either United States Postal Service (certified or 
+registered mail) or by a commercial delivery service with traceable shipping. Intra- Departmental 
+mail shall not be used for delivery of items. 
+ 
+a. If the items are being mailed by someone other than the property officer, the applicable 
+Laboratory Manager shall be contacted for approval and for specific directions. 
+ 
+b. The inner containers of any parcel for mailing shall be marked, sealed and placed in a plain outer 
+container or securely over-wrapped in plain paper. The outside wrapper or container is to be free of 
+any markings which would indicate the nature of the contents. 
+ 
+K. The person receiving and taking custody of an item at a Regional Laboratory shall be responsible 
+for completing all applicable LIMS entries associated with the receipt and storage of the item 
+without any unnecessary delay. 
+ 
+L. Motor vehicles and motor vehicle parts shall not routinely be stored at any Department evidence 
+storage facility. Storage of motor vehicles or motor vehicle parts shall be processed in accordance 
+with ENF-008 or a location approved by the applicable District Commander. 
+ 
+M. Upon proper disposition of all items listed on a PRR form, the original PRR form and any 
+associated copies shall remain on file with the appropriate property officer. When the property 
+officer of venue processes a completely disposed PRR form, the property officer shall scan the 
+documentation and email the scanned file to the appropriate clerical staff for the documents to be 
+added as an attachment to the associated incident report in the RMS. 
+ 
+N. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures. 
+6  
+ 
+Exhibit A: Dedicated Email Addresses for District Evidence Storage 
+ 
+District Dedicated Evidence-Related Email 
+Address 
+District 13 Lowell lrlevidence@isp.in.gov 
+District 14 Lafayette d14evidence@isp.in.gov 
+District 16 Peru d16evidence@isp.in.gov 
+District 21 Toll Road d21evidence@isp.in.gov 
+District 22 Fort Wayne fwrlevidence@isp.in.gov 
+District 24 Bremen d24evidence@isp.in.gov 
+District 33 Bloomington d33evidence@isp.in.gov 
+District 34 Jasper d34evidence@isp.in.gov 
+District 35 Evansville erlevidence@isp.in.gov 
+District 42 Versailles d42evidence@isp.in.gov 
+District 45 Sellersburg d45evidence@isp.in.gov 
+District 51 Pendleton d51evidence@isp.in.gov 
+District 52 Indianapolis d52evidence@isp.in.gov 
+District 53 Putnamville d53evidence@isp.in.gov

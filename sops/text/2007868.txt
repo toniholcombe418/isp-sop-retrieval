@@ -1,0 +1,172 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+FSD-010 
+Subject 
+Money Submission and Disposition Requirements 
+Special Instructions 
+Replaces LAB-005 dated November 16, 2023 
+Effective Date 
+July 8, 2025 
+ 
+I. PURPOSE 
+ 
+Establishes a formal procedure for the proper submission and disposition of money seized in 
+furtherance of a criminal matter, as well as for money which is found, recovered or held for safe- 
+keeping which is not in furtherance of a criminal matter. 
+ 
+II. POLICY 
+ 
+Department employees who seize or recover money shall properly secure the items, complete a 
+Property Record and Receipt Form (PRR), and if not contemporaneously transferred as part of a 
+seizure action to a federal authority for forfeiture shall submit the items to the Forensic Services 
+Division for proper evidence storage, where the items shall remain until ordered to be forfeited 
+or released by the assigned investigating officer, or otherwise ordered for disposal by a court 
+having venue for the cause, all in a manner outlined in this procedure. 
+ 
+III. DEFINITIONS 
+ 
+A. LABORATORY TEMPORARY EVIDENCE STORAGE LOCATION – shall (for the 
+purposes of this procedure) be evidence storage locations managed by the Forensic Services 
+Division (lockers, cabinets, rooms, refrigerators, etc.) at approved Department or non-
+Department facilities and used for the purpose of temporarily storing items of evidence in a safe 
+and secure manner until the items can be entered into LIMS and placed into district storage 
+locations by property officers. Locked Laboratory Temporary Evidence Storage Locations shall 
+be unlocked and accessed only by a property officer. 
+ 
+B. MONEY − shall (for the purposes of this procedure) include any article or substance used as 
+a circulating medium of exchange or as a means of payment having a measure of accepted value 
+− which may include paper, metal, or coins in pieces of convenient form stamped by public 
+authority, as well as virtual and/or cryptocurrencies. 
+ 
+C. PROPERTY OFFICER − shall (for the purposes of this procedure) include Crime Scene 
+Investigators, Laboratory Evidence Specialists, District Evidence Specialists, Crime Scene 
+Investigations Supervisors, Laboratory Managers, or other forensic services personnel as 
+designated by the Forensic Services Division Commander having the necessary permissions to 
+manage items of evidence. 
+ 
+D. TEMPORARY EVIDENCE HOLDING AREA – shall (for the purposes of this procedure) be 
+defined as the trunk or other secure area of the officer’s issued Department vehicle, or a cabinet, 
+safe, room, etc. specifically located at a Department facility that can be locked where the items 
+may be safely and securely stored in a temporary fashion. A temporary holding area is not 
+managed by the Forensic Services Division and shall be accessible only to the affected officer. 
+
+2  
+IV. PROCEDURE 
+ 
+A. When an employee seizes or recovers money and does not contemporaneously transfer it as 
+part of the seizure action to a federal authority for forfeiture, the employee shall properly 
+package, seal, label and submit the item to the Forensic Services Division for proper evidence 
+storage, meeting the submission requirements noted in FSD-001, as well as to the requirements 
+noted in this procedure. 
+ 
+B. Money contemporaneously transferred as part of a seizure action to a federal authority for 
+forfeiture that does not require submission to the Forensic Services Division for evidence 
+storage shall be processed according to the procedures noted in INV-013. 
+ 
+C. Money, less than $1,000.00 that is not part of a contemporaneous forfeiture transfer to a 
+federal authority, shall be counted and submitted directly to a property officer when possible; 
+however, if the property officer is not readily available, the money shall be counted, properly 
+sealed in preferably a plastic evidence bag, and labeled with the initials of the submitting officer 
+and a witnessing officer, and may be placed in a Laboratory Temporary Evidence Storage 
+Location. 
+ 
+1. The money may be placed in a Laboratory Temporary Evidence Storage Location without 
+supervisor authorization and does not have to be recounted by the submitting officer and witness. 
+ 
+2. The money shall be recorded on the PRR form by the submitting officer listing the number of 
+bills and/or coinage in each denomination as subtotals to the final total, and the witnessing 
+officer shall also be legibly documented on the PRR form. 
+ 
+3. The submitting officer shall document the counting process and witness information in the 
+associated incident report in the Records Management System (RMS). 
+ 
+D. Money, $1,000.00 or greater that is not part of a contemporaneous forfeiture transfer to a 
+federal authority, shall be submitted directly to a property officer. 
+ 
+1. At the time of submission, the money shall be counted by the property officer and the 
+submitting officer in the presence of each other and a witnessing third party officer before the 
+PRR form is signed by the property officer and before the money is sealed in an appropriate 
+evidence container, preferably in a plastic evidence bag. 
+ 
+2. The seals shall be marked by the property officer as well as the submitting officer and 
+observed by the third-party officer witness. 
+ 
+3. All money shall be recorded on the PRR form by listing the number of bills and/or coinage in 
+each denomination as subtotals to the final total, and the witnessing officer shall be legibly 
+documented on the PRR form. 
+3  
+4. The submitting officer shall document the counting process and witness information in the 
+associated incident report in the Records Management System (RMS). 
+ 
+5. A bank count of the money is acceptable in lieu of a hand count if the procedures noted above 
+are followed and the property officer, submitting officer and witnessing third party officer are 
+present at the bank when the money is counted. 
+ 
+6. If a property officer is unavailable, a supervisor may authorize the money to be placed in a 
+Laboratory Temporary Evidence Storage Location without counting for up to three (3) calendar 
+days by adhering to the following: 
+ 
+a. The container in which the money is placed, preferably a plastic evidence bag, shall be 
+properly sealed, the submitting officer and a witnessing officer shall both initial the temporary 
+seal, and both officers must be available to be present and participate in the counting of the 
+money when received by the property officer; and 
+ 
+b. The incident report and the PRR reflect the money is stored with supervisor approval in a 
+Laboratory Temporary Evidence Storage Location prior to counting by the two initialing 
+officers; and 
+ 
+c. The submitting officer shall send an e-mail message to the authorizing supervisor detailing the 
+storage need and associated incident number, and the supervisor shall immediately forward the 
+email to the appropriate property officer using the dedicated email address assigned to the 
+District facility associated with the submission (noted in FSD-001) to document the approval of 
+storing uncounted money and to prompt actions for required counting to be completed. 
+ 
+E. Money which has been previously submitted in evidence storage may be released pursuant to 
+the requirements noted in FSD-002  or INV-013 by adhering to the following: 
+ 
+1. All release of money transactions shall be documented in the chain-of-custody on the PRR 
+and witnessed by a second officer, who shall legibly sign and print their name on the PRR;  
+ 
+2. Money shall be recounted upon release from evidence storage in the presence of a witnessing 
+officer to verify the amount released and if the receiving person is an officer, that officer shall 
+also conduct an independent count;  
+ 
+3. If a property officer or officer, who has received money as noted above, is subsequently 
+releasing the money to the owner or a third party, the money shall be counted in the presence of 
+the receiving individual and the receiving individual shall be asked to independently count the 
+money to verify the amount released; and 
+ 
+4. If the money is being converted into a check for release, the count by the bank will be 
+accepted in lieu of counting the money in the presence of the individual receiving the money. 
+4  
+However, at least two Department employees shall be present at the bank when the counting is 
+done. 
+ 
+F. Virtual and/or cryptocurrencies seized or recovered pursuant to the requirements noted in 
+INV-026  shall be submitted for evidence storage per the requirements in FSD-001, as well as 
+to the requirements noted in this procedure specific to money. 
+ 
+1. These currencies shall be submitted on a CD or DVD as money, along with a hard copy  of 
+the cold storage wallet, after having been properly packaged, sealed and labeled consistent to 
+Forensic Services Division Policies. 
+ 
+2. The CD or DVD, as well as the hard copy of the cold storage wallet, shall be submitted  for 
+evidence storage as money in accordance to the procedures noted above and will not be 
+converted to United States Currency until a forfeiture order is issued. 
+ 
+3. The CD or DVD which has been previously submitted in evidence storage may be released 
+pursuant to the requirements noted in FSD-002 or  INV-013, and shall include the requirements 
+noted in this procedure specific to money. 
+ 
+G. All money shall be secured in a Temporary Evidence Holding Area by the seizing or 
+recovering officer for safekeeping until the money is either contemporaneously transferred as 
+part of a seizure action to a federal authority for forfeiture as noted in INV-013, or submitted to 
+the Forensic Services Division for evidence storage as required in this procedure and in FSD-
+001. 
+ 
+H. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

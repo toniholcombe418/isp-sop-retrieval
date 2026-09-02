@@ -1,0 +1,99 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+ENF-019 
+Subject 
+Personal Radiation Detectors (PRD) 
+Special Instructions 
+Replaces ENF-019 dated March 1, 2015 
+Effective Date 
+February 24, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the daily operational procedures for Personal Radiation Detectors (PRD) 
+assigned to Department personnel. 
+ 
+II. POLICY 
+ 
+Department issued Personal Radiation Detectors shall be used by Department employees to detect, 
+prevent, and report illicit possession or transportation of radioactive or nuclear materials or devices 
+prescribed in this directive. 
+ 
+III. DEFINITIONS 
+ 
+A. PERSONAL RADIATION DETECTOR (PRD) - A compact electronic device designed to detect 
+and measure ionizing radiation levels in real time. 
+ 
+B. PRD ALARM – An alarm in the form of an audible, visual, and/or vibratory alert that activates 
+when the PRD detects ionizing radiation levels exceeding predefined thresholds. 
+ 
+IV. PROCEDURE 
+ 
+A. Personnel assigned a PRD shall: 
+ 
+1. Attend all required PRD related training; 
+2. While on duty the PRD shall be worn on their duty belt or maintained in their commission with the 
+device powered on and operational, however;  
+3. When out of the commission for extended periods (crash investigations, race details, etc.), the PRD 
+shall be worn on their duty belt; and, 
+4. Report any possible problems with their PRD to their supervisor. 
+ 
+B. Supervisors of PDR equipped personnel shall: 
+ 
+1. Attend all required PRD related training; and 
+2. Ensure their personnel utilize the PRD in compliance with this directive. 
+ 
+C. Alarm Procedures ; 
+ 
+ 1. Upon detection of a PRD alarm, the officer shall: 
+ 
+a. Note the displayed dose rate, radiation type (e.g., gamma or neutron), and any relevant contextual 
+factors. 
+  
+
+2  
+b. Immediately verify the alarm by attempting to repeat and localize the source through movement 
+relative to the suspected area or by utilizing a second PRD if available. 
+ 
+c. Conduct a basic law enforcement investigation, including questioning the individual(s) regarding 
+potential legitimate sources of radiation (such as recent medical procedures involving radioactive 
+materials or properly documented and placarded shipments), and assess the totality of 
+circumstances—including behavior, interview responses, and alarm characteristics—to determine if 
+the source is benign and the alarm can be adjudicated without further action. 
+ 
+d. If the alarm cannot be conclusively adjudicated as non-threatening through primary investigation, 
+request assistance from another trained officer equipped with a PRD to independently verify and 
+localize the radiation source for confirmation. 
+ 
+e. If the alarm remains unexplained, exceeds safe thresholds, or indicates a potential radiological 
+hazard (e.g., elevated readings inconsistent with explanations or possible illicit material), contact the 
+Indiana Department of Homeland Security Emergency Operations Center Watch Desk at (317) 232-
+3830 for guidance, technical support, or escalation to appropriate state or federal resources, while 
+securing the area and prioritizing personnel safety. 
+ 
+f. The employee shall notify or cause notification of Operations.  Capitol Police Section (CPS) officers 
+shall also notify CPS dispatch and the on-duty supervisor. 
+ 
+D. Training 
+ 
+1. Initial training shall include use of specific PRD and basic radioactive/nuclear awareness; and 
+2. Follow up PRD and/or radioactive-nuclear training as required. 
+ 
+E. Reporting Employee Exposures 
+ 
+1. Employees who are exposed to hazardous substances, including ionizing radiation levels exceeding 
+established safety thresholds, during the performance of their official duties shall promptly report the 
+exposure in accordance with the procedures outlined in this policy and any applicable departmental 
+directives to ensure proper documentation, medical evaluation, and follow-up.   
+ 
+2. The affected employee's immediate supervisor shall submit any required reports on behalf of the 
+employee if the employee is unable to do so due to injury or incapacitation. All personnel who sustain 
+injury, illness, or suspect prolonged or significant exposure to such hazards shall complete and submit 
+the appropriate incident and exposure reports without delay. 
+ 
+F. This procedure is to be used in conjunction with all relevant Department regulations, rules, policies, 
+and procedures.

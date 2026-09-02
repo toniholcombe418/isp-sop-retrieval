@@ -1,0 +1,218 @@
+1  
+ 
+ 
+STANDARD OPERATING PROCEDURE 
+State Form 39870(R/S-06) 
+Reference Number 
+INV-013 
+Subject  
+Property Seized for Forfeiture 
+Special Instructions 
+Replaces INV-010 Dated September 10, 2019 
+Effective Date 
+      March 9, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for processing assets seized in anticipation of forfeiture under state statutes 
+and federal guidelines. 
+ 
+II. POLICY 
+ 
+Department personnel shall process all seized assets in accordance with this standard operating 
+procedure, state and federal guidelines and Orders of Forfeiture. 
+ 
+III. PROCEDURES 
+ 
+A. Guidelines for Seizures and Forfeitures 
+ 
+1. The case officer (to whom the case is assigned) will be responsible for initiating forfeiture 
+proceedings if the facts warrant such action. If necessary, the case officer shall consult with 
+his/her supervisor and/or the Department’s legal advisor to determine if forfeiture action is 
+warranted or justified. Once forfeiture action is initiated, notification shall be made Asset 
+Forfeiture Program Director (AFPD) assigned to the Drug Enforcement Section (DES). 
+ 
+a. Notification shall be made promptly by completing the Asset Forfeiture Form in RMS and 
+click “Submit For Approval.”  Email notifications are automatically sent to the AFPD. 
+ 
+b. Include in the Asset Forfeiture Form (RMS): 
+ 
+(1) Incident Number;  
+(2) Description of the item(s) seized, if money, include the amount seized; 
+(3) County where the seizure took place;  
+(4) If assets were seized under a search warrant; 
+(5) Whether forfeiture will be pursued as a state forfeiture or a federal forfeiture; 
+(6) If asset sharing is needed (agency assisted ISP in seizure), list agency or agencies involved; 
+and 
+(7) Attach any documentation ready to submit.  
+ 
+c. All forfeiture requests are to be submitted to the court, by the county prosecutor/contracted 
+attorney, within 7-calendar days of seizure (includes holidays and weekends) per IN Code. 
+  
+d. Completed documentation shall be forwarded to the AFPD within 5 days of the date of the 
+seizure, at Forfeiture@isp.in.gov, and shall  include: 
+ 
+
+2  
+(1) Copy of the Incident Report; 
+(2) Property receipts; 
+(3) Signed disclaimers; 
+(4) Copies of all search warrants and returns; 
+(5) Copies of all probable cause affidavits to include probable cause for forfeiture; and 
+(6) Copies of prosecutorial notification (for state seizures), or for federal seizures, identification 
+of the adopting federal agency. 
+ 
+2. Requests for state seizures require written notification to the appropriate prosecutor, making 
+notification of the seizure, outlining the items seized and including a request for state forfeiture 
+action. State forfeiture actions shall be in compliance with IC 34-24-1. 
+ 
+3. Department members routinely participate in multi-agency cooperative investigations.  In the 
+event forfeiture is pursued from a federal standpoint, participating officers shall make every 
+effort to coordinate that process. Preferably, federal agency notification and participation shall 
+occur prior to any seizure taking place. If involvement by a federal agency takes place after a 
+seizure, any subsequent forfeiture is considered to be adoptive. 
+ 
+4. When property has been seized without any prior involvement on behalf of a federal agency, a 
+federal agency may still agree to adopt the investigation and pursue federal forfeiture. In this 
+instance, the applicable case officer must acquire an original Order for Transfer of Property from 
+the prosecuting attorney of venue. Documents must have an original court seal affixed to them. 
+The United States Attorney’s Office and the applicable federal agency cannot adopt a forfeiture 
+without such an order. 
+ 
+NOTE: It is the policy of the Indiana State Police to place a priority on criminal prosecution over 
+asset forfeiture. Therefore, in cases that involve both asset forfeiture and criminal prosecution, 
+always seek approval from the relevant prosecuting attorney before proceeding with the 
+forfeiture. 
+ 
+B. Vehicles seized for conversion to money 
+ 
+1. Federal seizures: When a vehicle is seized and is of the type or mechanical/body condition that 
+would prevent it from being added to the Department’s fleet, the seizing officer shall cause the 
+vehicle to be delivered to the vehicle impound lot located at the Indianapolis Post complex, 
+unless a federal agency takes possession of the vehicle. A seized vehicle must have a retail value 
+of more than $10,000.00. 
+ 
+2. State seizures: When a vehicle is seized and is of the type or mechanical/body condition that 
+prevents it from being added to the Department’s fleet, and the vehicle does not qualify for 
+federal asset forfeiture, the seizing officer shall arrange for the vehicle to be temporarily stored at 
+a District Headquarters, or at the least expensive secure storage facility in the vicinity of the 
+seizure location, pending transfer to the appropriate sheriff for sale in accordance with IC 34-24-
+1-4 and IC 34-24-1-6. The vehicle must have a retail value of more than $7,500.00. 
+ 
+ 
+3  
+C. Vehicles seized for the Department’s fleet 
+ 
+1. When a vehicle is seized and is of the type and mechanical/body condition that would be of 
+value to the Department, the seizing officer shall cause the seized vehicle to be delivered to the 
+District Headquarters or  
+to  the GHQ garage, whichever is closer, for evaluation by a Department mechanic. 
+ 
+a. A vehicle shall only be considered for fleet service if it has less than 100,000 miles on the 
+odometer and appears to be in above average mechanical/body condition. Only the Assistant 
+Chief of Staff (AC/S) Logistics may make exceptions to this standard. 
+ 
+b. A Department mechanic shall evaluate the seized vehicle and shall complete a Vehicle 
+Evaluation Form and return it to the seizing officer. 
+ 
+c. The seizing officer shall forward the Vehicle Evaluation Form and all of its applicable 
+attachments to the AFPD. 
+ 
+d. The AFPD shall communicate with the DES Commander in regard to any vehicle being  
+evaluated for forfeiture. 
+ 
+2. The Logistics Commander shall coordinate the title transfer with the Bureau of Motor 
+Vehicles (BMV) after receiving the court orders and all other necessary documents from the 
+AFPD. Once the vehicle is titled and commissioned, Logistics and Investigations Division 
+Commanders shall determine where the vehicle can be best utilized. 
+ 
+3. Seized vehicles shall not be used by Department personnel until forfeiture proceedings have 
+been completed and the property has been released to the Department. 
+ 
+D. Money and other property seized for use or sale 
+ 
+1. In all instances, if the item seized is money, the seizing or recovering officer shall have 
+another officer as a witness during a count of the money. The witnessing officer shall be 
+identified in the Initial Criminal Incident or Supplemental Report in RMS. 
+ 
+2. Employees shall comply with the general evidence submission requirements of FSD-001 and 
+FSD-010 when money is submitted to the Forensic Services Division (FSD) for evidence 
+storage. 
+ 
+3. If the seizure is being adopted by a federal agency, the money shall be placed into storage and 
+safekeeping in accordance with FSD-010. Once an Order of Transfer of Property has been issued 
+allowing the federal agency to take possession of the money for purposes of forfeiture, a 
+cashier’s check shall be made payable to the applicable federal agency. Employees shall refer to 
+ISP Federal Transfer Order (T.O.) Guide for additional direction. 
+ 
+4. In the event that seized money is going to be directly forfeited by a federal agency, an 
+employee may relinquish the money to the federal agency contemporaneously with the event or 
+4  
+action. This shall be documented in the officer’s criminal incident report. 
+ 
+5. If the seizure is being pursued at the state level, the money should be submitted to the 
+appropriate laboratory as evidence in compliance with FSD-010. 
+ 
+6. If a decision is made to not pursue a forfeiture of money, the seizing officer and the 
+appropriate laboratory personnel shall coordinate the return of the seized money to the rightful 
+owner. If the money cannot be returned at a Department facility with FSD personnel present, 
+then a cashier’s check shall be obtained and delivered to the rightful owner. A copy of the check 
+and the PR&R shall be forwarded to the AFPD for inclusion into the file. 
+ 
+7. The item in question shall be evaluated in order to determine whether the property should be 
+sold or used by the Department.  The criteria to be considered shall include: 
+ 
+a. Current need of the Department; 
+b. Condition/serviceability of the property; 
+c. Convertibility to money; and 
+d. Proposed use of the item. 
+ 
+NOTE: The seizing officer shall deliver the property to the district property officer for storage 
+unless it has been properly disposed of and recorded on a PR&R as outlined in FSD-001. 
+ 
+E. Drug Enforcement Section Commander Responsibilities: 
+ 
+1. Coordinating the Department’s asset forfeiture proceedings and overseeing the program 
+documents and files; 
+2. Coordinate and assist the Fiscal Division to ensure the forfeited funds are being directed to the 
+appropriate established accounts; and 
+3. Assist the Logistics Division Commander to determine whether a seized asset should be sold 
+or retained for the Department’s use. 
+ 
+F. Returning Assets: 
+ 
+1. If the Department elects to or receives a court order mandating the return of an asset, the 
+seizing officer in coordination with the AFPD, shall immediately notify the property owner by 
+certified mail of the following: 
+ 
+a. The Department will not be pursuing forfeiture action, and 
+b. The asset is available for release to the property owner, by appointment, at a designated 
+release site. 
+ 
+2. Contraband of any type shall not be returned. 
+ 
+3. A copy of the certified letter shall be forwarded to the AFPD and included  into the forfeiture 
+file. 
+ 
+5  
+4. The seizing officer is to ensure the property is returned to the rightful owner as soon as 
+practical and in compliance with FSD-001 and FSD-002. 
+ 
+G. Logistics Division Commander Responsibilities: 
+ 
+1. To ensure all forfeited property is entered into the Department’s inventory system. 
+ 
+2. Federal seizures: There is no time limitation on the use of federally forfeited property. 
+Federally forfeited property no longer useful or serviceable shall be returned to the FSS for 
+disposal through state surplus property procedures or other means. 
+ 
+3. State seizures:  Property forfeited through state statute may be used for a period of time not to 
+exceed three (3) years. Logistics shall work in conjunction with the AFPD to track these assets 
+and coordinate their return prior to this deadline. Within three (3) years following the order of 
+forfeiture, the property is required to be sold at public sale by the sheriff of the county where the 
+property was seized. Logistics shall be responsible to coordinate the transfer of the property to 
+the appropriate sheriff’s department. The applicable sheriff shall be requested to forward any 
+proceeds due the Department to the AFPD for deposit into the  appropriate forfeiture account. 
+ 
+H. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

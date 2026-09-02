@@ -1,0 +1,87 @@
+1 
+ 
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+LOG-010 
+Subject 
+Energy Control Program – Lockout/Tagout 
+Special Instructions 
+Replaces FSS-010 dated March 1, 2015 
+Effective Date 
+March 10, 2026 
+ 
+I. PURPOSE 
+ 
+Establish minimum requirements for an Energy Control Program prior to service or maintenance 
+of equipment and machinery. 
+ 
+II. POLICY 
+ 
+All equipment and machinery shall be locked out or tagged out to protect against accidental or 
+inadvertent operation when such operation could cause injury to employees. 
+ 
+III. DEFINITIONS 
+ 
+A. ENERGY SOURCE – Any source of electrical, mechanical, hydraulic, pneumatic, chemical, 
+thermal, or other type of energy that causes the machine or equipment to function. 
+ 
+B. LOCKOUT/TAGOUT – Applies to the control of any energy source to protect against 
+accidental or inadvertent operation during the servicing and maintenance of machines and 
+equipment. 
+ 
+IV. PROCEDURES 
+ 
+A. Shutdown procedures. 
+ 
+1. Notify all affected employees that a lockout/tagout procedure shall be used during service and 
+maintenance of local machinery; 
+2. Locate and identify all energy isolating devices that apply to the equipment to be serviced. 
+Equipment inventory lists should be used as a lockout/tagout reference. 
+3. Shut off the machinery; 
+4. Dissipate or safely restrain any stored energy; such as springs, elevated machinery parts, 
+rotating fly wheels, stored pressure in water, gas, steam, or air systems; and 
+5. Lockout and/or tagout all energy isolating devices with individually assigned locks or tags. 
+Double-check the possibility of accidental activation of the energy source before beginning 
+service/maintenance. 
+ 
+B. Startup procedures. 
+ 
+1. Reinstall all machinery guards, cages, panels and other safety devices; 
+2. Remove all tools and personnel from the immediate area of the services equipment or  
+machinery; 
+3. Remove individual locks and/or tags; and 
+4. Restore energy to the equipment or machinery. 
+
+2 
+ 
+ 
+C. Multiple employee operation. 
+ 
+1. If more than one authorized individual is involved with the service or maintenance of specific 
+equipment or machinery, each individual shall install the employee’s own lock or tag to the 
+energy-isolating device. 
+ 
+2. If outside personnel (contractors) are on-site, the on-site employer/employee and the contractor 
+shall inform each other of their respective lockout/tagout procedures and comply with IOSHA 
+standard restrictions mutually before service or maintenance begins. 
+ 
+D. IOSHA standard exclusions include: 
+ 
+1. Normal production operations that include minor equipment adjustment; and 
+ 
+2. Work performed on a cord and plug connected to the equipment, when the equipment is 
+unplugged and the employee working on the equipment has control of the plug. 
+ 
+E. Training and Inspection 
+ 
+1. Newly hired, transferred and other authorized employees shall be instructed by a supervisor or a 
+safety officer on the significance of the lockout/tagout standard. 
+ 
+2. Annual and unspecified periodic inspection of the energy control program shall be conducted to 
+ensure compliance. 
+ 
+F. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

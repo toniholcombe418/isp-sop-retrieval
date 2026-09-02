@@ -1,0 +1,122 @@
+1  
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State   Form   39870( R/ S- 06) 
+Reference Number 
+LOG-009 
+Subject 
+Asset Inventory 
+Special Instructions 
+Replaces FSS-009 dated March 1, 2015 
+Effective Date 
+March 10, 2025 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for maintaining an inventory of fixed assets and Department-issued/assigned 
+items. 
+ 
+II. POLICY 
+ 
+Inventory records shall accurately reflect the usual location of fixed assets and equipment items. All 
+commanders are responsible for purchases made from their respective area of command/control and 
+the accuracy of the inventory information. No purchases or changes shall be made without the 
+authority of the responsible commander.  Appropriate information, relative to all purchases, shall be 
+forwarded to the Logistics Division. 
+ 
+III. PROCEDURE 
+ 
+A. The Logistics Division shall maintain an inventory of all Department fixed assets and equipment 
+items except issued technology, which shall be maintained by the Criminal Justice Data Division 
+(CJDD).  CJDD and Logistics shall be held to the same accounting requirements as described 
+throughout the following procedure (if applicable). 
+ 
+1. Accounting/reporting shall meet the requirements established by the State Auditor‘s office. 
+ 
+2. Issuance of state asset numbers or serial numbers shall follow the monetary guidelines of the 
+Auditor’s office. However, all assets shall be tracked, even if there is no state number attached. 
+ 
+B. Each fixed asset item, within the appropriate monetary guidelines, shall have affixed to it a 
+permanent asset number supplied by the asset control clerk for that specific item. 
+ 
+C. The State Auditor’s office requires all Department property that is valued at or in excess of 
+$500.00 shall be entered into the PeopleSoft program. 
+ 
+D. Items with a cost less than $500 do not have to be reported to the Auditor’s office but shall be 
+tracked internally by serial number when available or by asset number when not available, as 
+approved by the Superintendent. 
+ 
+E. When asset(s) are transferred to or from a work area (area, division, district, etc.) or to or from, a 
+Department employee, a RMS Transfer of Equipment Form shall be completed and routed to the 
+Logistics Asset Management.  This procedure shall be followed regardless of whether the item has 
+an asset number or serial number.
+
+2  
+F. When a Department employee responsible for any accountable item leaves a position or location, 
+an auditing process shall occur, relieving responsibility of the employee leaving a position or 
+location and transferring the responsibility to the employee being assigned the applicable position or 
+location. 
+ 
+G. When any item is to be returned to the Quartermaster Section, the appropriate commander shall 
+complete a RMS Transfer of Equipment Form listing the item; complete with description and asset 
+number, serial number or item number (if applicable). 
+ 
+1. A copy of this receiver and a comment on the receiver requesting the item be picked up, shall be 
+forwarded to the Quartermaster Section with the monthly requisition for supplies. 
+ 
+2. The Quartermaster Section shall complete an automated receiver for items to be removed from 
+asset records. One copy of the automated receiver shall be sent to the appropriate commander, and 
+the original shall be retained in the permanent Quartermaster Section file.  If the appropriate 
+commander does not receive the copy, the Quartermaster Section should be contacted. 
+ 
+H. An inventory list containing all assets assigned to a commander’s respective area of 
+responsibility shall be supplied to each respective commander by the Logistics Division during the 
+first quarter of each year. 
+ 
+I. Upon receipt, the inventory list shall be reconciled and reviewed by Logistics Division personnel.  
+Logistics Division personnel shall make appropriate corrections, if needed.  If Logistics Division 
+personnel have any questions relative to the inventory list, the questions, noted with an explanation, 
+shall be sent to the appropriate commander, along with the inventory list, by the 30th of April each 
+year. 
+ 
+J. Upon arrival of Logistics Division personnel, the commander shall review the inventory list with 
+Logistics Division personnel.  Appropriate changes (if required) shall be made to the inventory list 
+to make it accurate. All revisions shall be entered into the system at the Logistics Division to make 
+the files current.  If changes are made, Logistics Division shall provide a revised inventory list to the 
+appropriate commander. 
+ 
+K. Whenever equipment is obtained from a vendor outside of the Department, it shall first be 
+checked by the appropriate quartermaster shipping and receiving clerk to ensure all equipment 
+meets specifications and is acceptable.  The buyer shall then submit, to the Department’s Asset 
+Control Clerk, a copy of the purchase order, partial payment receipt, receiver, or BA listing the 
+following information: 
+  
+Purchase Date 
+ Requisition 
+ Purchase Order Number 
+ Vendor 
+ Description 
+ Cost 
+ 
+1. The Asset Control Clerk shall assign the proper asset control number for each item, if needed, or 
+list the appropriate item number, and then return a copy of the automated receiver to the buyer, 
+clerk, or quartermaster shipping and receiving clerk. 
+3  
+2. The buyer, clerk, or quartermaster shipping and receiving clerk shall then attach a copy of the 
+automated receiver to the necessary paperwork to be cleared for payment.  Care should be taken to 
+avoid processing delays and provide prompt payment for purchases made.  However, every asset 
+purchase must have a copy of the Purchase Order (PO) listing the asset number before it can be sent 
+to the Fiscal Division, for payment.  The commander making the purchases is responsible for the 
+numbers being affixed to the items, per instructions provided by the inventory control clerk. 
+ 
+3. The Fiscal Division shall ensure the asset number, serial number or item number has been 
+assigned before making payment. 
+ 
+4. After automated receivers have been used to enter items into the system, the quartermaster 
+shipping and receiving clerk shall advise the asset control clerk as to what region, division or district 
+is to receive the item, and the asset control clerk shall generate an automated shipper assigning a 
+cost center number to the item. 
+ 
+L. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

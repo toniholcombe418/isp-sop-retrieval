@@ -1,0 +1,260 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State Form 39870(  R/ S- 06 ) 
+Reference Number 
+ENF-005 
+Subject 
+Crashes Involving Department Commissions 
+Special Instructions 
+Replaces ENF-005 dated September 15, 2025 
+Effective Date 
+February 24, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the investigation and reporting of crashes involving Department commissions. 
+ 
+II. POLICY 
+ 
+Crashes involving Department commissions shall be investigated with the same degree of impartiality 
+and thoroughness as crashes involving the general public. All required information shall be submitted 
+electronically through #ISP Commission Crash Packets for review and classification by the 
+Department’s Fleet Safety Director. 
+ 
+III. DEFINITIONS 
+ 
+A. DEPARTMENT CRASH – A motor vehicle crash involving a Department commission when there is  
+property damage or injury or death to any person. 
+ 
+B. FLEET SAFETY DIRECTOR – An individual appointed by the Superintendent to review all 
+Department crashes, collect and maintain related statistical data, and classify the nature of all 
+commission crashes. 
+ 
+C. COMMISSION − Issued vehicles or vehicles authorized for use by the Department  for Department 
+employees; including, lease vehicles, task force issued vehicles, etc. 
+ 
+D. PREVENTABLE CRASH – Occurs when a reasonable officer or person in a similar situation or 
+circumstance  could have employed measures or counter-measures to avoid the crash. 
+ 
+E. NON-PREVENTABLE CRASH – Occurs when a reasonable officer or person in a similar situation 
+or circumstance, even if they had employed measures or counter-measures, would have been unable to 
+avoid the crash. 
+ 
+IV. PROCEDURE 
+ 
+A. Reporting Commission Damage. 
+ 
+1. All damage involving a Department commission shall be immediately reported by the employee 
+involved to the district covering the location where the damage occurred and the employee’s immediate 
+supervisor or proper chain-of command. 
+ 
+2. An Indiana Officer’s Crash Report is required when: 
+ 
+a. A crash occurs and there is injury or death to a person (IC 9-26-21); 
+
+2  
+b. The total apparent damage to Department property (including other ISP equipment) exceeds 
+$2,500.00; 
+ 
+Note: Acts of “Deliberate intent” (intentional ram, legal intervention, Precision Immobilization 
+Technique (PIT), etc.) that result in injury or death to any person or property damage will require the 
+completion of an Initial Criminal Incident report (in lieu of a crash report) in addition to all other 
+required reports (PD49, Crash Packet, etc.): 
+ 
+c. There are indications of the use of alcohol or other drugs by the involved employee 
+ 
+The crash involves another party or damage to property exceeds $2,500.00; or  
+ 
+d. When the employee’s commanding officer or the Fleet Safety Director deems it appropriate that a 
+crash report be completed. 
+ 
+Note: If none of the above circumstances are present based on an authorized written estimate for the 
+commission and Field Support Services replacement costs for other ISP equipment, then a PD-49 may 
+take the place of the crash report and a crash report is not required. 
+ 
+3. All crashes, including those reported using a “PD-49 only,” will be classified and mileage penalties 
+will be assessed for preventable crashes. 
+ 
+4. Any damage to a Department commission shall be reported on a Report of Automobile Crash 
+or Equipment Loss form (PD-49). 
+ 
+B. Commission Crash Investigation 
+ 
+1. All commission crashes shall be investigated at the scene, as soon as possible, unless an emergency or 
+other justifiable reason causes a delay. 
+ 
+2. Responsibilities of assigned commission crash investigator: 
+ 
+a. The nearest available police employee shall be assigned by the district where the crash occurred to 
+respond to the scene. 
+ 
+b. The police employee assigned to investigate the commission crash shall gather all the necessary 
+information in order to complete a crash report and shall take photographs, even if the crash initially 
+appears to qualify to be reported on a “PD-49 only.” 
+ 
+c. Department commissions shall be listed as Vehicle #1 on all reports. 
+ 
+d. For the crash report and related forms, the investigating officer shall list the address of the employee 
+involved in the crash as the Department facility where the employee works, e.g. district, area, or general 
+headquarters street address. 
+ 
+e. The VEHICLE USE category shall be marked as POLICE when the operator of a Department 
+Commission is an enforcement officer (trooper, CPS, or MCI). 
+ 
+3. Responsibilities of supervisor or command officer related to commission crash investigation: 
+3  
+a. When available, a supervisor or command officer should be assigned to respond to and investigate a 
+commission crash, if it involves personal injury; or 
+ 
+b. A supervisor or command officer (with the assistance of an area team crash reconstructionist) shall be 
+assigned to respond to and investigate a commission crash involving serious bodily injury, fatality or 
+possible criminal violations (including Operating While Intoxicated (OWI)). 
+ 
+c. Supervisors or command officers assigned to investigate a commission crash may be assisted in the 
+investigation by other officers as needed e.g. field sobriety tests, etc; however, any citations, charges, or 
+physical arrest of the employee/driver shall be handled by the investigating supervisor/command officer. 
+ 
+d. A command officer shall be assigned to coordinate the investigation and ensure that all reports are 
+completed, and that photographs, and evidentiary materials are submitted/uploaded in the appropriate 
+Department system as soon as possible. 
+ 
+4. A crash reconstructionist shall be called to the scene of all serious personal injury or fatal crashes to 
+assist in the investigation. 
+ 
+5. Commission crashes involving possible chemical tests:* 
+ 
+*Note: No employee can be compelled or ordered to provide a breath or blood sample for a chemical 
+test during a criminal investigation. However, the Department may compel an employee to provide the 
+requested sample for the purposes of an intra-departmental investigation. 
+ 
+a. When an employee/driver is involved in a serious bodily injury or fatality crash (IC 9-30-7) and there 
+is no probable cause to believe the employee/driver is under the influence of intoxicating beverages or 
+drugs a supervisor shall offer or direct an employee/driver a portable or chemical breath test, as required 
+under IC 9-30-7-3. 
+ 
+b. If an employee is unable to give consent, the supervisor shall contact the Legal Office for further 
+guidance. 
+ 
+c. If the employee/driver tests positive for intoxicants, the supervisor/investigating officer should 
+conduct further investigation to develop probable cause and evidence of intoxication to support the 
+OWI. 
+ 
+d. If the employee/driver refuses to submit to a portable or chemical breath test the command officer 
+should issue a citation for violation of IC 9-30-7-5; after which, the supervisor shall proceed to and 
+follow the instructions in sub-section “2” below. 
+ 
+6. Probable cause OWI investigation: 
+ 
+a. If a Department member detects any evidence that the employee/driver has been consuming 
+intoxicating beverages or is under the influence of drugs, a supervisor shall oversee the OWI (criminal) 
+investigation in conjunction with the crash investigation. The provisions of Implied Consent shall be 
+applied and processed in compliance with state law (IC 9-30-6-2). 
+ 
+b.  Any breath sample provided by an employee must comply with the requirements of IC 9-30- 
+6-5. Blood samples provided by an employee must be taken in accordance with the procedure set out in 
+4  
+IC 9-30-6-6. 
+ 
+c. If the supervisor offers or causes the employee/driver to be offered a blood test, the supervisor shall 
+transport or have the employee/driver transported to a state-licensed hospital* to provide the sample. 
+ 
+*NOTE - A “licensed hospital” is “an institution, a place, a building, or an agency that holds out to the 
+general public that is operated for hospital purposes and that it provides care, accommodations, 
+facilities, and equipment, in connection with the services of a physician, to individuals who may need 
+medical or surgical services.” (IC 16-18-2-179(b)). Physicians’ offices, outpatient facilities, freestanding 
+health facilities, or emergency care centers specializing in first aid that do not have the ability to admit 
+and house patients on an indefinite basis are not “licensed hospitals” for the purposes of this SOP. 
+ 
+d. If an employee/driver refuses to provide a sample for the investigations described in sections  above, 
+the command officer shall, through channels, contact the Internal Investigations Section (IIS).  
+ 
+(i) The IIS shall determine if an intra-departmental (internal) investigation shall be initiated and if the 
+employee/driver shall be ordered* to submit to a chemical test for intoxicants as part of an internal 
+investigation.  
+ 
+*NOTE: Voluntary samples provided as part of a criminal investigation may be included in an inter-
+departmental investigation; however, compelled samples taken as part of an intra-departmental     
+investigation may not be included in a criminal investigation. 
+ 
+C. Responsibility for the completion of applicable reports 
+ 
+a. The investigating officer shall ensure the crash investigation and report are completed and submitted 
+within applicable Department policies. 
+ 
+b. The involved employee (driver) shall: 
+ 
+1. Ensure a PD-49 is completed in RMS (including, in the employee’s own words, a description of the 
+events leading up to the crash) and if applicable a Report of Personal Injury or Illness form; 
+2. Obtain estimates of damage (see section D.1(b) below); and 
+3. Shall ensure items “a” and “b” (above) are submitted to their commanding officer or designee. 
+ 
+c. Commander’s review and responsibilities. 
+ 
+1. The employee’s commander, or designee, (section, district, division, etc.) upon receiving the report of 
+a commission crash shall: 
+ 
+(i) Make the necessary notifications, through the chain of command. The level of immediate 
+notification, through the chain of command, shall be determined by the extent of the crash. 
+ 
+(ii) Notify the Primary Staff and the Legal Office when an injury or death has occurred; and 
+ 
+(iii) Shall review the RMS entry and ensure that all documents are accurate and complete and route to 
+Commission Crash group in RMS, NO LATER THAN 10 CALENDAR DAYS AFTER THE CRASH. 
+ 
+ 
+5  
+2. Review the crash investigation prior to its submission into the ARIES Crash Report system. 
+ 
+3. If the commander identifies any policy or training violation related to a commission crash, they shall 
+cause a BlueTeam entry to be made. 
+ 
+d. The Fleet Safety Director shall review each commission crash report and packet and has the authority 
+to make inquiries into the crash and its review.  
+ 
+(i) If the Fleet Safety Director identifies any policy or training violation related to a commission crash, 
+they shall contact the appropriate commander to cause a BlueTeam entry to be made. 
+ 
+D. Electronic Crash Packet: 
+ 
+1. The crash packet shall consist of: 
+ 
+a. A PD-49a (in RMS) and completed crash report, if applicable; 
+ 
+b. Three (3) itemized estimates (DO NOT INCLUDE SALES TAX) from a credible auto repair shop or 
+one (1) itemized estimate from a State IDOA or INDOT facility; and 
+ 
+c. Digital photos of the commission damage of sufficient quality shall be attached to the RMS PD49 for 
+review to assist in the determination of repairs.  
+ 
+NOTE: Items that are not computer templates or computer based (e.g. Word, Excel, etc.) shall be 
+scanned into electronic form and attached to the crash packet. 
+ 
+2. The Logistics Division will contact the Fiscal Division to determine the most effective and efficient 
+method for repairing the commission. Notification will be provided to the employee’s commander 
+regarding the decision to repair or replace the vehicle. 
+ 
+E. Payment for the repair of commissions 
+ 
+1. The employee assigned the commission shall request the final receipt for services when picking up 
+the commission from the repair facility. 
+ 
+2. The employee shall submit the receipt to their commanding officer. 
+ 
+3. The commander should sign the invoice as confirmation that the billed repairs were made and are of 
+good quality. 
+ 
+4. If the invoice is higher than the estimate given, the commanding officer shall request an explanation 
+from the vendor regarding the difference in cost and then attach this information to 
+the invoice. Commanders shall closely monitor vendors whose invoices are consistently higher than 
+their original estimates 
+ 
+5. The commander, or designee, shall attach the invoice to the PD49 in RMS and route to the 
+Commission Crash group. 
+ 
+F. For information regarding the Department’s Fleet Safety Program or the classification of Department 
+6  
+crashes refer to SSU-002 Fleet Safety Program. 
+G. This procedure is to be used in conjunction with all relevant Department regulations, rules, policies, 
+and procedures.

@@ -1,0 +1,179 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+FSD-004 
+Subject 
+Firearms Disposal 
+Special Instructions 
+Replaces LAB-004 dated November 16, 2023 
+Effective Date 
+July 15, 2025 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the disposition of firearms seized as evidence in a criminal matter or 
+pursuant to court order, as well as those firearms that are found, recovered, or held for safe- 
+keeping by Department employees. 
+ 
+II. POLICY 
+ 
+All firearms seized by a Department employee shall be securely held in a properly designated 
+location by the Forensic Services Division until ordered to be released or destroyed by the 
+assigned investigating officer or otherwise ordered for disposal by a court having venue for the 
+cause,     in a manner outlined in this procedure. 
+ 
+III. PROCEDURE 
+ 
+A. Pre-Trial Disposition - IC 35-43-4-4 and IC 35-33-5-5 state, in part, that evidence which 
+consists of property obtained unlawfully from its rightful owner may be returned by the 
+Department to its rightful owner before the trial so long as: 
+ 
+1. The prosecutor having venue in the case has not requested the Department to retain the 
+physical evidence. 
+ 
+a) All requests to retain such evidence shall be in writing and attached to the case report. 
+ 
+b) Notwithstanding this provision, it shall be the duty of the assigned investigating officer to 
+obtain approval from the appropriate prosecutor’s office prior to returning items of evidence. 
+ 
+2. In cases where the firearm is owned by the Department or an individual officer, and the item 
+is evidence in a police action incident, the Legal Office shall approve the release. 
+ 
+3. The evidence shall be photographed in such a manner as will serve the purpose of 
+demonstrating its nature, and the photographs shall be maintained in file in lieu of the evidence. 
+ 
+NOTE: Photographs demonstrating the nature of the evidence may be admissible as evidence. 
+All other rules of law, governing the admissibility of evidence in general, shall apply to 
+photographs. 
+ 
+4. The assigned investigating officer shall obtain a receipt of the delivery of the firearm to its 
+rightful owner and complete a Pre-Trial Release of Evidence form (Stock # 40096) to be 
+maintained along with all other records for the disposition of the firearm, to include copies filed 
+in the case report. 
+ 
+
+2  
+B. Post-Trial Disposition of Firearms - Upon obtaining a final disposition of the cause at trial 
+level or any other court approved final disposition agreement: 
+ 
+1. Firearms shall be immediately returned to the rightful owner, if known, by the assigned 
+investigating officer following the release procedure in Section D (IC 35-47-3-2(b)). 
+ 
+2. If the rightful owner is unable to possess the firearm because of a criminal conviction or 
+other prohibition under Indiana or federal law, the owner must provide a court order or a 
+notarized affidavit directing the transfer of ownership to another party who may lawfully 
+possess the firearm.  
+ 
+3. If the rightful owner has been convicted for the misuse of the firearm, the court may provide 
+for the return of the firearm, or order it delivered at once to the sheriff’s department of the county 
+in which the offense occurred or the law enforcement agency that confiscated the firearm (IC 35- 
+47-3-2(b)(1) and (b)(2)). 
+ 
+4. If the rightful owner is not prohibited under Indiana law but is otherwise unable to legally 
+possess the firearm, the assigned investigating officer shall request a notarized letter from the 
+rightful owner or a court order, providing authority for another party to take custody of the 
+firearm. The release procedure in Section D shall be followed. 
+ 
+5. If ownership is unknown, the assigned investigating officer shall make a reasonable attempt to 
+ascertain the ownership of the firearm for proper return. 
+ 
+a) Should the ownership be ascertained, a certified letter shall be sent by the assigned 
+investigating officer to the last known address of the owner with notification of the firearm 
+release and a copy shall be provided to the applicable Forensic Services Division’s property 
+officer and  included as an attachment to the case report. 
+ 
+b) If the owner cannot be ascertained or contacted by reasonable efforts, the firearm shall be 
+considered abandoned and disposed of according to the procedure in Section C. 
+ 
+c) All attempts at contact shall be documented by the assigned investigating officer in the 
+associated case report. 
+ 
+6. In cases where the firearm is owned by the Department or an individual officer, and is 
+involved in a police action incident, the Legal Office shall approve the release. 
+ 
+C. Lost or Abandoned Firearms Disposition / Firearms for State Auction or Sale - 
+Firearms that come  into the custody of the Department by virtue of being lost or abandoned 
+shall be disposed of pursuant to IC 35-47-3-2(c) and (d). 
+ 
+1. After 180 days since the Department received the firearm, when all reasonable attempts to 
+locate the rightful owner have failed or the rightful owner has been convicted of an offense 
+related to the misuse of a firearm, and there is no court order to return the firearm to the rightful 
+owner or transfer of ownership, the firearm shall be disposed of in accordance with this section. 
+ 
+2. Methods of disposition shall include the following: 
+ 
+3  
+a. Public auction; 
+b. Sale to a licensed firearms dealer; 
+c. Sale or transfer to another law enforcement agency; 
+d. Release to the Forensic Services Division’s Reference Collection upon approval of the Forensic 
+Firearms Identification Unit Supervisor; or 
+e. Destruction of the firearm. 
+ 
+3. Firearms identified for auction, sale, or destruction shall be verified by the assigned 
+investigating officer as not reported stolen through the National Crime Information Center 
+(NCIC) prior to  requesting disposition by the property officer. 
+ 
+4. For a firearm identified for auction or sale, the assigned investigating officer shall: 
+ 
+a. Provide a copy of the approved case report supplement, inclusive of the NCIC stolen 
+check, to the property officer indicating the final disposition as auction or sale; and 
+b. Verify the firearm possesses a proper serial number prior to transmittal by the property officer 
+to the Quartermaster Section. 
+ 
+D. Release of Firearms - If a firearm is to be released to an individual: 
+ 
+1. The assigned investigating officer shall provide Dispatch with the name and identifiers of 
+the person to whom the firearm is being released to, the case number, as well as the serial 
+number, make, and caliber of the firearm being released; and 
+ 
+a) Dispatch shall complete a Gun Query to determine if the firearm is entered into the NCIC Gun 
+File; and 
+ 
+b) Dispatch shall complete a National Instant Criminal Background Check System (NICS) 
+Records Query on the person picking up the firearm (this runs a Criminal History Query 
+automatically); and 
+ 
+c) Dispatch shall complete a Criminal Record Request Query if NICS Records Query indicates 
+the person picking up the firearm has a Federal Bureau Investigation (FBI) number. 
+ 
+d) The assigned investigating officer shall provide the current documentation to the property 
+officer affirming the firearm is not reported as stolen and the person picking up the firearm is 
+eligible to possess the firearm, all of which shall be included as an attachment to the case 
+report. 
+ 
+2. The assigned investigating officer shall make all necessary arrangements with the property 
+officer and the rightful owner or assignee for scheduling the release. 
+ 
+E. Firearms Seized from Dangerous Persons (IC 35-47-14) - Firearms seized from a 
+dangerous person pursuant to a warrant or retention order shall be stored by the Forensic 
+Services Division until further order of the court. 
+ 
+1. If at least five (5) years have passed since the seizure/retention of the firearm, a court may 
+order the firearm disposed under IC 35-47-3-2 and IC 35-47-14-9 as required in Section B. 
+ 
+4  
+2. If the court, at any time, orders the firearm sold, the assigned investigating officer shall 
+immediately cause the firearm to be processed for auction or sale under IC 35-47-3-2 as 
+required in Section C (IC 35-47-14-10 (c) and (d)). 
+ 
+3. If the court orders the transfer of the firearm to a responsible third party, the assigned 
+investigating officer shall immediately cause the firearm to be released to that person 
+according to the procedure outlined in Section D (IC 35-47-14-10(a) and (b)). 
+ 
+F. Firearms Held for Safekeeping - Firearms held for safekeeping shall be submitted to the 
+Forensic Services Division following the procedures in FSD-001. 
+ 
+1. It is the responsibility of the assigned investigating officer to ensure these firearms are 
+returned to the rightful owner as soon as is practical after submission as required in Section D. 
+ 
+2. Firearms, ammunition, and other deadly weapons held in connection with a domestic or 
+family violence situation shall be stored during the pendency of the proceeding related to that 
+event. If no charges are filed, the item(s) shall be returned as soon as is practical (IC 35-33-1-
+1.5) as required in Section D. 
+ 
+G. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

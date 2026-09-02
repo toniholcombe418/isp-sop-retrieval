@@ -1,0 +1,55 @@
+1 
+ 
+ 
+ 
+STANDARD   OPERATING   PROCEDURE 
+State Form 39870( R/ S- 06) 
+Reference Number 
+ENF-013 
+Subject 
+Road, Signal, Sign Defects, and Utility Outages 
+Special Instructions 
+Replaces ENF-013 dated March 1, 2015 
+Effective Date 
+   September 15, 2025 
+ 
+I. PURPOSE 
+ 
+Provide guidelines in identifying potential traffic engineering problems, road, signal, and sign 
+defects, and for the reporting of such issues to the proper authorities or public utility. 
+ 
+II. POLICY 
+ 
+Enforcement personnel should report all utility outages and road, signal, and sign defects when  
+those defects could create a hazardous condition or make travel on the roadway unsafe. 
+ 
+III. PROCEDURE 
+ 
+A. Traffic safety/engineering issues. 
+ 
+1. Enforcement personnel, after learning of a roadway defect or hazard should, at the earliest 
+possible time, report the issue to the applicable Regional Dispatch Center (RDC). 
+ 
+2. The RDC shall make an entry into the CAD System. 
+ 
+3. The RDC shall notify the proper agency about the issue and update the CAD entry with  the name 
+of the company notified, name of the company’s representative, date, time, and information 
+reported about the problem. 
+ 
+4. The CAD entry shall remain active until the issue is repaired or for 24 hours. After 24 hours, if 
+there have been no status updates, the RDC shall assign an officer to recheck the issue. If the issue 
+has not been repaired, the CAD shall be updated and the information forwarded to the district 
+commander. 
+ 
+B. Upon receipt of a non-resolved issue, the district commander shall formally notify  the proper 
+agency of the issue.  A copy of this documentation shall be maintained by the reporting officer. 
+ 
+C. Statistical data, available through the Criminal Justice Data Division (CJDD) should be used to 
+assist in identifying problem areas that can be addressed, through enforcement, or by providing 
+information to the proper traffic-engineering professionals. 
+ 
+D. The district commander shall maintain liaison with highway department personnel to promote 
+traffic safety in general and to provide them with statistical information as may be required. 
+ 
+E. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.

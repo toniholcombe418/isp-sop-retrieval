@@ -1,0 +1,211 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+ENF-004 
+Subject 
+Crash Investigation/Reporting Timelines 
+Special Instructions 
+Replaces ENF-004 dated October 29, 2025 
+Effective Date 
+July 1, 2026 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for investigating and reporting vehicle crashes and provides deadlines for 
+submitting reports to the applicable district and crash repository. 
+ 
+II. POLICY 
+ 
+Department personnel investigating motor vehicle crashes resulting in fatality, injury, or property 
+damage (meeting state requirements) shall document the crash using the approved crash reporting 
+method. 
+ 
+III. PROCEDURE 
+ 
+A. Department personnel when aware of, and applicable, shall respond to the scene of a motor 
+vehicle crash to assist with or investigate and complete a crash report whenever there is: 
+ 
+1. Injury or death of a person; or 
+2. Total property damage (e.g. vehicles, cargo, and other property) of $2,500.00 or more; and 
+3. The crash occurred on a trafficway or private property that is open to the public. 
+ 
+B. Department personnel shall also investigate and report, if applicable, any crash involving: 
+ 
+1. Any state police vehicle; 
+2. If available, all other state owned vehicles or property; 
+3. Any apparent impairment of a participant due to alcohol or drugs; or 
+4. Any time (regardless of the amount of property damage) there is: 
+ 
+(i)  A violation of law, which is the primary or a contributing cause of the crash; 
+(ii)  A disagreement or conflict between the parties involved; 
+(iii) One of the participants illegally leaves the scene of the crash; or 
+(iv)  The crash involves hazardous materials; and; 
+ 
+5. Whenever the vehicle or vehicles have been moved from the scene and the crash meets the criteria 
+set forth in section III. A. 1-3. 
+ 
+C. Officers at the scene shall: 
+ 
+1. Evaluate the scene for hazards and initiate necessary protective measures to include staying a safe 
+distance from the scene if the proper protective equipment is not available; 
+ 
+2. Ensure the applicable regional dispatch center and appropriate command personnel are kept aware 
+of the scene status; 
+
+2  
+ 
+3. Provide immediate care for the injured and request additional assistance as needed; 
+ 
+4. Ensure the property from a vehicle is secured if the owner is unable to care for it; if necessary, 
+secure and properly inventory valuable items to be released to the owner later; 
+ 
+5. Obtain all information and conduct an appropriate investigation, including photographs and 
+measurements, to complete the report; and 
+ 
+6. The investigating officer shall provide each driver with a driver’s exchange of information form 
+or similar document and should advise each driver to immediately notify their insurance company of 
+their involvement in a crash. 
+ 
+7. It is the investigating officer’s responsibility to ensure that crash investigation photographs are 
+taken at all crash scenes, if a crash report is completed. 
+ 
+D. Activation of Area Crash Investigation & Reconstruction Teams: 
+ 
+1. Members of the Area Crash Investigation & Reconstruction Team (CIRT) team may be requested 
+by other agencies, Department personnel at the scene, or by district command when crashes 
+involves: 
+ 
+a. Serious bodily injury or death; 
+b. Other special circumstances, which may include: 
+ 
+(i)  Crashes involving emergency vehicles (police, fire, or ambulance), 
+(ii) Government owned vehicles, or 
+(iii)  Commercial Motor Vehicles. 
+ 
+c. CIRT may also be called to assist with the investigation of large-scale incidents which require 
+forensic mapping of the scenes should the need arise. 
+ 
+2. District personnel will notify the CIRT team leader of the available crash details and provide 
+contact information for the crash scene officer-in-charge (OIC). 
+ 
+3. The CIRT team leader will immediately contact the crash scene OIC and obtain the specific facts 
+of the preliminary crash investigation and determine the immediate need for a CIRT member to 
+respond to the scene. Once the determination is made, the CIRT leader will notify a CIRT 
+member(s) for a response in addition to updating the district personnel as to who is responding and 
+an approximate estimated time of arrival (ETA). 
+ 
+E. The Commercial Vehicle Enforcement Division (CVED) shall be contacted if the crash involves: 
+ 
+1. A load of hazardous materials (not including the loss of fuel from a vehicle fuel tank); 
+ 
+2. A school bus or passenger motor coach (in the business of transporting passengers); and 
+ 
+3. Anytime a commercial motor vehicle (CMV) is involved in a personal injury or fatal crash or any 
+3  
+crash where the operation of the CMV or its equipment comes into question. CVED involvement 
+may require additional inspection or investigation by CVED personnel. Refer to CVE-007 regarding 
+specific criteria and action required. 
+ 
+F. Crashes involving fatal injuries. 
+ 
+1. Fatal vehicle crashes investigated by the Department shall be reported to the Criminal Justice 
+Institute, using the Fatal Accident Reporting System (FARs) report, as soon as the information is 
+available. 
+ 
+2. A supplemental crash report shall be submitted to ARIES whenever toxicology reports are 
+received  regarding a fatal crash. 
+ 
+3. All ARIES reports involving fatalities should be sent to the Crash Reconstruction Coordinator and 
+the respective Area Crash Reconstruction Team Leader, after direct supervisor review, for a final 
+review before being uploaded into the ARIES Portal. 
+ 
+4. Any ARIES report completed that involves a police pursuit that results in serious bodily injury or 
+death shall be submitted to the Area Crash Reconstruction Team Leader for final review prior to 
+submission into the ARIES portal. 
+ 
+G. Chemical tests for intoxicants from drivers involved in a fatal vehicle crash (IC 9-13-2- 22 and IC 
+9-27-5-4) (breath or blood). 
+ 
+1. To the maximum extent practicable, and in a manner consistent with legal rights and Implied 
+Consent, chemical test for intoxicants (breath or blood) shall be given to drivers including surviving 
+drivers involved in a fatal vehicle crash and pedestrians 15 years of age or older, if deceased within 
+four (4) hours of the vehicle crash. 
+ 
+2. Fluid blood samples obtained from a driver(s) involved in a fatal vehicle crash (including 
+surviving drivers and pedestrians 15 years of age or older) and, if of evidential value in pending 
+criminal prosecution, shall be forwarded to the appropriate laboratory for analysis. Samples taken 
+from surviving drivers shall be taken only by properly trained medical personnel. 
+ 
+H. Notice to Owner of the Site of an Accident: 
+ 
+1. The investigating officer shall notify the owner of real property, if a crash results in: 
+ 
+a. Damage to the owner’s real property, crops, building, structure, or fixture attached to the owner’s 
+real property; or 
+b. Debris from a crash is left on the owner’s real property that could result in damage to farm 
+equipment or other vehicles or property. 
+ 
+2.  The investigating officer shall enter on the Computer Aided Dispatch (CAD) that notification is 
+required and when completed.  The CAD shall not be closed until notification is completed. 
+ 
+3.  If the officer cannot make notification prior to the conclusion of their shift, the CAD shall remain 
+open and an officer on the next shift shall be assigned to make notification. 
+4  
+I. Completing and Submitting crash reports: Department personnel shall: 
+ 
+1. Utilize the ARIES electronic crash reporting system to complete and submit reports; 
+ 
+2. Complete all crash reports following the guidelines outlined in the ARIES Crash Report manual, 
+ISP crash investigation training and applicable state laws; 
+ 
+3. All crash narratives shall follow the approved format and include: 
+ 
+a. A description of the involved vehicle(s) behavior before, during and after the crash; 
+b. Statements from each driver(s) involved.  Written statements by each driver may be included as 
+an attachment; 
+c. Statements from each Witness or other participant (if applicable). Written statements by each 
+participant shall be included as an attachment, and 
+d. The investigating officer’s explanation as to the determination of the causation factor(s). 
+ 
+4. Submit reports electronically through ARIES by the third day following the crash; and 
+ 
+5. The report shall be transmitted through ARIES as soon as approved. 
+ 
+6. When a crash reconstruction is completed (either full reconstruction or on-scene assistance by 
+CIRT team members) in addition to the ARIES crash report, a criminal incident titled Crash 
+Reconstruction shall be initiated. The additional offense of Death Investigation – Traffic may be 
+added as a secondary title to the incident if it is a fatal crash. 
+ 
+J. In situations involving ISP pursuits, all ARIES crash reports shall be reviewed by the respective 
+Area Crash Reconstruction Team Leader, after the district review, prior to submission into the 
+ARIES portal.  This includes those crashes involving property damage only. 
+ 
+K. Vehicle crashes involving deer. 
+ 
+1. All deer injured or killed by a collision with a motor vehicle shall be disposed of in the following 
+manner: 
+ 
+a. Any injured deer shall be destroyed in accordance with ENF-011. 
+ 
+b. Any deer killed or destroyed may be released to the owner or driver of the damaged vehicle or to 
+anyone else at the discretion of the investigating officer. Priority shall be given to the owner or 
+driver of the vehicle involved; 
+ 
+c. If two or more deer are involved, the owner or driver shall be eligible for only one deer.  Any or 
+all other deer may be released to anyone other than the driver of the vehicle involved; 
+ 
+d. A permit (State Form #38460) from the Department of Natural Resources shall be issued by the 
+investigating officer to all persons granted possession of any or all deer killed or destroyed. The 
+permit allows possession of the deer for a period not to exceed 60 days; and 
+ 
+e. If no one at the scene wants the deer, the district duty officer shall request the removal of any or 
+5  
+all deer by the appropriate highway department or other means. 
+ 
+f. Non-residents are also eligible to receive a deer. 
+ 
+L. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

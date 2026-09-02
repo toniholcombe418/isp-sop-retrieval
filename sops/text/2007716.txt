@@ -1,0 +1,394 @@
+1  
+ 
+ 
+STANDARD OPERATING  PROCEDURE  
+State   Form 39870 ( R/ S- 06 ) 
+Reference Number 
+CIS-008 
+Subject 
+Communications Procedures 
+Special Instructions 
+Replaces CJD-011 dated January 1, 2012 
+Effective Date 
+January 15, 2015 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for radio and telephone communication by Department employees. 
+ 
+II. POLICY 
+ 
+Department employees shall utilize proper procedures when communicating via radio or 
+telephone and shall maintain contact with the Department as prescribed in this procedure. 
+ 
+III. TABLE OF CONTENTS 
+ 
+Section IV - Communications Procedures – General 
+Section V - Dispatch Procedures and Radio Frequencies 
+Section VI - Regional Dispatch Centers: Duties, Responsibilities, and Procedures 
+Section VII - Calls for Service 
+Section VIII - Radio Broadcasts (Attempt to Locate and Investigate For) 
+Section IX - Overtime Requests 
+Section X - Telephone Protocol 
+Section XI - Satellite Mutual Aid Radio Talk group (TG) (SMART) 
+ 
+IV. COMMUNICATION PROCEDURES (General) 
+ 
+A. Enforcement personnel shall monitor Department radios at all times when in the commission 
+and shall answer the radio, if called, (either specifically by car number or by open call, e.g., any 
+car in the vicinity, if it applies to their location), using their assigned car number and location. 
+ 
+B. Appropriate radio (Ten and Signal) codes should be used, during the normal course of duty, to 
+conduct official business and report service status to the applicable district; however, when 
+utilizing Mutual Aid (MA) talk groups (TG), personnel shall use simple-plain concise English 
+instead of radio codes. 
+ 
+C. Regional Dispatch Centers (RDC) shall monitor and record the duty status of applicable 
+personnel in the appropriate CAD system. 
+ 
+D. While on duty and absent from the commission, enforcement personnel shall maintain 
+communication via the Department issued portable radio. When communication cannot be 
+maintained by portable radio, personnel shall advise the appropriate RDC of their location, 
+reason for the out-of-service status and shall maintain contact by cell phone, as per CIS-013 
+Department Telephones and Cell Phones. 
+ 
+E. All radio transmissions (on ISP or other agency frequencies) shall consist of official traffic 
+and shall be transmitted in an accurate, concise and business-like manner. 
+
+2  
+F. Special details or events (state fair, race details, etc.) shall transmit on Ops 2, or 3 as directed 
+by the detail commander. Ops 1 should only be used when absolutely necessary. 
+ 
+G. Commission radios shall be primarily set on ISP-Dispatch and must be set on ISP-Dispatch 
+when personnel are out of the commission using their Department portable radio. 
+ 
+H. Portable radios may utilize non-ISP TGs with an emphasis on scanning. ISP-Dispatch shall 
+be included in all scan lists. Transmission on non-ISP TGs shall be limited to official business or 
+to direct personnel to the appropriate Mutual Aid talkgroup. 
+ 
+I. Interoperability between agencies should rely on the Regional Mutual Aid talkgroups. 
+ 
+J. All Department personnel utilizing communication equipment are responsible for the proper 
+use of and compliance with the applicable FCC Rules and Regulations. 
+ 
+K. The TG scan option shall not normally be deactivated for more than a seven (7) minute 
+period, unless in the applicable District’s dispatch mode. Prior to deactivation of the TG scan off 
+dispatch TG (estimated to be in excess of seven (7) minutes), the employee shall notify the 
+applicable Dispatch Center and the reason for the deactivation and the TG to be utilized during 
+the deactivation. 
+ 
+L. Unauthorized removal or movement of equipment is prohibited. 
+M. Department equipment shall be maintained by Field Support Services. 
+N. Programming and set-up of portable and in-car radio equipment along with repairs and/or 
+programming to encryption/security sensitive radios shall be done by the Integrated Public 
+Safety Commission (IPSC), as directed by the Assistant Chief of Staff (ACS) Communication 
+and Information Systems (CIS) and with the appropriate MOU. 
+ 
+O. Requests for alterations to the radio TGs or program templates, shall be submitted, in writing 
+and forwarded, through channels, to CIS. 
+ 
+P. Radio TG assignments and installation: 
+ 
+1. Shall be accomplished as authorized in the Communications Procedures Manual. 
+ 
+2. Installation of specialty talkgroups requires the following authorization: 
+a. SWAT* - Special Operations Command Commander. 
+b. DES* - Special Investigations Commander. 
+ 
+*Frequency installation requires proper encryption radio. 
+ 
+Q. Emergency Alarm Activation/Response. 
+1. Activation of a radio’s emergency alarm shall send an alert to the affected ISP RDC. Any 
+employee activating an alarm shall (if able) communicate the details of the emergency to the 
+district. 
+3  
+2. If the employee sending the alarm cannot be contacted, a Department police employee (or 
+other agency) shall be immediately sent to the location (if known) of the affected employee. 
+ 
+3. If the alarm is false, the involved employee shall immediately notify the affected ISP dispatch 
+center of the false alarm, including the circumstances that caused the activation. 
+ 
+Note: When an employee activates the “Emergency” alarm on a portable radio, the radio will 
+automatically transmit (hands-free) for 10 seconds. During this time, the employee (if possible) 
+should indicate their location and status. 
+ 
+R. No-Contact Report. 
+ 
+1. A no-contact situation (emergency or unknown) is a command responsibility and shall not be 
+delegated to dispatchers or other non-command personnel. 
+ 
+2. When a no-contact situation is experienced, the following procedures shall be adhered to: 
+ 
+a. The dispatcher shall send a “call alert or ping” to the officer and shall notify the regional duty 
+officer (RDO). All means available shall be utilized, e.g. Mobile Solution, Department or 
+personal cell phone, email, etc., to locate the officer. When applicable, the district duty officer 
+(DDO) of the missing officer’s district shall also be notified; 
+ 
+b. Attempts to contact the field officer shall be made at 60-second intervals until contact has 
+been re-established. All such attempts shall be recorded in the appropriate district’s CAD 
+system; 
+ 
+c. Attempts shall be made to determine last known location and have officers check the area. 
+ 
+d. The dispatcher shall record on the CAD when contact is re-established; and 
+ 
+e. The RDO shall forward the CAD information and a report of the circumstances to the district 
+commander. 
+ 
+S. Additional Authorized Communications Equipment (Operation). 
+ 
+1. Only Department authorized communications equipment shall be installed in Department 
+commissions as per FSS-008 Maintenance of Department Commissions. 
+ 
+2. Use of a Citizens Band (CB), amateur or two-way radio shall comply with all FCC rules 
+governing CB or two-way radio transmissions; 
+ 
+V. DISPATCH PROCEDURES 
+ 
+A. Dispatch centers shall continuously monitor the following talkgroups and frequencies: 
+ 
+1. Dispatch 2. Regional MA1 3. Statewide Call 4. SW-1 
+5. NIPS-Call 6. Point to Point 7. Other*  
+*Note: Dispatch Centers may be required to monitor talkgroups, frequencies or other 
+RDCs not listed above during certain emergencies or special events. 
+4  
+ 
+B. Broadcasts relative to district-wide need-to-know and timely information shall be transmitted 
+on the District’s dispatch and Regional Mutual Aid talkgroups. 
+ 
+C. The regional MA-talkgroup (ex: JMA-1) will be utilized as primary dispatch for the regional 
+mutual aid talkgroups and for calls or dispatches of high priority radio traffic. 
+ 
+1. High priority radio traffic (dispatches) shall include, but are not limited to: 
+ 
+a. Pursuits (vehicle and/or foot); 
+b. Severe weather warnings or reports of imminent severe weather; 
+c. Vehicle crashes (with injuries or type unknown); 
+d. Robberies in progress or that recently occurred; 
+e. Hostage situations or abductions, etc. 
+2. Each regional MA-1 shall be monitored and utilized by the respective dispatch center. 
+3. Regional or multi-jurisdictional pursuits within an ISP district are to utilize this channel. 
+ 
+4. “Point to Point” must be utilized in ISP districts where not every agency utilizes the IPSC 
+System. 
+ 
+ Regional MA-2 & MA-3 are for extended mutual aid details. 
+ 
+D. Statewide (SW) MA Call or SW-10 shall be used for statewide related dispatches, incidents, 
+or by agencies from outside the regional area and shall be monitored by each ISP district. ISP 
+shall utilize SW MA-1 when a pursuit travels near or into another district’s area. 
+ 
+E. The NPSPAC System has five (5) talkgroups that shall be utilized for mutual aid situations. 
+All ISP dispatch centers shall monitor the NPS CALL and when requested shall activate the 
+repeater. 
+ 
+F. The NPSPAC or NPS (national) 800MHz frequencies shall be utilized for communications 
+between different radio systems (e.g. Hoosier SAFE-T and the Ohio MARCS system). 
+ 
+G. Memorandums of Understanding (MOUs). 
+ 
+1. Agencies may establish written agreements (Memorandums of Understanding-MOUs) with 
+the Department to monitor and transmit on local talkgroups. All extended communications, 
+emergency response and calls for assistance shall be referred to and conducted on the MA-TG. 
+ 
+2. MOUs shall be signed by the appropriate agency head and the appropriate ISP commander. 
+ 
+3. ISP radios shall be programmed as authorized by the CJDD Communication Commander. 
+5  
+VI. REGIONAL DISPATCH CENTER (RDC) – Duties, Responsibilities, and Procedures 
+ 
+ 
+A. Definitions: 
+ 
+1. Computer Aided Dispatch (CAD) – A voice and text communications system aided by 
+computer technology with the ability to use GPS locators (for calls and in-car tracking), call 
+history data, and communication with various databases to aid in the response to calls for service 
+by Department personnel. 
+ 
+2. RDC Dispatcher – A civilian employee whose primary responsibility is to maintain 
+communication between the dispatch center and the field units. 
+ 
+3. District Duty Officer (DDO) – An officer assigned command of a district during a shift in the 
+absence of and with the authority of the district commander. 
+ 
+4. Regional Duty Officer (RDO) – Officers assigned to oversee the operations of an RDC during 
+a shift and serve as the duty officer for the district where the RDC is located. 
+ 
+5. Regional Dispatch Center (RDC) – A regional location coordinating dispatch operations for a 
+designated area of the state. 
+ 
+6. Regional Dispatch Center Manager – A civilian who oversees RDC operations and supervises 
+civilian communications personnel assigned to the specific RDC. 
+ 
+7. Regional Dispatch Center Shift Supervisor – A civilian who oversees the operations of the 
+RDC during each shift. 
+ 
+B. Responsibilities relating to the RDC. 
+ 
+1. RDC personnel shall ensure all emergency and non-emergency calls for service are handled 
+properly and maintain operations support for enforcement personnel within the regional area of 
+coverage. 
+ 
+2. Regional Duty Officers (RDO) shall: 
+ 
+a. Oversee the operations of the RDC; 
+ 
+b. Take initial command of any detail occurring within the RDC’s area of responsibility. Details 
+may be reassigned to the district at the discretion of the RDO or at the request of the applicable 
+district’s command staff. 
+ 
+c. Coordinate with the respective district duty officers (DDO) district command personnel by: 
+ 
+(1) Ensuring all DDOs are informed of activities and details within their respective districts, and 
+6  
+(2) By assigning the DDOs details to oversee within their district and ensure they inform the 
+RDC of the outcome of the detail with proper documentation, 
+ 
+d. Serve as the DDO for the district where the RDC is located; 
+ 
+e. Be responsible (during non-business hours) for all walk-in calls for service; 
+ 
+f. Monitor all dispatch TGs within the RDC’s region; and 
+ 
+g. Shall be supervised by the commander of the district where the RDC is located or by a 
+designee of the district commander. 
+ 
+3. District Duty Officers (DDO) shall: 
+ 
+a. Monitor all dispatch TGs within the district (on portable or otherwise) and the CAD on a 
+continual basis to maintain operational awareness; 
+ 
+b. Take command of any details assigned by the RDO until the detail is concluded. The DDO 
+shall input information related to assigned details directly into the CAD and ensure the RDC and 
+RDO are kept up-to-date on the status of any assigned details; 
+ 
+c. Answer phone calls, handle all routine calls for information and walk-in calls for service. 
+Typically, only emergency calls and calls for service requiring an officer to be dispatched should 
+be forwarded to the RDC; 
+ 
+d. Ensure the RDC is provided a current copy of the district schedule for the calendar day and 
+notified immediately of any changes (in shift schedules, sick time, PL time requests, etc.); and 
+ 
+e. Provide security for the non-RDC facilities. 
+ 
+4. District command personnel shall: 
+ 
+a. During normal business hours, maintain operational awareness of the district and liaison with 
+both the DDO and RDO as needed; and 
+ 
+b. Command personnel may assume direct control over any detail within the district after 
+conferring with the RDO. 
+ 
+VII. CALLS FOR SERVICE (CFS) 
+ 
+A. Each DDO is responsible for answering all incoming telephone calls to their district. Calls 
+shall automatically forward to the appropriate RDC after seven (7) rings when the DDO is 
+unable to respond; 
+ 
+B. All emergency calls shall be “conference called” to the RDC; 
+7  
+C. Details and/or assignments should be entered by the entity receiving the call (e.g. the RDC or 
+the DDO). If an assignment is entered by the DDO, the RDC shall be made aware of the entry 
+and the need for any required response. 
+ 
+1. RDC dispatchers will assign details to field personnel. The RDO shall be consulted should 
+any issues or questions arise concerning a detail or necessary personnel to respond. 
+ 
+2. Once a detail has been assigned, the DDO of the district where the detail is located shall 
+assume command responsibilities until the detail is completed. 
+ 
+3. The DDO is responsible to ensure the RDC is provided real time information on assigned 
+details in order to document and close them out. 
+ 
+D. If a call for service is forwarded to another agency (police or civilian), all information above 
+shall be entered into the CAD system with a notation indicating why the call for service was 
+forwarded to another agency when it was forwarded. 
+ 
+E. Obtaining Relevant Information. 
+ 
+All information relating to emergency calls or calls for service, shall be properly entered into the 
+required fields of the CAD. 
+ 
+F. NCIC/IDACS Hit Confirmation. 
+ 
+1. The RDC receiving a Hit (a want on a person or stolen property) or Request for Hit 
+Confirmation is responsible for properly responding to it within the NCIC/IDACS guidelines and 
+timelines; 
+ 
+2. If the Hit originated from an ISP district the RDC dispatcher shall contact the originating 
+district and request confirmation from the DDO. The DDO shall then: 
+ 
+a. Pull the applicable case and verify the status of the Hit; and 
+ 
+b. Then notify the RDC by email, to include the DDO’s PE#, and the date and time the Hit was 
+verified. The RDC receiving the email shall forward it to the RDC shift supervisor and “cc” the 
+RDC Manager, the RDO and the applicable district investigative commander (DIC) with the 
+status of the Hit. 
+ 
+c. The RDC IDACS Coordinator shall contact each applicable DIC regarding the status of all 
+validations of entries. All official communication shall be handled by email. 
+ 
+VIII. RADIO BROADCASTS (ATTEMPT TO LOCATE (ATL) or INVESTIGATE FOR): 
+ 
+A. Attempt to Locate (ATL) messages are for non-criminal activity; example, missing person, 
+separation of parties, check for well-being, etc. Information regarding ATL messages should be 
+dispatched to field and shall include (if applicable): 
+8  
+ 
+1. A description of vehicle (color, year, make, body style) and license number; 
+ 
+2. Route of travel, time and location of departure and destination; and 
+ 
+3. The exact nature and reason for the requested attempt to locate (ATL). 
+ 
+B. The appropriate CAD record shall be updated if the involved party is located to include: 
+ 
+1. The name of person to be contacted and the necessary message; and 
+ 
+2. The name and telephone number of the reporting party. 
+ 
+C. Investigate messages are for criminal or traffic offenses; example, homicide, failure to pay, 
+speeding, possible intoxicated or fatigued drivers etc. 
+ 
+IX. OVERTIME REQUESTS (Field Personnel) 
+ 
+1. The DDO shall receive all requests for unscheduled overtime from individual officers within 
+their district and shall notify the RDC and the applicable district commander, by email, of 
+tentative approval or denial of the request for overtime. 
+ 
+2. The RDC dispatcher shall note in the CAD record the reason for the overtime and who 
+tentatively approved or denied it. 
+ 
+3. All final decisions on the granting or denial of overtime shall be made by the affected 
+employee’s district commander, as outlined in HMR-008 Attendance Reporting and Overtime 
+Pay. The district commander shall ensure the CAD is updated to reflect the final determination 
+related to the overtime request. 
+ 
+X.  TELEPHONE PROTOCOL (land line or microwave) 
+ 
+A. When a Department employee answers a telephone at any Indiana State Police facility, the 
+proper greeting shall indicate to the caller that they have reached a state police facility and 
+identifies whether the employee is an officer or a civilian. The greeting will include the 
+employee’s name and a reference to the specific location answering, e.g. District 33, or 
+Bloomington District, Field Support Services, etc. Officer’s shall provide their rank and last 
+name, while civilians may refer to their title or use either their first or last name. 
+ 
+B. Certain personnel, divisions and sections may be exempted from the protocol as outlined in 
+section A (above) due to confidentiality requirements, e.g. undercover officers, DES, etc. 
+ 
+XI. SMART RADIO SYSTEM (Satellite Mutual Aid Radio TG) 
+A. The SMART Radio system shall be: 
+1. Coordinated with the Indiana Department of Homeland Security; 
+9  
+2. Issued to each area commander and the Assistant Chief of Staff (AC/S) Operations; and 
+3. Shall be properly charged, maintained and tested monthly: 
+ 
+a. The AC/S Communications and Information Systems (CIS) will ensure a monthly email 
+reminder is sent to all the personnel assigned a SMART radio; regarding, the required monthly 
+test. 
+b. All personnel shall send a confirmation email reply to CIS when the test has been completed. 
+B. CIS shall be responsible for the assignment, maintenance and logistics of the SMART radio 
+system. 
+C. SMART radios (due to their size) may be stored at a commander’s home district. 
+D. This procedure is to be used in conjunction with all relevant Department regulations, rules, 
+policies and procedures.

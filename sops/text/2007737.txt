@@ -1,0 +1,485 @@
+1  
+ 
+ 
+STANDARD OPERATING PROCEDURE 
+State Form 39870 ( R/ S- 06) 
+Reference Number 
+ENF-010 
+Subject 
+Law Enforcement Recording Devices (Body and Dash Cams) 
+Special Instructions 
+Replaces ENF-010 dated November 6, 2024 
+Effective Date 
+October 29, 2025 
+ 
+I. PURPOSE 
+ 
+Establish guidelines for the use of audio, visual, or audiovisual law enforcement recording devices 
+(LERD) and the storage, release, and retention of law enforcement recordings by Department 
+personnel.         
+ 
+II. POLICY 
+ 
+The Department utilizes technology that falls under the definition of Law Enforcement Recording 
+under Ind. Code 5-14-3-2(k). Officers equipped with devices meeting this definition shall follow 
+the procedures outlined herein for proper use, storage, release, and retention of law enforcement 
+recordings. Officers shall not utilize any law enforcement recording devices not issued by ISP. This 
+policy does not govern the use of surreptitious recording devices used in undercover operations or 
+recording devices other than LERDs. 
+ 
+III. DEFINITIONS 
+ 
+A. LAW ENFORCEMENT ACTIVITY – means a traffic stop, a pedestrian stop, an arrest, a 
+search, an investigation, a pursuit, crowd control, traffic control, or any other instance in which an 
+officer is enforcing the law. The term does not include administrative activity such as the 
+completion of paperwork. See Ind. Code 5-14-3-2(j). 
+ 
+*NOTE – Crowd control does not include traffic direction. Crowd control should only be recorded 
+if ordered by a Commander, enforcement activity is about to be taken, or if enforcement activity is 
+being taken. This shall be addressed in any operation plan, if applicable, prior to a scheduled event. 
+ 
+B. LAW ENFORCEMENT RECORDING (LER) - means an audio, visual, or audiovisual 
+recording of a law enforcement activity captured by a camera or other device that is provided to or 
+used by an officer in the scope of their duties and designed to be worn by the officer or attached to 
+their vehicle or transportation. See Ind. Code 5-14-3- 2(k). 
+ 
+C. LAW ENFORCEMENT RECORDING DEVICE (LERD) – a camera or other device that is 
+provided to or used by an officer in the scope of their duties and designed to be worn by the officer 
+or attached to their vehicle. This term encompasses body worn cameras and fleet cameras. 
+ 
+D. LAW ENFORCEMENT RECORDING SYSTEM – includes a LERD as well as all associated 
+equipment used to capture audio/video interactions between law enforcement and the community. 
+This includes, but is not limited to; automated sensors, cloud storage, mounting clips/devices and 
+evidence management software. 
+ 
+ 
+ 
+
+2  
+E. OFFICERS – any employee of the department that has law enforcement powers; to include 
+troopers, capitol police officers, and motor carrier inspectors. 
+ 
+IV. PROCEDURE 
+ 
+A. Configuration and Functionality Issues 
+ 
+1. The Criminal Justice Data Division (CJDD), through the Law Enforcement Recording Device 
+Administrator, shall be responsible for setting administrator configuration standards for all 
+Department LERDs. 
+ 
+2. Employees are prohibited from changing or attempting to change the administrator configuration 
+standards without express direction of the Law Enforcement Recording Device Administrator. 
+Officers may configure individual user settings. 
+ 
+3. Officers shall ensure that any LERD that requires charging is charged prior to the beginning of a 
+shift and should periodically charge any LERD during their shift when not in use. 
+ 
+4. Officers shall check the functionality of their LERD systems prior to beginning a shift. 
+ 
+5. Officers shall report, as soon as identified, any technical or functionality issues of law 
+enforcement recording systems as follows: 
+ 
+a. An immediate verbal notification to the regional dispatch center; 
+b. A written notification to their immediate supervisor; and 
+c. A written notification to the Law Enforcement Recording Device Administrator 
+ 
+6.  Following notifications of issues, officers shall continue working their scheduled shift 
+ 
+7.  Officers shall dock their body worn camera (BWC) at a minimum once every ten (10) calendar 
+days to receive system updates. If an Officer does not utilize a dock, the BWC shall be placed into 
+standalone mode once every ten (10) calendar days to receive system updates. 
+ 
+B. Activation and Deactivation for field enforcement personnel: 
+ 
+1.  Officers shall not manually power off their fleet cameras (dash camera and interior rear-facing 
+camera) at any time while operating their Department commission, regardless of their duty status.  
+Officers may power off fleet cameras when the commission is parked for an extended period or 
+while the vehicle is parked during a Department training.  Officers shall ensure that their fleet 
+cameras are powered on prior to operating their commission, on or off-duty. 
+ 
+2. Officers shall not alter or move their fleet cameras (dash camera and interior rear-facing camera) 
+from the original installation location (to include turning the camera angle) to alter the field of 
+view. 
+ 
+3. LERDs shall not be utilized for non-department employment positions. 
+ 
+ 
+3  
+ 
+4. Sleep mode for Body Worn Cameras*: 
+ 
+a.  Officers shall not utilize sleep mode while on duty except for the following situations to avoid 
+accidental recordings: 
+ 
+(i)  Training events 
+(ii)  Inside ISP facilities 
+(iii)  Inside facilities that prohibit video recording such as: hospitals, prosecutors office, courts, 
+jails. 
+(iv) Inside of the officer’s personal residence 
+(v) While using the restroom.   
+ 
+b.  Officers shall immediately disengage sleep mode following conclusion of the above events. 
+ 
+c.  Manual activation from sleep mode shall not be utilized as a matter of routine. 
+ 
+*NOTE – When a BWC is in sleep mode, automatic triggers are deactivated and cannot begin a 
+recording.  Additionally, manual activation from sleep mode prevents the 30 second pre-event 
+buffer and recording function. 
+ 
+5. CJDD will establish automatic activation triggers for all LERDs. 
+ 
+6. If not already activated due to a trigger, officers shall activate a LERD as follows: 
+ 
+a. Dash camera: 
+(i) When responding to a call for service; 
+(ii) When engaging in a law enforcement activity; or 
+(iii) When engaging with the public in a non-enforcement activity such as a stranded motorist. 
+ 
+b. Body camera: 
+(i) Upon exiting their commission at the scene of a call for service; 
+(ii) When engaging in law enforcement activity; or 
+(iii) When engaging with the public in a non-enforcement activity such as a stranded motorist. 
+ 
+c. Rear facing interior camera: 
+(i)While transporting a prisoner; 
+(ii) While on-duty and transporting a member of the public (except for ride along); 
+(iii) Conducting an interview in their commission; or 
+(iv) While on-duty and allowing any individual to sit in their commission. 
+ 
+7.  During a LER, officers shall not mute their microphones or otherwise stop a recording to prevent 
+audio when engaging with a member of the public. Officers may mute their microphones while 
+speaking with other members of law enforcement, including coroners or prosecutors, to make a 
+phone call, or other times when not engaging with a member of the public. Microphones shall be 
+unmuted prior to engaging with any member of the public. 
+ 
+ 
+4  
+ 
+8. Officers shall deactivate the recording only at the conclusion of the event. The conclusion of an 
+event occurs when: 
+ 
+a. Dash cameras: 
+(i) The officer clears the scene and marks in service; or 
+(ii) Transportation and/or transfer of custody is completed; 
+ 
+b. Body Cameras: 
+(i) All interaction with the public has concluded; or 
+(ii) The employee reasonably believes further recording will not capture law enforcement activity. 
+ 
+c. Rear facing interior camera: 
+(i) When the individual(s) that the recording was activated for exits the vehicle. Such as, when an 
+interview has concluded and the individual exits or prisoner is removed from the vehicle to jail. 
+ 
+d. To further an investigation: 
+(i) During a consensual encounter, a member of the public requests the recording be deactivated 
+and will not cooperate without stopping the recording; 
+(ii) The officer(s) is on private property and requested by the property owner to deactivate the 
+recording, but only if the officer does not have a legal right to be there. 
+(iii) However, prior to deactivating the recording, the request by the citizen must be made on 
+camera. 
+(iv) Following deactivation, if an interaction becomes contentious or confrontational, the officer 
+will resume the video recording. 
+ 
+e. Officers shall deactivate a LERD prior to entering a secure crime scene. The responsibility for 
+videoing and documenting a crime scene is the responsibility of a Crime Scene Investigator (CSI). 
+ 
+f. Officers shall deactivate a LERD when entering a facility that prohibits recording by rule or 
+policy, such as a medical facility, jail/prison, courthouse, etc. 
+ 
+g. If an officer is involved in a police action resulting in serious bodily injury or death, upon 
+providing a voluntary public safety statement or declining to provide a public safety statement to 
+the first responding officer, and at the direction of the first responding officer, the LERD shall be 
+deactivated. 
+ 
+9. Officers shall immediately deactivate a recording that has occurred accidentally and does not 
+depict any law enforcement activity. 
+ 
+10. Field enforcement officers assisting in SWAT details, such as permitter security, shall: 
+ 
+a. Activate their LERDS: 
+(i) At the direction of the scene commander; 
+(ii) Prior to any enforcement action; 
+(iii) When safe and practical to do so, prior to engaging the target subject*; or 
+(iv) Prior to any engagement with members of the public. 
+ 
+5  
+*NOTE – Hostage Crisis Negotiators (HCN) shall not utilize LERDs during their assignment. 
+ 
+b. Deactivate their LERDs: 
+(i) If automatic activation has triggered during transport, upon arrival to the scene unless the 
+assignment is engaging with the public or otherwise directed by a commander; 
+(ii) At the direction of the scene commander; 
+(iii) Upon conclusion of engagement with the subject; 
+(iv) If the officer used force that resulted in serious bodily injury or death, upon giving or declining 
+to give a public safety statement and at the direction of the officer taking the statement; or 
+(v) Upon marking in service or clearing the scene when all law enforcement activity is completed 
+regarding the incident. 
+ 
+C. Activation and Deactivation for SWAT Officers: 
+ 
+1. SWAT Officers shall follow the activation and deactivation procedures outlined under IV.B. 
+when engaging in law enforcement activity in a non-SWAT capacity, such as conducting a traffic 
+stop. 
+ 
+2. Specialized SWAT Vehicles: The SWAT officer operating the specialized vehicle shall be 
+responsible for activating and deactivating any equipped, if any, LERD. Activation shall occur 
+immediately prior to arrival on scene. Deactivation shall occur at the direction of the scene 
+commander, upon conclusion of the SWAT activity, or if the LERD is not facing the scene and 
+unlikely to capture footage of evidentiary value. 
+ 
+3. Warrant Service: SWAT officers assigned to a warrant service shall activate their LERDs upon 
+arrival at the location of the warrant service. SWAT officers shall deactivate their cameras at the 
+direction of the scene commander and upon completion of the warrant service. 
+ 
+4. SWAT officers may mute their microphones during a warrant service only to discuss tactics or 
+investigatory information and must unmute their microphones prior to engaging with any member 
+of the public, including the suspect(s). These standards shall be reviewed as part of any operational 
+plan (OPS) or briefing prior to any warrant service. 
+ 
+5. Barricades/Hostage Standoffs*: SWAT officers responding to a barricaded subject or hostage 
+standoff shall: 
+ 
+a. Activate their LERDs: 
+(i) At the direction of the scene commander; 
+(ii) Prior to any breach or enforcement action by the involved SWAT officer; or 
+(iii) When safe and practical to do so, prior to engaging the target subject. 
+ 
+b. Deactivate their LERDs: 
+(i) At the direction of the scene commander; 
+(ii) Upon conclusion of engagement with the subject; or 
+(iii) If the officer used force that resulted in serious bodily injury or death, upon giving or declining 
+to give a public safety statement and at the direction of the officer taking the statement. 
+ 
+*NOTE: As barricades and hostage standoffs are often unpredictable in nature and lengthy, it is the 
+6  
+intent of the Department to capture recordings of our officers while actively engaging a subject or 
+taking action in an attempt to gain control. Officers should use their best efforts to engage their 
+cameras as outlined above, but only when safe and practical as these situations may quickly 
+deteriorate and become dangerous. 
+ 
+6. Other Pre-Planned SWAT Responses: SWAT officers responding to a pre-planned response 
+shall: 
+ 
+a. Activate their LERDs: 
+(i) At the direction of the scene commander; 
+(ii) Prior to any enforcement action by the involved SWAT officer; or 
+(iii) When safe and practical to do so, prior to engaging the target subject. 
+ 
+b. Deactivate their LERDs: 
+(i) At the direction of the scene commander; 
+(ii) Upon conclusion of engagement with the subject; or 
+(iii) If the officer used forced that resulted in serious bodily injury or death, upon giving or 
+declining to give a public safety statement and at the direction of the officer taking the statement. 
+ 
+D. Activation and Deactivation for Investigations Bureau (INB) Officers: 
+ 
+1. INB officers may be issued a body-worn camera (BWC) at the direction of the Investigations 
+Bureau Commander and with the approval of the Superintendent.   
+ 
+2. INB officers shall wear and activate their BWC while executing a search warrant, for a pre-
+planned arrest, or attempting to rescue an undercover officer or confidential informant, as long as it 
+is safe and practical to do so. However, the safety of the officers and the public should be the top 
+priority, and the use of BWCs should not compromise this safety. 
+ 
+3. BWCs may be deactivated once the scene is secure, unless engaging with any member of the 
+public, including the suspect(s).   
+ 
+4. INB officers shall designate an individual officer to document the scene and gather information 
+and evidence. 
+ 
+5. INB officers may mute their microphones during a warrant service only to discuss tactics or 
+investigatory information and must unmute their microphones prior to engaging with any member 
+of the public, including suspect(s). These standards shall be reviewed as part of any OPS briefing 
+prior to any warrant service. 
+ 
+6.  Task Force Officers: 
+ 
+a. INB Officers assigned to a task force shall only utilize one BWC. 
+ 
+b.  If provided, INB officers shall utilize the task force issued BWC and operate them in accordance 
+with the appropriate federal agency/task force policy. 
+ 
+c. If a BWC is not provided by the task force, INB officers shall utilize a department issued, if 
+7  
+applicable, BWC in accordance with this policy.   
+d. INB officers assigned to a task force may only utilize their department issued, if applicable, 
+BWC in the State of Indiana.  
+ 
+E. Transfer/Upload 
+ 
+1. Officer(s) shall label the video with the corresponding CAD number and select all applicable 
+categories. Only one CAD should be used for an incident/investigation.  If additional LERs are 
+taken on a later date, such as during investigatory follow-up, they shall be labeled under the original 
+CAD number.   
+ 
+2. Uploads from LERDs will occur automatically, once the appropriate metadata (CAD and 
+category) has been entered, when connected to the cloud-based storage system. 
+ 
+3. Upload of LERs shall be completed at the conclusion of the shift or immediately at the beginning 
+of the next shift. 
+ 
+4. Any issues with a LER not automatically uploading shall be immediately reported in writing to 
+the Law Enforcement Recording Device Administrator and the officer’s immediate supervisor. 
+ 
+5. Officers must review weekly their LERs for uncategorized recordings and update any incorrect 
+or missing information. 
+ 
+F. Review and Reporting 
+ 
+1. Officers should review their own LER prior to the completion of any required report. 
+ 
+2. Officers shall review their LER prior to testifying in court for a criminal case. 
+ 
+3. When an officer has been involved in a police action that results in serious bodily injury or death, 
+they may elect to view any LER, in which they are depicted in, at least two times. Upon request, 
+this may occur prior to a formal interview. This is in accordance with Ind. Code 5-14-3-5.1. 
+ 
+4. Officers will document the existence of any LER in all incident reports and ECWS citations by 
+stating, “This incident was recorded on body cam and/or dash cam” at the 
+beginning of their narrative, probable cause, and/or UTT comment sections. If an Officer is 
+equipped with a LERD that is not functioning, they shall document in the incident report and 
+ECWS that their LERD was not functioning at the time of the incident. 
+ 
+5. Sergeants shall have access to their squads LERs and review video of each of their subordinates 
+randomly on a monthly basis. 
+ 
+6. Sergeants shall weekly review LERs for those that lack an ID number or category for their squad 
+members and direct the officer to label and/or categorize the evidence immediately. 
+ 
+7. Lieutenants shall weekly review LERs for those that lack an ID number or category for sergeants 
+under their supervision and direct the sergeant to label and/or categorize the evidence immediately. 
+ 
+8  
+8. District First Sergeants and Lieutenants shall have access to all district enforcement personnel’s 
+LERs. District Lieutenants shall review LERs from each Sergeant on a monthly basis. District First 
+Sergeants and Lieutenants may review other LERs of enforcement personnel assigned to their 
+command at their discretion if it will further their official duties. 
+ 
+9. Enforcement personnel will have full access to all Department LERs, but may only access those 
+necessary to perform their official duties. 
+ 
+10. Investigative personnel will have full access to all Department LERs, but may only access those 
+necessary to perform their official duties. 
+ 
+11. The Department CJDD, Internal Investigations Section, and Legal Office will have full access 
+to all Department LERs, but staff may only access those necessary to perform their official duties. 
+ 
+12. The Department’s Training Division will have access to videos identified as related to their 
+official duties such as those identified to be used in future training, those used in training exercises 
+for review purposes, and those related to review of police action and/or pursuit reports. 
+ 
+13. All employees shall enter notes on each audio recording, video recording, photograph, or case 
+that is accessed with the purpose of the review. For instance, review prior to court testimony, 
+review to complete case report, or supervisory review. 
+ 
+G. Release 
+ 
+1. Officers shall provide the prosecutor of jurisdiction with any and all LERs related to a criminal 
+case that they have filed. Officers shall provide the prosecutor of jurisdiction with any LERs related 
+to an infraction upon request. 
+ 
+2. When an officer has been involved in a police action that results in serious bodily injury or death, 
+the detective assigned the investigation will provide the prosecutor with all LERs related to the 
+incident. 
+ 
+3. Officers, when responding to a detail or call for service with another agency, shall share, to an 
+official email, a copy of the LER upon request of a sworn officer with an official purpose. All other 
+requests for ISP video by another agency for administrative, disciplinary, PIO or training will need 
+to be submitted in writing to the ISP Legal Office. 
+ 
+4. Members of the public that request video of an encounter shall be directed to submit their request 
+in writing to ISP APRA Portal. 
+ 
+5. A request from the public for a LER received by an officer, district, or other personnel shall be 
+forwarded to their zone counsel. 
+ 
+6. Upon receipt of a request, the Legal Office will review the request and either deny the release of 
+the video or release the video with the appropriate redaction applied as outlined in Ind. Code 5-14-3 
+et seq. and any other applicable laws. 
+ 
+ 
+9  
+ 
+H. Retention - Categories 
+ 
+1. Automatic retention will be set in the cloud-based storage system as follows: 
+ 
+(i) Traffic Stop Ticket – two (2) years 
+(ii) Traffic Stop Warning – one (1) year 
+(iii) Crash Non-Criminal – two (2) years 
+(iv) Criminal – five (5) years 
+(v) Internet Crimes Against Children (ICAC) – five (5) years 
+(vi) Undercover/Confidential Informant (2 years) 
+(vii) Other non-criminal – one (1) year 
+(viii) Accidental – thirty (30) days 
+(ix) Training – one (1) year 
+(x) ISP Recruit Academy – three (3) years 
+(xi) Disregarded – one (1) year 
+ 
+2.  Personnel shall select all applicable categories when uploading to Evidence.com.  Retention will 
+be governed by the highest category through Evidence.com. 
+ 
+3. In the event that an undercover officer or confidential informant is depicted in a LER, the officer 
+uploading the LER shall select all applicable categories including Undercover/Confidential 
+Informant. 
+ 
+4. Photographs shall be categorized as outlined in CIS-017 and not utilize the above LER 
+categories. 
+ 
+5. Audio or other non-LER recordings shall be categorized as outlined in INV-004 and not utilize 
+the above LER categories. 
+ 
+6. Retention will be extended when: 
+ 
+(i) The pending criminal action or appeal is not yet completed; or 
+(ii) A member of the public requests a video, the video must be retained for a two (2) year period. 
+ 
+7. Any LER that occurred on devices prior to the issuance of Axon devices will be stored at the 
+district through the conclusion of criminal or infraction proceeding, or a minimum of 280 days. 
+ 
+I. Other 
+ 
+1. Officers shall, upon request, notify any party whether the interaction is being recorded. 
+ 
+2. Employees shall not duplicate, copy, disseminate, edit, alter, erase, or tamper with any LER,  
+LERD, or LER System outside of the procedure outlined in this policy. 
+ 
+3. Employees shall not take screenshots, photos, snippets, or recordings of any LER outside of 
+Evidence.com without a specific need to do so and only with prior authorization of a supervisor. 
+Any copy shall be retained and documented as to why the copy was needed. 
+10  
+ 
+4. Employees shall not access or attempt to access any LER for which they do not have an official 
+purpose. 
+ 
+5. Employees shall not activate a LERD for the sole purpose of recording another employee unless 
+the other employee is aware or with the permission of the Superintendent. 
+ 
+6. Employees with access to the live stream feature shall not utilize the feature for supervisor 
+review/action. Employees shall only activate live stream when requested by the employee whose 
+camera is to be activated, in the case of a critical incident, or emergency necessitating an on-scene 
+visual. 
+ 
+7. Employees that utilize the live stream feature shall enter comments on why the stream was 
+utilized and if an employee was notified, requested it, or an emergency necessitated access. This 
+shall be completed upon launch of the feature or in case of emergency, as soon as practical 
+thereafter. 
+ 
+8. Officers shall not misuse their equipment to cause a recording other than those depicting law 
+enforcement activity. 
+ 
+9. Ind. Code 35-44.1-2-2.5 A law enforcement officer who, with the intent to commit or conceal the 
+commission of a criminal act, turns off or disables a law enforcement recording device in violation 
+of regulations or a policy adopted by the law enforcement agency that employs the officer commits 
+disabling a law enforcement recording device, a Class A misdemeanor. 
+ 
+10. LERDs should not be worn at scheduled training unless directed by training order or training 
+personnel. 
+ 
+11. LERDs shall not be worn at promotional interviews or interviews conducted during an internal 
+investigation. 
+ 
+12. LERDS shall not be worn at Department funeral services. 
+ 
+J. This procedure shall be used in conjunction with all relevant Department regulations, rules, 
+policies, and procedures.
